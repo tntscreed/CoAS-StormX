@@ -1,0 +1,125 @@
+info {
+    Generatore di tesori
+    Script creato da ALexusB 05.11.04
+}
+type_full_0 {Questa è #sMapIslName#. La mappa indica l'ubicazione segreta #sMaplocName#, dove un famoso pirata ha nascosto il proprio tesoro. 
+ L'autenticità della mappa è confermata dalle macchie di sangue che indicano che la mappa è passata per molte mani.
+}
+type_full_0_isl {}
+type_full_0_mein {}
+type_full_1 {
+ Su questa mappa #sMapIslName# pare sia indicato un tesoro #sMaplocName#. Se tale tesoro esista o no, non potrai saperlo finché non andrai a controllare di persona. 
+ La mappa è piuttosto vecchia e senza dubbio autentica. 
+}
+type_full_1_isl {}
+type_full_1_mein {}
+type_full_2 {
+ La mappa è nuova e la carta non è ancora ingiallita. Stando alle indicazioni, c'è un tesoro nascosto da qualche parte #sMaplocName#, sull'isola di #sMapIslName#. Ci sarà davvero? Beh, un controllo non può far male! 
+}
+type_full_2_isl {}
+type_full_2_mein {}
+type_part {
+ Una parte di una mappa che senza dubbio conduce a un tesoro. Scoprirne l'ubicazione è impossibile, dato che questo pezzo non contiene molte informazioni, tuttavia si spera che da qualche parte ci sia anche l'altra parte e che prima o poi finisca nelle mie mani. 
+ A quel punto, diventerà tutto chiaro! 
+}
+type_fake {
+ Questa mappa sostiene di condurre a un tesoro. Se ti va, puoi andare a controllare, ma è senza dubbio un falso. 
+ Probabilmente è meglio buttarla via. 
+}
+Antigua_Grot {nella caverna a destra della costa di Willoughby}
+Antigua_Grot_box1 {in un forziere sopra una grande roccia}
+SentJons_TownCave {nei sotterranei della città di San Giovanni}
+SentJons_TownCave_box1 {sotto le assi in un vicolo cieco}
+SentJons_TownCave_box2 {nel vicolo cieco di una miniera}
+SentJons_TownCave_box3 {presso l'ostruzione}
+Barbados_Cave {in una caverna poco lontana da Bridgetown}
+Barbados_Cave_box1 {sotto le assi in un vicolo cieco}
+Beliz_Cave {in una caverna all'uscita di Belize}
+Beliz_Cave_box1 {in una caverna, vicino a un ponte di pietra}
+Beliz_Cave_box2 {in un forziere, su una grande roccia}
+Beliz_Cave_box3 {in un forziere, accanto a una fune che pende dal soffitto}
+Beliz_Cave_2 {in una caverna accanto all'uscita di Belize}
+Beliz_Cave_2_box1 {sotto le assi in un vicolo cieco}
+Bermudes_Dungeon {nei sotterranei, sotto il cantiere dell'insediamento dei pirati}
+Bermudes_Dungeon_box1 {in un forziere, dietro una porta chiusa}
+Bermudes_Dungeon_box2 {in un forziere, dietro una porta aperta}
+Bermudes_Dungeon_box3 {in un forziere, a un vicolo cieco}
+Bermudes_Dungeon_box4 {in un forziere, dietro i barili}
+Caracas_Grot {in una caverna a sinistra dell'uscita di Caracas}
+Caracas_Grot_box1 {in un forziere sopra una grande roccia}
+Cartahena_Cave {in una caverna accanto all'uscita di Cartagena}
+Cartahena_Cave_box1 {in un forziere, sotto una torcia}
+Cartahena_Cave_box2 {in un forziere, a un vicolo cieco}
+Cartahena_Cave_box3 {in un forziere, accanto a una torcia}
+Caiman_Grot {in una caverna a destra di una spiaggia deserta}
+Caiman_Grot_box1 {in un forziere sopra una grande roccia}
+Charles_Grot {in una caverna a destra della spiaggia Pipistrello}
+Charles_Grot_box1 {in un forziere, sulla costa}
+Cuba_Grot {in una caverna a destra di Capo Camaguey}
+Cuba_Grot_box1 {in un forziere, sulla costa}
+Cumana_Cave {in una caverna a destra della costa di Carupano}
+Cumana_Cave_box1 {in una caverna, vicino a un ponte di pietra}
+Cumana_Cave_box2 {in un forziere, su una grande roccia}
+Cumana_Cave_box3 {in un forziere, accanto a una fune che pende dal soffitto}
+Curacao_Cave {in una caverna a destra della costa del nascondiglio dei contrabbandieri}
+Curacao_Cave_box1 {in un forziere, sotto una torcia}
+Curacao_Cave_box2 {in un forziere, a un vicolo cieco}
+Curacao_Cave_box3 {in un forziere, accanto a una torcia}
+Dominica_Grot {in una caverna a destra della spiaggia di Castle Brus}
+Dominica_Grot_box1 {in un forziere, sulla costa}
+Guadeloupe_Cave {in una caverna, a sinistra del faro di Guadalupa}
+Guadeloupe_Cave_box1 {in un forziere, dentro una nicchia con una torcia}
+Guadeloupe_Cave_box2 {in un forziere, dentro una nicchia con un palo}
+Guadeloupe_Cave_box3 {in un forziere, dietro le rocce presso un muro}
+Hispaniola_Cave {in una caverna, poco distante da Port-o-Prince}
+Hispaniola_Cave_box1 {in una caverna, vicino a un ponte di pietra}
+Hispaniola_Cave_box2 {in un forziere, su una grande roccia}
+Hispaniola_Cave_box3 {in un forziere, accanto a una fune che pende dal soffitto}
+Jamaica_Grot {in una caverna accanto al faro di Port Royal}
+Jamaica_Grot_box1 {in un forziere sopra una grande roccia}
+Maracaibo_Cave {in una caverna accanto all'uscita di Maracaibo}
+Maracaibo_Cave_box1 {in un forziere, sotto una torcia}
+Maracaibo_Cave_box2 {in un forziere, a un vicolo cieco}
+Maracaibo_Cave_box3 {in un forziere, accanto a una torcia}
+Marigo_Cave {in una caverna accanto all'entrata di Marigo}
+Marigo_Cave_box1 {in un forziere, sotto una torcia}
+Marigo_Cave_box2 {in un forziere, a un vicolo cieco}
+Marigo_Cave_box3 {in un forziere, accanto a una torcia}
+Panama_Cave {in una caverna a destra di costa Mosquito}
+Panama_Cave_box1 {sotto le assi in un vicolo cieco}
+Pearl_Grot {in una caverna sulla costa occidentale, tra Belize e Santa Catalina}
+Pearl_Grot_box1 {in un forziere sopra una grande roccia}
+PortoBello_Cave {in una caverna a destra dell'uscita dalla città di Portobelo}
+PortoBello_Cave_box1 {sotto le assi in un vicolo cieco}
+SanJuan_Cave {in una caverna poco lontana da San Juan}
+SanJuan_Cave_box1 {in una caverna, vicino a un ponte di pietra}
+SanJuan_Cave_box2 {in un forziere, su una grande roccia}
+SanJuan_Cave_box3 {in un forziere, accanto a una fune che pende dal soffitto}
+SantaCatalina_Cave {in una caverna a destra di Capo Perlas}
+SantaCatalina_Cave_box1 {in un forziere, sotto una torcia}
+SantaCatalina_Cave_box2 {in un forziere, a un vicolo cieco}
+SantaCatalina_Cave_box3 {in un forziere, accanto a una torcia}
+SantaCatalina_Grot {in una caverna a destra della costa di San Juan del Norte}
+SantaCatalina_Grot_box1 {in un forziere, sulla costa}
+SantaCatalina_PearlCave {in una caverna a sinistra della costa di San Juan del Norte}
+SantaCatalina_PearlCave_box1 {in una caverna, vicino a un ponte di pietra}
+SantaCatalina_PearlCave_box2 {in un forziere, su una grande roccia}
+SantaCatalina_PearlCave_box3 {in un forziere, accanto a una fune che pende dal soffitto}
+Tenotchitlan_Cave {in una caverna a nord rispetto al tempio azteco}
+Tenotchitlan_Cave_box1 {in una caverna, vicino a un ponte di pietra}
+Tenotchitlan_Cave_box2 {in un forziere, su una grande roccia}
+Tenotchitlan_Cave_box3 {in un forziere, accanto a una fune che pende dal soffitto}
+Terks_Grot {in una caverna a destra della costa settentrionale }
+Terks_Grot_box1 {in un forziere sopra una grande roccia}
+Tortuga_Grot {in una caverna di fronte alla costa dell'occhio di pesce}
+Tortuga_Grot_box1 {in un forziere, sulla costa}
+Tortuga_Cave {nei sotterranei della città di Tortuga}
+Tortuga_Cave_box1 {in un forziere, dietro una porta chiusa}
+Trinidad_Grot {in una caverna di fronte al faro di Trinidad e Tobago}
+Trinidad_Grot_box1 {in un forziere, sulla costa}
+FortFrance_Dungeon {nei sotterranei della città di Fore de France}
+FortFrance_Dungeon_box1 {in un forziere sull'altopiano}
+FortFrance_Dungeon_box2 {in un forziere, dietro la porta chiusa del piano superiore}
+FortFrance_Dungeon_box3 {in un forziere non lontano dal montacarichi}
+FortFrance_Dungeon_box4 {in un forziere, dietro la porta aperta al piano inferiore}
+FortFrance_Dungeon_box5 {sotto le casse di legno}

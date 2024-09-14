@@ -1,0 +1,16 @@
+string DLG_TEXT_BASE [14] = {
+	"Vattene da qui, non impicciarti, ci stiamo divertendo!",
+	"Vattene, amico. Fatti gli affari tuoi. Vogliamo solo divertirci un po', non c'è niente di male!",
+	"Vattene da qui, straniero! Più tardi ci sarà grata, mentre tu sarai più in forze!",
+	"No, vorrei partecipare.",
+	"Non permetterò che si verifichi un tale crimine!",
+	"Fermate questa assurdità!",
+	"Me ne vado. Mi spiace avervi interrotto.",
+	"Mi spiace avervi disturbati. Arrivederci e buona fortuna.",
+	"Ok, statemi bene.",
+	"Allora preparatevi! Va bene, ragazzi... Che ne dite se vi faccio annusare la mia spada?",
+	"Ora è il momento buono per dire le preghiere!",
+	"Cosa, vorresti partecipare? Vai via, è appena sufficiente per noi!",
+	"Ah, in questo caso non vi disturberò.",
+	"Non permetterò che accadano crimini così efferati!",
+};

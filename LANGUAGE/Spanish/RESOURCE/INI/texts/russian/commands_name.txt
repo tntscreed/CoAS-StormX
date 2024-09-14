@@ -1,0 +1,59 @@
+sea_Cancel {Cancelar}
+sea_Moor {Amarrar}
+sea_Cabin {Camarote}
+sea_SailTo {Zarpar a...}
+sea_Board {Abordar}
+sea_LandTroops {Desembarcar tropas}
+sea_Map {Mapa}
+sea_Attack {Atacar}
+sea_Abordage {Abordar}
+sea_Defend {Defender}
+sea_SailAway {Irse}
+sea_HeaveToDrift {Arriar las velas}
+sea_Reload {Cambiar}
+sea_Charge {Recargar}
+sea_Speed {Velas}
+sea_CCommand {Orden}
+sea_Ability {Habilidad}
+sea_ImmediateDeath {¡Destruid!}
+sea_InstantBoarding {Abordaje inmediato}
+sea_Speak {Hablar}
+sea_Sneak {Colarse en la ciudad}
+sea_Repair {Reparar}
+sea_Brander {Brulote}
+sea_ImmediateReload {Recargar}
+sea_LightRepair {Reparaciones ligeras}
+sea_InstantRepair {Reparaciones rápidas}
+sea_SandbankManeuver {Manejo en bancos de arena}
+sea_Turn180 {Giro rápido}
+sea_Boat {Echar bote al agua}
+sea_Cabin {Camarote}
+land_DeadBox {Registrar cadáver}
+land_TalkSelf {Hablar en voz alta}
+land_ItemsDead {Cadáver}
+land_FastReload {Ir deprisa a...}
+land_ItemsUse {Usar}
+land_DialogStart {Hablar}
+land_ItemsChange {Cambiar}
+land_TakeItem {Coger}
+land_PlaceItem {Colocar}
+land_OutDoor {Abrir}
+land_UseBox {Abrir}
+land_ActivateRush {Furia}
+land_ActivateCabine {Camarote del capitán}
+land_DeActivateCabine {Desembarcar}
+land_Look {Mirar}
+land_Exit {Mar}
+go_store {Tienda}
+go_shipyard {Astillero}
+go_tavern {Taberna}
+go_residence {Residencia}
+go_port {Puerto}
+go_loanshark {Usurero}
+go_church {Iglesia}
+go_prison {Cárcel}
+go_brothel {Burdel}
+go_usurer {Usurero}
+go_portman {Jefe de puerto}
+go_duel {Duelo}
+worldmap_sea {Salir al mar}

@@ -1,0 +1,65 @@
+CARDS_RULE {Wir spielen '21'. Die Regeln sind einfach. Der Kartenstapel enthält 36 Karte von Sechs bis Ass. Asse zählen 11, Könige 4, Damen 3, Buben 2 Punkte. Alles andere so viel wie auf der Karte zu sehen. Das Ziel besteht darin, 21 Punkte zu sammeln. \n Wir erhalten beide jeweils eine Karte und nehmen dann die, die uns fehlt. (Klicken Sie auf den Stapel.) Klicken Sie auf das Profil oben rechts, um den Zug zu beenden. Haben Sie mehr als 21 Punkte, ist das Spiel beendet. Jede Karte ist ein Einsatz. Sie können das Spiel starten, wenn Sie genug Geld für drei Einsätze haben. Um ein Spiel zu wiederholen, klicken Sie auf den Kartenstapel. Klicken Sie zum Beenden auf das Kreuz oder [Esc].}
+DICE_RULE {Lass uns Poker Joker spielen. Fünf Würfel pro Spieler, die jede Runde geworfen werden. Sie können eine beliebige Zahl von Würfeln werfen und auf jeden setzen, aber nur einmal. Das Ziel besteht darin, den höchsten Wurf zu erreichen. \n In steigender Reihenfolge: ein Paar (2), zwei Paare (2+2), Triad (3), Full (3+2), Care (4), Straße (Würfel in Reihenfolge) und Poker (5). Bei Unentschieden gewinnt der Spieler mit der höchsten Kombination. Klicken Sie auf das Glas, um die Knochen zu würfeln, klicken Sie auf die Würfel, um noch einmal zu würfeln. (Sie benötigen Geld für den Einsatz.) Klicken Sie auf das Porträt, um den Zug abzugeben (wenn Sie nicht erneut würfeln müssen).}
+Dice_1 {Ich fange an.}
+Dice_2 {Sie fangen an. Machen Sie schon, wir haben nicht ewig Zeit.}
+Dice_3 {Das Spiel beginnt.}
+Dice_4 {Machen Sie Ihren Einsatz.}
+Dice_5 {Spiel fortsetzen.}
+Dice_6 {Machen Sie Ihren Einsatz.}
+Dice_7 {Sie sind jetzt am Zug. Machen Sie schon, wir haben nicht ewig Zeit.}
+Dice_8 {Treffen Sie Ihre Wahl. Wählen Sie, was Sie wegwerfen möchten.}
+Dice_9 {Jetzt bin ich dran.}
+Dice_10 {Moment ... Ich muss noch sehen, was ich wegwerfe.}
+Dice_11 {Ich habe}
+Dice_12 {. Sie haben}
+Dice_13 {Ha! Unentschieden! Weiter geht's.}
+Dice_14 {Hey, ich habe gewonnen.}
+Dice_15 {Anscheinend haben Sie gewonnen.}
+Dice_16 {Sie sind Geschichte! Ich gewinne!}
+Dice_17 {Das reicht, ich habe genug.}
+Dice_18 {Ich bin Geschichte! Sie gewinnen!}
+Dice_19 {Das reicht, ich habe genug.}
+Dice_20 {Wem ist das Glück beim nächsten Spiel hold?}
+Dice_21 {Das reicht, ich habe genug.}
+Dice_22 {nichts}
+Dice_23 {Poker}
+Dice_24 {Straße}
+Dice_25 {Care}
+Dice_26 {Full}
+Dice_27 {Triad}
+Dice_28 {Zwei Paare}
+Dice_29 {Ein Paar}
+Dice_30 {Ich werfe einen Würfel ...}
+Dice_31 {Ich werfe diese hier ...}
+Dice_32 {Ich werfe diese hier ...}
+Dice_33 {Ich werfe jetzt nichts.}
+Cards_1 {Wie, kein Geld mehr? Armer Junge!}
+Cards_2 {Man, ich bin Geschichte! Totale Pechsträhne!}
+Cards_3 {Lassen Sie sehen!}
+Cards_4 {Hier, eine Karte für mich.}
+Cards_5 {Hier, eine Karte für Sie.}
+Cards_7 {Ihr Zug!}
+Cards_8 {Kommen Sie schon, ziehen Sie es nicht in die Länge ...}
+Cards_9 {Na los, nehmen Sie eine Karte! Halten Sie uns nicht auf!}
+Cards_10 {Hier, eine Karte für mich.}
+Cards_11 {Eine Münze abgelegt!}
+Cards_12 {Mein Zug!}
+Cards_13 {Mal sehen, was wir hier haben ...}
+Cards_14 {Man, verdammt ...}
+Cards_15 {Ha! Sie sind drüber! Ich gewinne.}
+Cards_16 {Hoppla Ich bin wohl drüber! Sie gewinnen.}
+Cards_17 {Noch einmal?}
+Cards_18 {Wem ist das Glück beim nächsten Spiel hold?}
+Cards_19 {Das reicht, ich habe genug.}
+Cards_20 {Ich habe genug. Lassen Sie sehen!}
+Cards_21 {Jetzt sind Sie dran! Ich habe genug.}
+Cards_22 {Zeigen Sie die Karten.}
+Cards_23 {Machen Sie Ihren Einsatz.}
+Cards_24 {Sie gewinnen. Sie haben}
+Cards_25 { und ich habe}
+Cards_26 {Das Glück ist auf meiner Seite. Ich habe}
+Cards_27 { und Sie haben}
+Cards_28 {. Ich gewinne!}
+Cards_29 {Noch einmal?}
+Cards_30 {Wem ist das Glück beim nächsten Spiel hold?}
+Cards_31 {Das reicht, ich habe genug.}

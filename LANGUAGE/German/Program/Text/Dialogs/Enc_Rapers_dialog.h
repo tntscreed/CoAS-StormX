@@ -1,0 +1,16 @@
+string DLG_TEXT_BASE [14] = {
+	"Verschwinden Sie von hier! Wir wollen hier unseren Spaß haben!",
+	"Verschwinde, Kerl! Mischen Sie sich nicht ein. Wir wollen nur etwas Spaß haben. Da ist nichts Schlimmes bei!",
+	"Verpissen Sie sich, Fremder! Sie wird später dankbar sein. Und Sie gesünder!",
+	"Nein, ich muss mich da einmischen.",
+	"Ich werde dieses Verbrechen nicht zulassen!",
+	"Hören Sie mit diesem Unsinn auf!",
+	"Ich gehe. Entschuldigung für die Unterbrechung.",
+	"Ich wollte nicht stören. Auf Wiedersehen und viel Glück.",
+	"Schon verstanden. Passen Sie auf sich auf!",
+	"Dann machen Sie sich auf was gefasst! In Ordnung, Jungs. Wollen wir seine Rippen mit unseren Klingen kitzeln?",
+	"Vielleicht sollten Sie jetzt Ihre Gebete aufsagen!",
+	"Was, Sie möchten rein? Verpissen Sie sich! Die ist gerade genug für uns!",
+	"Oh, in diesem Fall möchte ich Sie nicht weiter stören.",
+	"Ich werde ruchlose Verbrechen nicht zulassen!",
+};

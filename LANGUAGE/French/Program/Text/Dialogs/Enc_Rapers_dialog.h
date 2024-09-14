@@ -1,0 +1,16 @@
+string DLG_TEXT_BASE [14] = {
+	"Dégage de là ! Viens pas gâcher notre plaisir !",
+	"Casse-toi ! Te mêle pas de nos affaires. On veut juste s'amuser un peu. Y'a pas de mal à ça !",
+	"Trace ta route, étranger ! Elle nous remerciera plus tard. Et toi, tu t'en porteras mieux !",
+	"Non, je vais devoir intervenir.",
+	"Je ne vous laisserai pas commettre un tel crime !",
+	"Arrêtez ça !",
+	"Je m'en vais. Désolé pour le dérangement.",
+	"Désolé de vous avoir dérangés. Au revoir et bonne chance.",
+	"Compris. Salut !",
+	"Comme tu voudras ! Alors, les gars, on l'embroche avec nos épées ?",
+	"Tu peux faire tes prières !",
+	"Quoi, tu veux ta part ? Dégage ! Y'en a tout juste assez pour nous !",
+	"Oh, dans ce cas, je ne vous dérange pas plus.",
+	"Je ne vous laisserai pas faire une chose aussi horrible !",
+};

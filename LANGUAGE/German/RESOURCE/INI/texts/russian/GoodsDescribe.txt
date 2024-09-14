@@ -1,0 +1,192 @@
+newline {
+
+}
+Balls {Kanonenkugeln}
+Balls_descr {
+ Reguläre Munition - einfach, billig und zuverlässig. Nützlich gegen alle Ziele, für defensiven und offensiven Beschuss. Am besten für Schiffsrümpfe und die Bombardierung von Festungen geeignet. 
+ Schaden: Rumpf - #f.2DamageHull#; Segel -#f.2DamageRig#; Mannschaft -#f.2DamageCrew# 
+}
+Grapes {Kartätsche}
+Grapes_descr {
+ Kleine Metallkugeln, die in den Kanonenlauf geschüttet werden und schreckliche Verluste bei der Mannschaft anrichten. Da die Reichweite beschränkt ist, sollten Kartätschen nur auf kurze Entfernung als Vorbereitung zum Entern eingesetzt werden. 
+ Schaden: Rumpf - #f.2DamageHull#; Segel -#f.2DamageRig#; Mannschaft -#f.2DamageCrew# 
+}
+Knippels {Kettenkugel}
+Knippels_descr {
+ Kettenkugeln bestehen aus zwei Metallkugeln, die mit einer Kette oder einem Draht verbunden sind, und werden zur Beschädigung von Segeln und Takelage eingesetzt. De Kettenkugel wirbelt durch die Luft, schlingt sich um alles auf dem Weg und zerstört die Masten des Gegners. 
+ Schaden: Rumpf - #f.2DamageHull#; Segel -#f.2DamageRig#; Mannschaft -#f.2DamageCrew# 
+}
+Bombs {Sprengkugeln}
+Bombs_descr {
+ Die zerstörerischste und teuerste Munition, die es gibt, im Grunde ein mit Schwarzpulver gefüllter Eisentopf, an dem eine Lunte befestigt ist. Nach dem Abfeuern explodiert die Bombe in der Luft und regnet Schrapnell auf die Mannschaft, entzündet die Takelage und beschädigt den Rumpf mit ihrer Schockwelle. 
+ Schaden: Rumpf - #f.2DamageHull#; Segel -#f.2DamageRig#; Mannschaft -#f.2DamageCrew# 
+}
+Sailcloth {Segeltuch}
+Sailcloth_descr {
+ Dieser dicke, raue Stoff, der aus Leinen von den Inseln des Archipels hergestellt wird, kann für so ziemlich alles verwendet werden, von Hemden über Jacken bis hin zu Segeln. 
+}
+Planks {Bohlen}
+Planks_descr {
+ Holzbretter, die für die Reparatur von Schiffen notwendig sind. 
+}
+Wheat {Weizen}
+Wheat_descr {
+ Auf den fruchtbaren Böden der neuen Welt erbringt Weisen drei Ernten pro Jahr. Inzwischen ist der Handel mit Weizen für Händler ein recht gewinnträchtiges Geschäft geworden. Mehl aus dem hiesigen Weisen sorgt für die lockersten und köstlichsten Kuchen und Brötchen. 
+}
+Ebony {Ebenholz}
+Ebony_descr {
+ Ein schweres und teures Schwarzholz, der für seine Härte, Feuerbeständigkeit und seinen exotischen schwarzen Schimmer geschätzt wird. Es wird häufig zu Herstellung von Möbeln für die Reichen und Berühmten, sowie Skulpturen und Dekorationen verwendet. Dank seines Ansehens ist Ebenholz äußerst gefragt. 
+}
+Chocolate {Kakao}
+Chocolate_descr {
+ Eine der wichtigsten Entdeckungen in Nord- und Südamerika ist eine unauffällige Pflanze und die Quelle einer Süßigkeit namens Schokolade. Geschätzt für seine Süße und exotischen Geschmack wird Schokolade insbesondere von den höheren Damen bevorzugt. Der Handel mit Kakao ist auf vielen Inseln sehr beliebt. 
+}
+Sugar {Zucker}
+Sugar_descr {
+ Seit der Entdeckung des Rohrzuckers in der neuen Welt ist er einer der wichtigsten Exportartikel nach Europa geworden. Rohrzucker ist vielleicht nicht so gut wie Rübenzucker, es ist aber auf jeden Fall viel preiswerter. 
+}
+Wine {Wein}
+Wine_descr {
+ Die Kolonisten haben gelernt, Weintrauben auf den fruchtbaren Böden der neuen Welt anzubauen. Jetzt sind diese exportierten Weine sogar in Europa hoch angesehen. Sie haben zwar nicht den feinen, zarten Geschmack wie europäische Weine, besitzen aber ein angenehm kräftiges Aroma und einen vollen Körper.
+}
+Linen {Leinen}
+Linen_descr {
+ Ein in diesen Ländern gewobener Stoff, aus dem Kleidung genäht wird. 
+}
+Rum {Rum}
+Rum_descr {
+ Harter, aromatischer Rum wurde bald zum Lieblingsgetränk der Seeleute. Rumhandel ist sehr gewinnträchtig, da das Getränk leicht hergestellt werden kann und die Nachfrage niemals nachlässt. Auf langen Reisen kann Rummangel leicht zu einer Meuterei führen, während ein gefülltes Lager die Moral der Mannschaft hebt. 
+}
+Tobacco {Tabak}
+Tobacco_descr {
+ Aromatische Blätter. Seit einiger Zeit gehört die Pfeife zur ständigen Ausrüstung des ernsthaften Seemanns. Rauchen ist als entspannendes und beruhigendes Hobby weit verbreitet. Entsprechend ist Tabak zu einem normalen Gegenstand geworden. 
+}
+Coffee {Kaffee}
+Coffee_descr {
+ Aufgrund seines exotischen Geschmacks, angenehmen Aromas und schwungvollen Effekts ist Kaffee schnell zu einer weit verbreiteten Gewohnheit geworden. Trotz der schwierigen Herstellung wächst die Kaffeeproduktion jedes Jahr als Reaktion auf die Nachfrage aus dem kontinentalen Europa. 
+}
+Mahogany {Mahagoni}
+Mahogany_descr {
+ Ein sehr teures und beständiges Rotholz, das für die Herstellung teurer Möbel verwendet wird. Mahagoni wird für seine Sonderbarkeit und Schönheit geschätzt. Es verrottet nicht, es korrodiert nicht und kann nur schwer in Brand gesetzt werden. Trotz seiner Seltenheit wird es manchmal zum Bau von Schiffsrümpfen verwendet. 
+}
+Cinnamon {Zimt}
+Cinnamon_descr {
+Die getrocknete Rinde des Lorbeerbaums wird als Gewürz gehandelt. Ganze Nationen wurden auf der Suche nach ihm vom Angesicht der Erde gefegt. 
+}
+Copra {Kopra}
+Copra_descr {
+ Püriertes und getrocknetes Kokosnussfleisch. Kopra wird zur Herstellung von Kokosnussbutter verwendet, während das Nebenprodukt (so genanntes Cake) zur Fütterung von Vieh verwendet wird. 
+}
+Paprika {Paprika}
+Paprika_descr {
+ Eines süßes Gewürz, das in vielen Salaten verwendet wird. 
+}
+Fruits {Obst}
+Fruits_descr {
+ Mit ihrer Ankunft in der neuen Welt entdeckten die Europäer eine große Menge nahrhafter und köstlicher Pflanzen: Mangos, Zitronen, Avocados und so weiter. 
+}
+Ale {Ale}
+Ale_descr {
+ Ein schwach alkoholisches Getränk aus Malz und Hefe. Nach Rum und Wein das verbreitetste Getränk in der neuen Welt. 
+}
+Silk {Seide}
+Silk_descr {
+ Dünn, leicht und sehr teurer Stoff, der zuerst in China vollendet und dann über 2000 Jahre gehütet wurde. Vor nicht allzu langer Zeit entschlüsselten die Europäer das Geheimnis der Seidenproduktion und spinnen es jetzt in der neuen Welt. Dieser Stoff ist so einzigartig, dass er selbst durch die kleinsten Schlitze passt. 
+}
+Clothes {Kleidung}
+Clothes_descr {
+ Grobe Segeltuchkleidung. Nicht schön, aber aufgrund ihrer Beständigkeit recht verbreitet bei den Gemeinen in den entfernten Kolonien. 
+}
+Cotton {Baumwolle}
+Cotton_descr {
+ Rohmaterial für die Herstellung von Kleidung. Ihre Produktion erfordert ständige Arbeit und Unmengen von Arbeitern; dies ist einer der Gründe für die Verbreitung der Sklaverei.
+}
+Sandal {Sandelholz}
+Sandal_descr {
+ Eine wertvolle Holzart. Wird für die Behandlung und Produktion von Weihrauch verwendet. 
+}
+Leather {Leder}
+Leather_descr {
+ Verarbeitete Tierhäute. Wird für viele Produkte von Gürteln bis Schuhen verwendet. 
+}
+Oil {Öl}
+Oil_descr {
+ Seit den alten Griechen wurde Olivenöl verwendet, um eine Reihe von Mahlzeiten zu bereiten, da es ihnen einen angenehmen Geschmack und Aroma gab. 
+}
+Slaves {Sklaven}
+Slaves_descr {
+ Lebendfracht, die im ganzen Archipel hohe Nachfrage genießt. Besteht normalerweise aus afrikanischen Gefangenen oder gefangenen Seeleuten von feindlichen Schiffen. Der Verkauf auf dem offenen Markt kann guten Profit bringen. Sklavenarbeit ist die wichtigste Arbeitskraft in den Siedlungen der neuen Welt. 
+}
+Powder {Schießpulver}
+Powder_descr {
+ Diese Erfindung der Chinesen wird zum Abfeuern von Kanonen benötigt. Ohne Schießpulver stehen sie nur wie dicke Metallfische auf den Decks herum. Stellen Sie sicher, dass Sie den Pulvervorrat im Laderaum immer im Auge haben und das Lager regelmäßig auffrischen. 
+}
+Food {Rationen}
+Food_descr {
+Alles was Sie zur Ernährung von Mannschaft und Sklaven auf See benötigen. Unzureichende Rationen führen zu Hunger, sinkender Moral und sogar zum Tod. An jedem Tag auf See wird eine Einheit Nahrung pro 10 Seeleuten und 20 Sklaven verbraucht. 
+}
+Weapon {Waffen}
+Weapon_descr {
+ Sie brauchen Waffen, um Ihre Mannschaft zu bewaffnen, eine für jede einzelne Hand. Haben Sie nicht genügend Waffen während eines Entermanövers, steigen Ihre Verluste. Der Tod eines Seemanns führt zu Verringerung der Waffenvorräte. 
+}
+Gold {Gold}
+Gold_descr {
+ Unverarbeitetes Golderz, das in den Minen der neuen Welt gewonnen wird, aus dem Gold geschmolzen und in verschiedenste Schmuckstücke und Angebote umgearbeitet wird. Ein Schiff mit dieser Fracht zu erwischen, ist der Traum eines jeden Kapitäns. 
+}
+Silver {Silber}
+Silver_descr {
+ Unverarbeitetes Silbererz, das in den Minen der neuen Welt gewonnen wird, aus dem Gold geschmolzen und in verschiedenste Schmuckstücke und Angebote umgearbeitet wird. Die größten Silberadern verlaufen durch einen Ort namens 'Silberberg', nicht weit von Potosy. 
+}
+Brick {Ziegel}
+Brick_descr {
+ Große Blöcke aus Ton und Stein. Mit ihnen werden Stadtgebäude und Festungen gebaut. 
+}
+Medicament {Medizin}
+Medicament_descr {
+ Eine notwendige Auswahl an Heilmitteln: Flaschen, Fläschchen, Puder, Bänder, Lotionen, halt alles was ein Menschenleben retten kann. Sind sie an Bord, können die Verwundeten auf See oder im Kampf versorgt werden. 
+}
+Cannon_12 {12-Pfund-Kanonen}
+Cannon_12_descr {
+ Kleine Kanonen. Mit Schießpulver werden gusseiserne Kanonenkugeln, Bomben, Kartätschen und Kettenkugeln abgeschossen. Sie werden überall auf kleinen Schiffen eingesetzt. 
+ Reichweite - #dFireRange#; Schaden - x#f.1DamageMultiply#; Nachladen - #dReloadTime# s 
+}
+Cannon_16 {16-Pfund-Kanonen}
+Cannon_16_descr {
+ Mittlere Kanonen. 
+ Reichweite - #dFireRange#; Schaden - x#f.1DamageMultiply#; Nachladen - #dReloadTime# s 
+}
+Cannon_24 {24-Pfund-Kanonen}
+Cannon_24_descr {
+ Gewichtige Kanonen für gewichtige Schlachten. 
+ Reichweite - #dFireRange#; Schaden - x#f.1DamageMultiply#; Nachladen - #dReloadTime# s 
+}
+Cannon_32 {32-Pfund-Kanonen}
+Cannon_32_descr {
+ Riesige Waffen, die massiven Schaden austeilen Mit ihnen werden Militärschiffe versenkt und Strukturen bombardiert. Sehr schwer einzusetzen. 
+ Reichweite - #dFireRange#; Schaden - x#f.1DamageMultiply#; Nachladen - #dReloadTime# s 
+}
+Cannon_42 {42-Pfund-Kanonen}
+Cannon_42_descr {
+ Sind eigentlich für Festungen vorgesehen, können aber auf sehr großen Schiffen befestigt werden. 
+ Reichweite - #dFireRange#; Schaden - x#f.1DamageMultiply#; Nachladen - #dReloadTime# s 
+}
+Culverine_12 {12-Pfund-Kalverinen}
+Culverine_12_descr {
+ Kleinen Kanonen leichter Bauart mit relativ langen Rohren. Sie werden überall auf kleinen Schiffen eingesetzt. 
+ Reichweite - #dFireRange#; Schaden - x#f.1DamageMultiply#; Nachladen - #dReloadTime# s 
+}
+Culverine_16 {16-Pfund-Kalverinen}
+Culverine_16_descr {
+ Mittlere Waffen mit größerer Reichweite. 
+ Reichweite - #dFireRange#; Schaden - x#f.1DamageMultiply#; Nachladen - #dReloadTime# s 
+}
+Culverine_24 {24-Pfund-Kalverinen}
+Culverine_24_descr {
+ Gewichtige Waffen für gewichtige Schlachten. Die Länge de Rohre erschwert das Nachladen, ist aber vorteilhaft für die effektive Reichweite. 
+ Reichweite - #dFireRange#; Schaden - x#f.1DamageMultiply#; Nachladen - #dReloadTime# s 
+}
+Culverine_32 {32-Pfund-Kalverinen}
+Culverine_32_descr {
+ Eine riesige Waffe, die größeren Schaden über größere Entfernungen anrichtet. Wer zuerst schießt, gewinnt. 
+ Reichweite - #dFireRange#; Schaden - x#f.1DamageMultiply#; Nachladen - #dReloadTime# s 
+}

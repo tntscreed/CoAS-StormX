@@ -1,0 +1,15 @@
+string DLG_TEXT_TV [13] = {
+	"Je connais toutes les rumeurs de la cité ",
+	". Qu'est-ce que vous voulez savoir ?",
+	"On vient juste d'en parler. Vous avez la mémoire courte...",
+	"C'est la troisième fois aujourd'hui que vous me posez des questions...",
+	"On croirait entendre un perroquet...",
+	"Vous savez, ",
+	", la prochaine fois peut-être.",
+	"En effet, j'avais oublié...",
+	"Un, deux... Ouais, c'est la troisième fois !",
+	"Oui, eh bien...",
+	"Hé, tavernier, je cherche Steve Linney. Est-ce qu'il est venu ici ?",
+	"Il avait l'habitude de venir ici tout le temps avec son ami. Je ne sais pas où il est allé. Son ami vient juste de quitter l'île à bord d'un lougre. Si vous vous dépêchez, vous pouvez le rattraper et lui demander où est allé Linney.",
+	"Merci !",
+};

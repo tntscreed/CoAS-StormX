@@ -1,0 +1,192 @@
+newline {
+
+}
+Balls {Balas de cañón}
+Balls_descr {
+ Munición común: sencilla, barata y fiable. Sirve para disparar a cualquier objetivo, tanto en ataque como en defensa. Ideal para disparar a los cascos de los barcos o bombardear fortines. 
+ Daño: casco: #f.2DamageHull#, velas: #f.2DamageRig#, tripulación: #f.2DamageCrew# 
+}
+Grapes {Metralla}
+Grapes_descr {
+ Pequeñas bolas de metal que se insertan en el tubo del cañón para causar un gran número de bajas. Como la metralla no tiene buen alcance, se recomienda usarla de cerca antes de un abordaje. 
+ Daño: casco: #f.2DamageHull#, velas: #f.2DamageRig#, tripulación: #f.2DamageCrew# 
+}
+Knippels {Balas encadenadas}
+Knippels_descr {
+ Compuestas de dos bolas de metal unidas por una cadena o cable, las balas encadenadas se crearon para romper las velas y aparejos del enemigo. Giran por el aire y se envuelven alrededor de lo que alcancen, destruyendo así los mástiles del enemigo. 
+ Daño: casco: #f.2DamageHull#, velas: #f.2DamageRig#, tripulación: #f.2DamageCrew# 
+}
+Bombs {Bombas}
+Bombs_descr {
+ Se trata de la munición más cara y destructiva que existe: un recipiente de metal lleno de pólvora con una mecha. Al encenderla, la bomba explota en el aire, cubriendo de metralla a la tripulación, prendiendo fuego a los aparejos y destrozando el casco con su onda explosiva. 
+ Daño: casco: #f.2DamageHull#, velas: #f.2DamageRig#, tripulación: #f.2DamageCrew# 
+}
+Sailcloth {Lona}
+Sailcloth_descr {
+ Esta tela de lino, fabricada en el archipiélago, es fuerte y resistente y sirve para hacer cualquier cosa, desde camisas y camisolas hasta velas. 
+}
+Planks {Tablones}
+Planks_descr {
+ Tablas de madera utilizadas para reparar barcos. 
+}
+Wheat {Trigo}
+Wheat_descr {
+ En las fértiles tierras del Nuevo Mundo, el trigo se cosecha tres veces al año. Actualmente, el comercio del trigo se ha vuelto muy rentable. La harina que se obtiene del trigo cultivado aquí sirve para cocinar los pasteles y bollos más ricos y esponjosos. 
+}
+Ebony {Ébano}
+Ebony_descr {
+ Madera negra de gran peso y elevado precio, apreciada por su dureza, su resistencia al fuego y su brillo negro y exótico. Los ricos y famosos la utilizan para construir muebles y también se usa en esculturas y elementos decorativos. Gracias a su reputación, las ventas se han disparado. 
+}
+Chocolate {Cacao}
+Chocolate_descr {
+ Esta humilde planta, de la que se extrae el dulce conocido como chocolate, es uno de los descubrimientos más importantes de las Américas. Apreciado por su sabor dulce y exótico, el chocolate disfruta de especial popularidad entre las señoritas adineradas. El comercio de cacao se ha extendido en muchas islas. 
+}
+Sugar {Azúcar}
+Sugar_descr {
+ Desde que se descubrió el azúcar de caña en el Nuevo Mundo, se ha convertido en uno de los principales productos de exportación a Europa. Aunque no sea tan bueno como el azúcar de remolacha, es mucho más barato. 
+}
+Wine {Vino}
+Wine_descr {
+ Los colonos han aprendido a cultivar uvas en las fértiles tierras del Nuevo Mundo y los vinos que exportan se han vuelto populares hasta en Europa. Aunque carecen de los suaves y delicados sabores de los vinos europeos, tienen mucho cuerpo y un aroma fuerte y agradable.
+}
+Linen {Lino}
+Linen_descr {
+ Tela fabricada en estas tierras a partir de la cual se hace ropa. 
+}
+Rum {Ron}
+Rum_descr {
+ El ron fuerte y aromático pronto se convirtió en la bebida por excelencia de los marineros. El comercio ilegal de ron es muy rentable, porque la bebida es fácil de producir y la demanda nunca decae. En viajes largos, se puede producir un motín si no hay suficiente ron, mientras que tener de sobras aumenta la moral de la tripulación. 
+}
+Tobacco {Tabaco}
+Tobacco_descr {
+ Hojas aromáticas. Desde hace tiempo, la pipa es el accesorio indispensable de cualquier marinero que se precie. Se ha extendido el uso del tabaco para calmarse y relajarse; de hecho, se ha vuelto un producto muy popular. 
+}
+Coffee {Café}
+Coffee_descr {
+ Gracias a su sabor exótico, agradable aroma y efectos estimulantes, el café pronto se volvió popular. A pesar de lo difícil que es fabricarlo, la producción de café aumenta todos los años para satisfacer la demanda europea. 
+}
+Mahogany {Caoba}
+Mahogany_descr {
+ Madera roja muy cara y duradera que se utiliza para fabricar muebles lujosos. Muy apreciada por su singularidad y belleza. No se pudre, no se corroe y es bastante resistente al fuego. Por muy raro que parezca, a veces se usa para construir cascos de barco. 
+}
+Cinnamon {Canela}
+Cinnamon_descr {
+ Madera seca del canelo, que se utiliza como especia. Han llegado a borrar del mapa naciones enteras para conseguirla. 
+}
+Copra {Copra}
+Copra_descr {
+ Pulpa molida y seca del coco. La copra se utiliza para hacer aceite de coco, mientras que el residuo, la pasta de coco, se usa para alimentar al ganado. 
+}
+Paprika {Pimentón}
+Paprika_descr {
+ Especia dulce que se utiliza en muchas ensaladas. 
+}
+Fruits {Fruta}
+Fruits_descr {
+ Tras su llegada al Nuevo Mundo, los europeos han descubierto muchos vegetales deliciosos y nutritivos: mangos, limones, aguacates, etc. 
+}
+Ale {Cerveza}
+Ale_descr {
+ Bebida alcohólica suave fabricada con malta y levadura. Es la tercera bebida más popular del Nuevo Mundo, después del ron y el vino. 
+}
+Silk {Seda}
+Silk_descr {
+ Tela fina, ligera y muy cara, perfeccionada por primera vez en China, donde se mantuvo en secreto durante 2.000 años. No hace mucho, los europeos averiguaron cómo se fabrica la seda y ahora pueden producirla en el Nuevo Mundo. Esta tela es tan especial que puede pasar a través de los agujeros más pequeños. 
+}
+Clothes {Ropa}
+Clothes_descr {
+ Ropa fuerte de lona. No es muy bonita, pero es resistente, así que la usan mucho los plebeyos de las colonias lejanas. 
+}
+Cotton {Algodón}
+Cotton_descr {
+ Materia prima para la fabricación de tejidos. Para producirlo, se necesita un gran número de personas trabajando constantemente, una de las razones por las que la esclavitud es tan popular. 
+}
+Sandal {Sándalo}
+Sandal_descr {
+ Una madera muy apreciada que se utiliza para tratar y producir incienso. 
+}
+Leather {Cuero}
+Leather_descr {
+ Piel de animal procesada que se utiliza para fabricar una variedad de productos, desde cinturones hasta zapatos. 
+}
+Oil {Aceite}
+Oil_descr {
+ Desde los tiempos de la antigua Grecia, el aceite de oliva se ha utilizado en la preparación de distintas comidas, dándoles un sabor y aroma agradables. 
+}
+Slaves {Esclavos}
+Slaves_descr {
+ Cargamento de seres humanos, muy solicitado por todo el archipiélago. Normalmente se trata de prisioneros africanos o marineros apresados de los barcos enemigos. La venta en el mercado abierto puede salir muy rentable. Los esclavos constituyen la mano de obra principal en las colonias del Nuevo Mundo. 
+}
+Powder {Pólvora}
+Powder_descr {
+ Inventada por los chinos, la pólvora se necesita para disparar los cañones. Sin ella, permanecerán inmóviles en la cubierta como estatuas de metal. Asegúrate de controlar las reservas de pólvora de la bodega y reponer las existencias a menudo. 
+}
+Food {Víveres}
+Food_descr {
+ Todo lo necesario para alimentar a la tripulación y a los esclavos en el mar. La falta de víveres provoca hambrunas, bajones de moral y puede llevar a la muerte. Cada día en el mar se consume 1 unidad de alimentos por cada 10 marineros, o por cada 20 esclavos. 
+}
+Weapon {Armas}
+Weapon_descr {
+ Las necesitas para armar a la tripulación, una para cada mano. Si no hay suficientes armas, sufrirás más bajas al realizar un abordaje. Si un marinero muere, disminuirá la cantidad de armas. 
+}
+Gold {Oro}
+Gold_descr {
+ Mena de oro sin refinar extraída de las minas del Nuevo Mundo, a partir de la cual se obtiene oro para fabricar joyas y monedas. Atrapar un barco que lleve semejante cargamento es el sueño de cualquier capitán. 
+}
+Silver {Plata}
+Silver_descr {
+ Mena de plata sin refinar extraída de las minas del Nuevo Mundo, a partir de la cual se obtiene plata para fabricar joyas y monedas. El filón de plata principal pasa por un lugar llamado la 'Montaña de Plata', no lejos de Potosí. 
+}
+Brick {Ladrillos}
+Brick_descr {
+ Bloques grandes de arcilla y piedra que se utilizan para construir edificios y fortificaciones de la ciudad. 
+}
+Medicament {Medicina}
+Medicament_descr {
+ Un montón de remedios necesarios: frascos, ampollas, polvos, vendas y lociones, cualquier cosa que pueda salvar vidas. Llevar medicamentos a bordo ayudará a curar a los heridos, ya sea en el mar o en combate. 
+}
+Cannon_12 {Cañones 12 lb}
+Cannon_12_descr {
+ Cañones pequeños que se pueden disparar con pólvora, balas de hierro, bombas, metralla y balas encadenadas. Utilizados en todo tipo de barcos pequeños. 
+ Alcance: #dFireRange#, daño: x#f.1DamageMultiply#, recarga: #dReloadTime# s 
+}
+Cannon_16 {Cañones 16 lb}
+Cannon_16_descr {
+ Cañones de tamaño medio. 
+ Alcance: #dFireRange#, daño: x#f.1DamageMultiply#, recarga: #dReloadTime# s 
+}
+Cannon_24 {Cañones 24 lb}
+Cannon_24_descr {
+ Cañones serios para combates serios. 
+ Alcance: #dFireRange#, daño: x#f.1DamageMultiply#, recarga: #dReloadTime# s 
+}
+Cannon_32 {Cañones 32 lb}
+Cannon_32_descr {
+ Armas enormes que causan muchísimo daño. Se utilizan para destruir buques militares y lanzabombas. Muy difíciles de manejar. 
+ Alcance: #dFireRange#, daño: x#f.1DamageMultiply#, recarga: #dReloadTime# s 
+}
+Cannon_42 {Cañones 42 lb}
+Cannon_42_descr {
+ Sirven para destruir fortines, pero se deben colocar en barcos muy grandes. 
+ Alcance: #dFireRange#, daño: x#f.1DamageMultiply#, recarga: #dReloadTime# s 
+}
+Culverine_12 {Culebrinas 12 lb}
+Culverine_12_descr {
+ Cañones pequeños de construcción ligera y tubo relativamente largo. Utilizadas en todo tipo de barcos pequeños. 
+ Alcance: #dFireRange#, daño: x#f.1DamageMultiply#, recarga: #dReloadTime# s 
+}
+Culverine_16 {Culebrinas 16 lb}
+Culverine_16_descr {
+ Armas medianas de mejor calidad. 
+ Alcance: #dFireRange#, daño: x#f.1DamageMultiply#, recarga: #dReloadTime# s 
+}
+Culverine_24 {Culebrinas 24 lb}
+Culverine_24_descr {
+ Armas serias para combates serios. La longitud del barril dificulta la recarga pero mejora el alcance del disparo. 
+ Alcance: #dFireRange#, daño: x#f.1DamageMultiply#, recarga: #dReloadTime# s 
+}
+Culverine_32 {Culebrinas 32 lb}
+Culverine_32_descr {
+ Armas enormes que causan muchísimo daño a largas distancias. A ver quién se atreve a disparar primero. 
+ Alcance: #dFireRange#, daño: x#f.1DamageMultiply#, recarga: #dReloadTime# s 
+}

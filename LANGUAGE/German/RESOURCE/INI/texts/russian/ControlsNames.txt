@@ -1,0 +1,435 @@
+newLine {
+
+
+}
+HelpChooser {Hilfebereich wählen}
+MainInterface {Einstellungen der Benutzeroberfläche}
+DialogControls {Dialog}
+WorldMapControls {Weltkarte}
+BattleInterfaceControls {Einstellungen der Benutzeroberfläche}
+Sailing1Pers {Rudersicht auf Meer}
+Sailing3Pers {Vogelperspektive auf Meer}
+FightModeControls {Kampfmodus}
+PrimaryLand {Landsteuerung }
+ChrCamTurnV {
+ Charakter-Kamera (Y-Achse) 
+
+}
+ChrCamTurnH {
+ Charakter-Kamera (X-Achse) 
+
+}
+ChrCamCameraSwitch {
+ Ego-/Draufsicht-Kamera wechseln 
+
+}
+ChrCamNormalize {
+ Kamera zentrieren 
+
+}
+ShipCamera_Turn_V {
+ Schiffskamera (Y-Achse) 
+
+}
+ShipCamera_Turn_H {
+ Schiffskamera (X-Achse) 
+
+}
+ShipCamera_Forward {
+ Schiffskamera heranzoomen 
+
+}
+ShipCamera_Backward {
+ Schiffskamera wegzoomen 
+
+}
+DeckCamera_Turn_V {
+ Deckkamera (Y-Achse) 
+
+}
+DeckCamera_Turn_H {
+ Deckkamera (X-Achse) 
+
+}
+DeckCamera_Forward {
+ Deckkamera heranzoomen 
+
+}
+DeckCamera_Backward {
+ Deckkamera wegzoomen 
+
+}
+DeckCamera_Left {
+ Nach links bewegen (Decksansicht) 
+
+}
+DeckCamera_Right {
+ Nach rechts bewegen (Decksansicht) 
+
+}
+ChrTurnH {
+ Charakter drehen 
+
+}
+ChrTurnV {
+ Charakter bewegen 
+
+}
+ChrTurnHL {
+ Charakter links drehen 
+
+}
+ChrTurnHR {
+ Charakter rechts drehen 
+
+}
+ChrAction {
+ Aktion 
+
+}
+ChrForward {
+ Vorwärts bewegen 
+
+}
+ChrForward1 {
+ Vorwärts bewegen 
+
+}
+ChrForward2 {
+ Vorwärts bewegen (wechselnd) 
+
+}
+ChrBackward {
+ Rückwärts bewegen 
+
+}
+ChrBackward1 {
+ Rückwärts bewegen 
+
+}
+ChrRun {
+ Rennen ein-/ausschalten 
+
+}
+ChrRunStick {
+ Rennen ein-/ausschalten 
+
+}
+ChrBlock {
+ Blocken 
+
+}
+ChrRecoil {
+ Zurückweichen 
+
+}
+ChrParry {
+ Parieren 
+
+}
+ChrAttackForce {
+ Zurückfallen 
+
+}
+ChrAttackFast {
+ Stechen 
+
+}
+ChrAttackRound {
+ Schwingen 
+
+}
+ChrAttackBreak {
+ Schlagen 
+
+}
+ChrAttackFient {
+ Finte 
+
+}
+ChrAttackBreakBase {
+ Schlagen und Finte 
+
+}
+ChrAttackRoundBase {
+ Schwingen 
+
+}
+ChrAttackChoseBase {
+ Angriff wechseln 
+
+}
+ChrBlockBase {
+ Blocken 
+
+}
+ChrAttackBase {
+ Zurückweichen und Parieren 
+
+}
+ChrAltAttackBase {
+ Schlagen und Schwingen 
+
+}
+ChrFire {
+ Feuern 
+
+}
+ChrFightMode {
+ Angriffsmodus wechseln 
+
+}
+BOAL_UsePotion {
+ Heiltrank trinken 
+
+}
+BOAL_ActivateRush {
+ Berserker 
+
+}
+BOAL_DeadSearch {
+ Körper durchsuchen 
+
+}
+Ship_TurnLeft {
+ Schiff nach links wenden 
+
+}
+Ship_TurnRight {
+ Schiff nach rechts wenden 
+
+}
+Ship_SailUp {
+ Segel setzen 
+
+}
+Ship_SailDown {
+ Segel reffen 
+
+}
+Ship_Fire {
+ Kanonen feuern 
+
+}
+Sea_CameraSwitch {
+ Schiffskamera umschalten 
+
+}
+Telescope {
+ Fernrohr umschalten 
+
+}
+TelescopeIn {
+ Fernrohr zoomen 
+
+}
+TelescopeOut {
+ Fernrohransicht verlassen 
+
+}
+BI_MapEnter {
+ Kartenansicht betreten 
+
+}
+WMapTurnH {
+ Kamera drehen (Kartenansicht) 
+
+}
+WMapTurnV {
+ Kamerahöhe ändern (Kartenansicht) 
+
+}
+WMapCameraRotate {
+ Schiebemodus umschalten (Kartenansicht) 
+
+}
+WMapForward {
+ Kamera heranzoomen 
+
+}
+WMapBackward {
+ Kamera wegzoomen 
+
+}
+WMapCameraSwitch {
+ Kameramodus umschalten 
+
+}
+WMapShipSailUp {
+ Vorwärts segeln 
+
+}
+WMapShipSailDown {
+ Rückwärts segeln 
+
+}
+WMapShipTurnLeft {
+ Links wenden 
+
+}
+WMapShipTurnRight {
+ Rechts drehen 
+
+}
+WMapCancel {
+ Zur Seesicht wechseln 
+
+}
+Interface {
+ Einstellungen der Benutzeroberfläche 
+
+}
+MainMenu {
+ Hauptmenü 
+
+}
+MainMenuDouble {
+ Hauptmenü 
+
+}
+Help {
+ Hilfe 
+
+}
+BICommandsActivate {
+ Befehlsmenü 
+
+}
+LICommandsActivate {
+ Befehlsmenü 
+
+}
+BICommandsConfirm {
+ Befehl bestätigen 
+
+}
+BICommandsCancel {
+ Befehl aufheben 
+
+}
+BICommandsLeft {
+ Menü nach links verschieben 
+
+}
+BICommandsRight {
+ Menü nach rechts verschieben 
+
+}
+MiniMapZoomIn {
+ Karte heranzoomen 
+
+}
+MiniMapZoomOut {
+ Karte wegzoomen 
+
+}
+BIFastCommand {
+ Schneller Befehl 
+
+}
+HelpChooser_Cancel {
+ Hilfemenü verlassen 
+
+}
+HelpChooser_Action {
+ Hilfe mit dieser Option 
+
+}
+HelpChooser_Next {
+ Nächster Tipp 
+
+}
+HelpChooser_Prev {
+ Vorheriger Tipp 
+
+}
+HelpChooser_Left {
+ Links (Hilfemenü) 
+
+}
+HelpChooser_Right {
+ Rechts (Hilfemenü) 
+
+}
+HelpChooser_Up {
+ Oben (Hilfemenü) 
+
+}
+HelpChooser_Down {
+ Unten (Hilfemenü) 
+
+}
+DlgAction {
+ Antwort wählen 
+
+}
+DlgAction1 {
+ Antwort wählen 
+
+}
+DlgUp {
+ Vorherige Dialogoption 
+
+}
+DlgDown {
+ Nächste Dialogoption 
+
+}
+DlgScrollUp {
+ Dialogtext herunterblättern 
+
+}
+DlgScrollDown {
+ Dialogtext hochblättern 
+
+}
+hk_charge1 {
+ Mit Kanonenkugeln laden 
+
+}
+hk_charge2 {
+ Mit Kartätschen laden 
+
+}
+hk_charge3 {
+ Mit Kettenkugeln laden 
+
+}
+hk_charge4 {
+ Mit Sprengkugeln laden 
+
+}
+hk_Cure {
+ Heiltrank verwenden 
+
+}
+hk_Rush {
+ Fähigkeit Zorn einsetzen 
+
+}
+hk_ImmediateReload {
+ Schnelles Nachladen beginnen 
+
+}
+hk_LightRepair {
+ Leichte Reparatur beginnen 
+
+}
+hk_InstantRepair {
+ Schnelle Reparatur beginnen 
+
+}
+hk_Turn180 {
+ 180-Grad-Wende 
+
+}
+hk_SandbankManeuver {
+ Sandbank-Wendemanöver 
+
+}
+ChrStrafeLeft {
+ Nach links 
+}
+ChrStrafeRight {
+ Nach rechts 
+}

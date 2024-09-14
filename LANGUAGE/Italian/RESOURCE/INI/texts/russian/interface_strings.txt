@@ -1,0 +1,102 @@
+Delete profile confirm {Eliminare questo profilo e tutti i relativi progressi?}
+Delete savefile confirm {Eliminare questo salvataggio?}
+Overwrite savefile confirm {Sovrascrivere questo salvataggio?}
+Low storage and unable save create {Spazio libero insufficiente per salvare la partita.}
+Load game confirm {Caricare questa partita?}
+Unable to Load save game {Impossibile caricare questa partita.}
+Salary info {L'equipaggio richiede il proprio salario. \nPaghi?}
+All info {Somma: }
+New game confirm {Avviare una nuova partita?}
+Insert Disk Ok {Inserisci il disco 1.}
+save game limit {Hai superato il limite di salvataggi. Elimina alcuni salvataggi obsoleti.}
+SaveLimit {In questa modalità, è possibile salvare solo nelle chiese.}
+FoodLimit {Cibo sulla nave per}
+Weight {Peso}
+Weight pcs {Unità di peso}
+Dist {Dist}
+Damage {Danno}
+Time {Orario}
+Ship__ {Nave: '}
+Trade interface {Menu di commercio}
+Trade_interface_hint_1 {Fai doppio clic o premi [Invio] sulle linee della tabella per visualizzare il menu di acquisto/vendita. 
+ Tieni premuto [Maiusc] e premi la freccia destra o sinistra per visualizzare il modulo con tutti i valori impostati al massimo. 
+ Digita un numero positivo per acquistare o negativo (anteponendo un meno) per vendere. 
+ Usa la freccia sinistra o destra per cambiare il numero di unità (tieni premuto [Maiusc] per impostare il valore massimo). Premi [Invio] per inviare o [Esc] per annullare. 
+ Sul modulo, o scorrendo la tabella, puoi trovare la descrizione degli oggetti sotto la tabella.}
+Trade_interface_hint_2 {Per vendere rapidamente tutto premi la freccia su o giù; [Maiusc] + freccia destra e quindi [Invio].}
+Trade_interface_hint_3 {Colori: rosso: contrabbando; blu: importazione; verde: esportazione}
+__pack {, pacco}
+Sell {Vendi}
+Gold {Oro}
+__weight {, peso}
+cwt {cwt}
+Buy {Acquista}
+Pack {Pacco}
+Pack weight {Peso pacco}
+_Robbery {: Rapina}
+Robbery_interface {Interfaccia rapina in città}
+Robbery_interface_hint_1 {Fai doppio clic o premi [Invio] sulle linee della tabella per visualizzare il menu organizzativo. 
+ Tieni premuto [Maiusc] e premi la freccia destra o sinistra per visualizzare il modulo con tutti i valori impostati al massimo. 
+ Digita un numero positivo per acquistare o negativo (anteponendo un meno) per vendere. 
+ Usa la freccia sinistra o destra per cambiare il numero di unità (tieni premuto [Maiusc] per impostare il valore massimo). Premi [Invio] per inviare o [Esc] per annullare. 
+ Sul modulo, o scorrendo la tabella, puoi trovare la descrizione degli oggetti sotto la tabella.}
+Robbery_interface_hint_2 {Per prendere rapidamente tutto: premi la freccia su o giù; [Maiusc] + freccia destra; [Invio].}
+City {Città}
+Leave {Abbandona}
+Take {Prendi}
+Item name {Nome oggetto}
+Qty {Qtà}
+Items {Oggetti}
+Items_hint_1 {In questa interfaccia, puoi vedere l'eroe ed equipaggiare una spada, una pistola, un cannocchiale o un usbergo. 
+ Puoi inoltre visualizzare l'inventario dell'ufficiale, dei compagni e dei passeggeri, i quali scelgono da sé le proprie armi una volta ricevuto nuovo equipaggiamento. 
+ A terra, puoi scambiare oggetti con gli ufficiali usando il comando Commercio.}
+Items2 {I tuoi oggetti}
+Trader items {Oggetti commerciante}
+Trader_items_hint_1 {Fai doppio clic o premi [Invio] sulle linee della tabella per visualizzare il menu di acquisto/vendita. 
+ Tieni premuto [Maiusc] e premi la freccia destra o sinistra per visualizzare il modulo con tutti i valori impostati al massimo. 
+ Digita un numero positivo per acquistare o negativo (anteponendo un meno) per vendere. 
+ Usa la freccia sinistra o destra per cambiare il numero di unità (tieni premuto [Maiusc] per impostare il valore massimo). Premi [Invio] per inviare o [Esc] per annullare. 
+ Sul modulo, o scorrendo la tabella, puoi trovare la descrizione degli oggetti sotto il cursore.}
+Trader_items_hint_2 {Nell'elenco di vendita non sono inclusi gli oggetti equipaggiati dal personaggio.}
+Trader {Mercante}
+Ships {Navi}
+Stat_1 {Affondate da cannoni}
+Stat_2 {Affondate da arrembaggio}
+Stat_3 {Catturate con arrembaggio}
+Class {Classe}
+Killed {Uccisi}
+Stat_4 {da spada}
+Stat_5 {da pistola}
+Stat_6 {Soldati}
+Stat_7 {Cittadini}
+Stat_8 {Malviventi}
+Stat_9 {Altri}
+Total {Totale}
+Stat_11 {Eventi}
+Stat_12 {Num.}
+Stat_13 {Navi vendute}
+Stat_14 {Navi acquistate}
+Stat_15 {Ammutinamenti}
+Stat_16 {Rivolte di schiavi}
+Stat_17 {Eventi}
+Stat_18 {Forti distrutti}
+Stat_19 {Città conquistate}
+Stat_20 {Città saccheggiate}
+Stat_21 {Navi conquistate}
+Stat_22 {Navi affondate}
+Stat_23 {PRESTITI}
+Stat_24 {Navi liberate}
+Stat_25 {Inghilterra}
+Summ {Somma}
+Date {Data}
+Stat_26 {Mesi}
+Stat_27 {RISPARMIO}
+Nation {Nazione}
+Place {Luogo}
+Actuality {Data}
+Type {Tipo}
+Trade_interface_hint_4 {Fai doppio clic o premi [Invio] sulle linee della tabella per visualizzare il menu di acquisto/vendita. 
+ Tieni premuto [Maiusc] e premi la freccia destra o sinistra per visualizzare il modulo con tutti i valori impostati al massimo. 
+ Digita un numero positivo per acquistare o negativo (anteponendo un meno) per vendere. 
+ Usa la freccia sinistra o destra per cambiare il numero di unità (tieni premuto [Maiusc] per impostare il valore massimo). Premi [Invio] per inviare o [Esc] per annullare. 
+ Sul modulo, o scorrendo la tabella, puoi trovare la descrizione degli oggetti sotto il cursore.}

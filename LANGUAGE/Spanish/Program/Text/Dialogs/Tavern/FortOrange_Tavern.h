@@ -1,0 +1,16 @@
+string DLG_TEXT_TV [14] = {
+	"¿Puedo ayudaros?",
+	"¿Decidme qué deseáis, ",
+	"No hace mucho tiempo, intentasteis preguntarme algo. ",
+	"Siempre decís que tenéis que hacerme una pregunta. Hoy ya es la tercera vez...",
+	"¿Con preguntas de nuevo?",
+	"Lo siento, no importa.",
+	"Ah, sí, ya veo que estáis ocupado. Ya hablaremos otro día.",
+	"Estoy perdiendo la memoria...",
+	"Una, dos... Es cierto, ¡es la tercera!",
+	"No, no, sin preguntas...",
+	"Os lo puedo decir tranquilamente, jamás vi una pelea tan sangrienta...",
+	"Ensartó a esos perros ingleses de una vez por todas, ¿no?",
+	"Bueno, qué puedo decir, Mynheer. Es difícil mejorar lo presente. ¡Os estoy muy agradecido!",
+	"Por supuesto.",
+};

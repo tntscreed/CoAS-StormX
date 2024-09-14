@@ -1,0 +1,17 @@
+string DLG_TEXT_PRT [15] = {
+	"Quelles questions ?",
+	"Que désirez-vous, ",
+	"Vous avez récemment essayé de me poser une question, ",
+	"Vous ne cessez de mentionner que vous avez une question pour moi. C'est la troisième fois aujourd'hui...",
+	"Écoutez, à moins que cela ait à voir avec le port, ne m'ennuyez pas avec vos questions.",
+	"J'ai changé d'avis...",
+	"Je n'ai rien à dire pour l'instant. ",
+	"Quelque chose est arrivé à ma mémoire...",
+	"Un, deux... Ouais, c'est la troisième fois !",
+	"Je suis navré, mais les problèmes du port ne me concernent pas à présent.",
+	"Je suis venu sur les ordres de Stuyvesant. Je dois prendre le commandement des trois flûtes.",
+	"Bien entendu, les trois flûtes sont sous votre commandement.",
+	"Merveilleux !",
+	"Oui, je suis au courant de cette affaire. Cependant, avant de prendre le commandement des flûtes, vous devez abandonner votre escadrille. Je vous demanderai de bien vouloir vous en occuper avant de revenir me voir avec cette demande.",
+	"Très bien, je vais faire ça.",
+};

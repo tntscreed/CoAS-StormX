@@ -1,0 +1,18 @@
+string DLG_TEXT_Q [16] = {
+	"Reden Sie mit unserem Kapitän. Ich habe Ihnen nichts zu sagen.",
+	"Äh. Ja, klar.",
+	"Reden Sie mit unserem Kapitän. Ich habe Ihnen nichts zu sagen.",
+	"Äh. Ja, klar.",
+	"Sieh mal einer an, er ist selbst gekommen ... Nun, da Sie gerade hier sind, können Sie genauso gut auch mit dem Käptn sprechen. Sie können dort über Ihre traurigen Geschäfte sprechen ...",
+	"Hah! Sie sind wirklich einer, Junge! Das habe ich noch nicht gesehen ... Gehen Sie zum Kapitän. Er wird mit Ihnen reden.",
+	"Das ist wirklich schade ...",
+	"Reden Sie mit dem Boss. Ich habe Ihnen nichts zu sagen.",
+	"Ich habe gerade Dienst. Wenn Sie irgendwelche Fragen haben, gehen Sie zum Kommandeur der Festung.",
+	"Äh. Ja, klar.",
+	"Ich bin gerade sehr beschäftigt. Lassen Sie mich in Ruhe.",
+	"Lassen Sie mich. Ich bin bei der Arbeit. Wir haben nichts zu bereden.",
+	"Das ist wirklich schade ...",
+	"Morgan wollte ein paar Wörtchen mit Ihnen reden ... Er ist hier irgendwo auf dem Deck.",
+	"Hey, gehen Sie und finden Sie Morgan. Es gibt schlechte Neuigkeiten für Sie ...",
+	"Äh. Ja, klar.",
+};

@@ -1,0 +1,59 @@
+sea_Cancel {Abbrechen}
+sea_Moor {Ankern}
+sea_Cabin {Kabine}
+sea_SailTo {Segeln nach ...}
+sea_Board {Entern}
+sea_LandTroops {Truppen landen}
+sea_Map {Karte}
+sea_Attack {Angreifen}
+sea_Abordage {Entern}
+sea_Defend {Verteidigen}
+sea_SailAway {Fortsegeln}
+sea_HeaveToDrift {Segel fieren}
+sea_Reload {Ändern}
+sea_Charge {Nachladen}
+sea_Speed {Segel}
+sea_CCommand {Befehl}
+sea_Ability {Fertigkeit}
+sea_ImmediateDeath {Zerstören!}
+sea_InstantBoarding {Sofort entern}
+sea_Speak {Sprechen}
+sea_Sneak {In Stadt schleichen}
+sea_Repair {Reparieren}
+sea_Brander {Brandschiff}
+sea_ImmediateReload {Nachladen}
+sea_LightRepair {Leichte Reparatur}
+sea_InstantRepair {Schnelle Reparatur}
+sea_SandbankManeuver {Sandbankmanöver}
+sea_Turn180 {Schnelle Wende}
+sea_Boat {Boot starten}
+sea_Cabin {Kabine}
+land_DeadBox {Leiche durchsuchen}
+land_TalkSelf {Selbstgespräch}
+land_ItemsDead {Leiche}
+land_FastReload {Schnell gehen nach ...}
+land_ItemsUse {Verwenden}
+land_DialogStart {Sprechen}
+land_ItemsChange {Ändern}
+land_TakeItem {Nehmen}
+land_PlaceItem {Legen}
+land_OutDoor {Öffnen }
+land_UseBox {Öffnen }
+land_ActivateRush {Berserker}
+land_ActivateCabine {Kapitänskajüte}
+land_DeActivateCabine {Land}
+land_Look {Schauen}
+land_Exit {Meer}
+go_store {Lager}
+go_shipyard {Werft}
+go_tavern {Schenke}
+go_residence {Rathaus}
+go_port {Hafen}
+go_loanshark {Kredithai}
+go_church {Kirche}
+go_prison {Gefängnis}
+go_brothel {Hurenhaus}
+go_usurer {Kredithai}
+go_portman {Hafenmeister}
+go_duel {Duell}
+worldmap_sea {Aufs Meer}

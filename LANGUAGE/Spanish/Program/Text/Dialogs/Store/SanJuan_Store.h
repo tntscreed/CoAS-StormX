@@ -1,0 +1,15 @@
+string DLG_TEXT_STR [13] = {
+	"Decidme. ¿Qué precisáis?",
+	"Acabamos de tratar este tema. Supongo que lo habéis olvidado...",
+	"Esta es la tercera vez hoy que habláis sobre un tema...",
+	"Oíd, esto es una tienda. La gente compra cosas aquí. ¡No me distraigáis!",
+	"¿Sabéis?, ",
+	", quizás la próxima vez.",
+	"Así es, olvidé que...",
+	"Una, dos... Es cierto, ¡es la tercera!",
+	"Vaya, yo no...",
+	"(Para Isabella): ¿Vais a pagar o debo llamar a los soldados?",
+	"¡¿Cómo os atrevéis, escoria?! ¡Disculpaos ante la señora en este mismo instante o atravesaré vuestro gordo estómago!",
+	"Ciertamente, señor Capitán.",
+	"Ahora podemos hablar.",
+};

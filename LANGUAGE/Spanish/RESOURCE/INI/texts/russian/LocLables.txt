@@ -1,0 +1,334 @@
+Antigua {Antigua }
+Barbados {Barbados }
+Bermudes {Bermudas }
+Beliz {Yucatán }
+Cuba {Cuba }
+Cuba1 {Cuba }
+Cuba2 {Cuba }
+Caiman {Caimán }
+Cumana {Cumaná }
+Caracas {Caracas }
+Curacao {Curazao }
+Cartahena {Cartagena }
+Dominica {Dominica }
+Guadeloupe {Guadalupe }
+Hispaniola {La Española }
+Hispaniola1 {La Española }
+Hispaniola2 {Grand Bourg}
+Jamaica {Jamaica }
+Maracaibo {Maracaibo }
+Martinique {Martinica }
+SentMartin {San Martín }
+Nevis {Nieves }
+PuertoRico {Puerto Rico }
+PortoBello {Portobelo }
+Pearl {Costa de las Perlas }
+Panama {Panamá }
+SantaCatalina {Santa Catalina }
+Terks {Islas Turcas }
+Tortuga {Tortuga }
+Trinidad {Trinidad y Tobago }
+Tenotchitlan {Texcoco}
+Mein {Tierra Firme }
+SentJons_town {Saint John }
+Pirates_town {Asentamiento pirata }
+Bridge_town {Bridgetown }
+Beliz_town {Belice }
+Santiago_town {Santiago }
+PuertoPrincipe_town {Puerto Príncipe }
+Havana_town {La Habana }
+Cumana_town {Cumaná }
+Caracas_town {Caracas }
+Villemstad_town {Willemstad }
+Cartahena_town {Cartagena }
+BasTer_town {Basse-Terre}
+SantoDomingo_town {Santo Domingo }
+LaVega_town {La Vega }
+PortPax_town {Puerto Príncipe }
+PortRoyal_town {Port Royal }
+Maracaibo_town {Maracaibo }
+FortFrance_town {Fort-de-France }
+LeFransua_town {Le François }
+Marigo_town {Marigot }
+Charles_town {Charlestown }
+SanJuan_town {San Juan }
+PortoBello_town {Portobelo }
+Panama_town {Panamá }
+SantaCatalina_town {Santa Catalina }
+Tortuga_town {Tortuga }
+PortSpein_town {Puerto España }
+Tenotchitlan_town {Tenochtitlán }
+FortOrange_town {Fort Orange }
+Estate {Residencia de Oglethorpe, Inglaterra }
+DesMoines {Des Moines }
+Shore1 {Cabo Boon }
+Shore2 {La costa de Willerby }
+Shore3 {La Costa de las Ruinas }
+Shore4 {Cabo Harrison }
+Shore5 {Cabo del Pico Escarpado }
+Shore6 {Cabo Catoche }
+Shore7 {La costa de Cozumel }
+Shore8 {La costa de Chetumal }
+Shore9 {La costa de Amatrice }
+Shore10 {Laguna Caratasca }
+Shore11 {Cabo Camagüey}
+Shore12 {La costa de Anna María }
+Shore13 {La costa de Batabano }
+Shore14 {La costa de Juventud }
+Shore15 {Cabo San Antonio }
+Shore16 {Playa desierta }
+Shore17 {La costa de Esmeralda }
+Shore18 {La costa de Boca de la Sierpe }
+Shore19 {La costa de Carupano }
+Shore20 {Playa Los Teces }
+Shore21 {Cabo de Aruba }
+Shore22 {Costa de las Palmeras }
+Shore23 {Cabo Calvinista }
+Shore24 {La costa del escondite de los traficantes }
+Shore25 {La costa de Convenios }
+Shore26 {La costa de Castle Bruce }
+Shore27 {El cabo Scots Head }
+Shore28 {La costa de Morn l'O }
+Shore29 {Playa Capster }
+Shore30 {La costa de Grand Bourg}
+Shore31 {Cabo inaccesible }
+Shore32 {Cabo Isabella }
+Shore33 {La costa de Samaná }
+Shore34 {La costa de Gonaïves }
+Shore35 {Cabo Negril }
+Shore36 {La costa de Portland }
+Shore37 {La costa de Guajira }
+Shore38 {Playa Lamont }
+Shore39 {La costa de Le Marin }
+Shore40 {La costa de Salvación }
+Shore41 {La Costa del Viento Extraño }
+Shore42 {La costa de Newcastle }
+Shore43 {Playa de los Murciélagos }
+Shore44 {La costa de Aguadilla }
+Shore45 {Playa Fajardo }
+Shore46 {Laguna Chirico }
+Shore47 {La Costa de los Mosquitos}
+Shore48 {La costa de Darién }
+Shore49 {La costa de Papagayo }
+Shore50 {La costa de Nicoa }
+Shore51 {La costa de Coronado }
+Shore52 {La costa de Golfo Dulce }
+Shore53 {La Costa de los Mosquitos}
+Shore54 {Cabo de las Perlas }
+Shore55 {La costa de San Juan del Norte }
+Shore56 {Costa del Norte }
+Shore57 {Costa del Sur }
+Shore58 {Playa del Ojo de Pez }
+Shore59 {La costa de Scarborough }
+Shore60 {Cabo Galera }
+Shore61 {Tepeyacac }
+Shore62 {Iztapalapa }
+Shore63 {La costa de San Miguel }
+Shore_ship1 {La Costa del Lavabo Roto }
+Shore_ship2 {La Costa de la Muerte }
+Shore_ship3 {El Cabo de los Deseos No Cumplidos }
+Mayak1 {El faro de Trinidad y Tobago }
+Mayak2 {El faro de Barbados }
+Mayak3 {El faro de Port Royal }
+Mayak4 {El faro de Guadalupe }
+Mayak5 {El faro de Nieves }
+Mayak6 {El faro de Tortuga }
+Mayak7 {El faro de Puerto Príncipe }
+Mayak8 {El faro de Santo Domingo }
+Mayak9 {El faro de Santiago }
+Mayak10 {El faro de La Habana }
+Mayak11 {El faro de Cartagena }
+Bridgetown {Bridgetown }
+Bridgetown Town {Bridgetown }
+Bridgetown Fort {Fuerte de Bridgetown }
+Bridgetown Port {Puerto de Bridgetown }
+SanJuan {San Juan }
+SanJuan Town {San Juan }
+SanJuan Fort {Fuerte de San Juan }
+SanJuan Port {Puerto de San Juan }
+Santiago {Santiago }
+Santiago Town {Santiago }
+Santiago Fort {Fuerte de Santiago }
+Santiago Port {Puerto de Santiago }
+PuertoPrincipe {Puerto Príncipe }
+PuertoPrincipe Town {Puerto Príncipe }
+PuertoPrincipe Fort {Fuerte de Puerto Príncipe }
+PuertoPrincipe Port {Puerto de Puerto Príncipe }
+SentJons {Saint John }
+SentJons Town {Saint John }
+SentJons Fort {Fuerte de Saint John }
+SentJons Port {Puerto de Saint John }
+PortRoyal {Port Royal }
+PortRoyal Town {Port Royal }
+PortRoyal Fort {Fuerte de Port Royal }
+PortRoyal Port {Puerto de Port Royal }
+FortOrange {Fort Orange }
+FortOrange Town {Fort Orange }
+Villemstad {Willemstad }
+Villemstad Town {Willemstad }
+Villemstad Fort {Fuerte de Willemstad }
+Villemstad Port {Puerto de Willemstad }
+BasTer {Basse-Terre}
+BasTer Town {Basse-Terre}
+BasTer Fort {Fuerte de Basse-Terre }
+BasTer Port {Puerto de Basse-Terre }
+LaVega {La Vega }
+LaVega Town {La Vega }
+LaVega Fort {Fuerte de La Vega }
+LaVega Port {Puerto de La Vega }
+SantoDomingo Town {Santo Domingo }
+SantoDomingo Fort {Fuerte de Santo Domingo }
+SantoDomingo Port {Puerto de Santo Domingo }
+PortPax {Puerto Príncipe }
+PortPax Town {Puerto Príncipe }
+PortPax Fort {Fuerte de Puerto Príncipe }
+PortPax Port {Puerto de Puerto Príncipe }
+Pirates {Asentamiento pirata }
+Pirates Town {Asentamiento pirata }
+Pirates Port {Puerto del asentamiento pirata }
+FortFrance {Fort-de-France }
+FortFrance Town {Fort-de-France }
+FortFrance Fort {Fuerte de Fort-de-France }
+FortFrance Port {Puerto de Fort-de-France }
+LeFransua {Le François }
+LeFransua Town {Le François }
+LeFransua Port {Puerto de Le François }
+Havana {La Habana }
+Havana Town {La Habana }
+Havana Fort {Fuerte de La Habana }
+Havana Port {Puerto de La Habana }
+Charles {Charlestown }
+Charles Town {Charlestown }
+Charles Fort {Fuerte de Charlestown }
+Charles Port {Puerto de Charlestown }
+PortoBello Town {Portobelo }
+PortoBello Fort {Fuerte de Portobelo }
+PortoBello Port {Puerto de Portobelo }
+PortSpein {Puerto España }
+PortSpein Town {Puerto España }
+PortSpein Fort {Fuerte de Puerto España }
+PortSpein Port {Puerto de Puerto España }
+Tortuga {Tortuga }
+Tortuga Town {Tortuga }
+Tortuga Fort {Fuerte de Tortuga }
+Tortuga Port {Puerto de Tortuga }
+Marigo {Marigot }
+Marigo Town {Marigot }
+Marigo Fort {Fuerte de Marigot }
+Marigo Port {Puerto de Marigot }
+Panama Town {Panamá }
+Panama Fort {Fuerte de Panamá }
+Panama Port {Puerto de Panamá }
+Cartahena Town {Cartagena }
+Cartahena Fort {Fuerte de Cartagena }
+Cartahena Port {Puerto de Cartagena }
+Maracaibo Town {Maracaibo }
+Maracaibo Fort {Fuerte de Maracaibo }
+Maracaibo Port {Puerto de Maracaibo }
+Caracas Town {Caracas }
+Caracas Fort {Fuerte de Caracas }
+Caracas Port {Puerto de Caracas }
+Cumana Town {Cumaná }
+Cumana Fort {Fuerte de Cumaná }
+Cumana Port {Puerto de Cumaná }
+SantaCatalina Town {Santa Catalina }
+SantaCatalina Fort {Fuerte de Santa Catalina }
+SantaCatalina Port {Puerto de Santa Catalina }
+Beliz Town {Belice }
+Beliz Fort {Fuerte de Belice }
+Beliz Port {Puerto de Belice }
+Duel Field {Campo de duelo }
+Boarding deck {Cubierta de embarque }
+Fort inside {Fuerte (interior) }
+Sea {Mar }
+Jungle {Selva }
+Street {Calle }
+ExitTown {Salida a la selva }
+Port {Puerto}
+Tavern {Taberna }
+Store {Tienda }
+Shipyard {Astillero }
+Townhall {Residencia }
+TownhallRoom {Sala de estar }
+Residence {Residencia }
+PortOffice {Oficina del puerto }
+Church {Iglesia }
+Incquisitio {Inquisición.}
+Incas Temple {Templo inca }
+Usurer House {Residencia del prestamista }
+House {Casa }
+Room {Sala }
+Cabinet {Camarote }
+Bedroom {Dormitorio }
+Exit {Salida }
+The cavern {cueva}
+????? {?????}
+Beach {Playa}
+Cave {cueva}
+Cave entrance {Entrada a la cueva}
+Grot {gruta}
+Prison {Cárcel}
+Lighthouse Inside {Faro (interior)}
+Mines {Minas}
+Dungeon {mazmorra}
+Gate {Salida de la ciudad}
+Brothel {Burdel}
+Brothel Room {Sala privada}
+Village {Pueblo}
+Plantation {Plantación}
+UnderWater {Debajo del agua}
+Reefs {Arrecifes del norte}
+Grotto {Gruta}
+cabine {Camarote}
+My_Campus {Camarotes}
+My_Deck_Medium {Cubierta con cañones}
+My_Deck {Cargamento}
+Morgan's House {Residencia de Morgan}
+Morris's House {Residencia de John Morris}
+Aaron's House {Residencia de Aaron Mendes Chumaceiro}
+Comendant's House {Residencia del gobernador de La Habana}
+DEstre House {Residencia de Henri d'Estre}
+InesHouse {Residencia de Inés de La Sierra}
+Olone House {Residencia de François Lolonois}
+Ascold House {Residencia de Ascold}
+Isabella's House {Residencia de Isabella}
+Rosita's House {Casa de Rosita Fernández}
+Loy_House {Casa de Edward Low}
+Orry_House {Casa de Orry Bruce}
+MK_House {Casa del maestro de las llaves}
+LostShipsCity {CBP}
+LostShipsCity Town {CBP}
+LSC South {Ciudad de los Barcos Abandonados (norte)}
+LSC North {Ciudad de los Barcos Abandonados (sur)}
+LSC Town {Ciudad de los Barcos Perdidos}
+Ava Cabin {el Eva}
+Caroline cabin {el Carolina}
+CeresSmithy cabin {el Ceres Smithy}
+EsmeraldaStoreBig cabin {el Esmeralda}
+FenixPlatform cabin {Plataforma del Phoenix}
+FernandaDiffIndoor cabin {el Fernando Diffindur}
+FleuronTavern cabin {el Fleuron}
+FurieShipInside2 cabin {el Fury}
+GloriaChurch cabin {el Gloria}
+PlutoStoreSmall cabin {el Pluto}
+ProtectorFisher cabin {el Protector}
+SanAugustineResidence cabin {el San Agustín}
+SanGabrielMechanic cabin {el San Gabriel}
+SantaFlorentinaShipInside4 cabin {el Santa Florentina}
+TartarusPrison cabin {Buque de guerra Tartarus}
+VelascoShipInside1 cabin {Galeón Velasco}
+Tenochtitlan {Tenochtitlán }
+Xochiquetzal {Templo de Xochiquétzal}
+Mictlantecuhtli {Templo de Mictlantecuhtli}
+Quetzalcoatl {Templo de Quetzalcóatl}
+Mixcoatl {Templo de Mixcóatl}
+Tezcatlipoca {Templo de Tezcatlipoca}
+Chalchiuhtlicue {Templo de Chalchiuhtlicue}
+Huitzilopochtli {Templo de Huitzilopochtli}
+Tlaloc {Templo de Tláloc}
+Mayahuel {Templo de Mayáhuel}
+Tonacatecuhtli {Templo de Tonacatecuhtli}
+TempleGreatInside {Templo de la Vida Suprema}
+TempleRoundInside {Templo de los Dioses Blancos}
+TempleSecondInside {Templo de sacrificios}
+TempleUnderwater {Laberinto}

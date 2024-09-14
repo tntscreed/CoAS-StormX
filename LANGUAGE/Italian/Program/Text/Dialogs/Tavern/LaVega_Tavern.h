@@ -1,0 +1,15 @@
+string DLG_TEXT_TV [13] = {
+	"Ogni diceria della città di ",
+	", al tuo servizio. Cosa vuoi sapere?",
+	"Ne abbiamo appena parlato. Te ne sei dimenticato...",
+	"È la terza volta che cerchi di farmi una domanda...",
+	"Sei ripetitivo come un pappagallo...",
+	"Sai, ",
+	", magari la prossima volta.",
+	"Sì, l'avevo scordato...",
+	"Uno, due... Hai ragione, ecco il terzo!",
+	"Sì, beh...",
+	"Ehi, taverniere, sto cercando Steve Linney. Sai dirmi se è passato di qui?",
+	"Se ne stava qui con un amico tutto il tempo, ma ora non so dove sia finito. Il suo amico ha lasciato l'isola a bordo di un trabaccolo. Se ti sbrighi, riuscirai a raggiungerlo in mare e potrai chiedergli che fine ha fatto Linney.",
+	"Grazie!",
+};

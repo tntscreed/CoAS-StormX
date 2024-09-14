@@ -1,0 +1,37 @@
+Ship_got_good {%1 unità di %2 recuperate}
+Ship_cant_got_good {non c'è posto per %1}
+seg_Balls {Palle di cannone}
+seg_Grapes {Colpo a grappolo}
+seg_Knippels {Colpo a ripetizione}
+seg_Bombs {Colpo esplosivo}
+seg_Sailcloth {Tela}
+seg_Planks {Assi}
+seg_Slaves {Schiavi}
+seg_Wheat {Grano}
+seg_Ebony {Ebano}
+seg_Chocolate {Cacao}
+seg_Sugar {Zucchero}
+seg_Wine {Vino}
+seg_Linen {Lino}
+seg_Rum {Rum}
+seg_Tobacco {Tabacco}
+seg_Coffee {Caffè}
+seg_Mahogany {Mogano}
+seg_Cinnamon {Cannella}
+seg_Copra {Copra}
+seg_Paprika {Paprica}
+seg_Fruits {Frutta}
+seg_Ale {Birra}
+seg_Silk {Seta}
+seg_Clothes {Abiti}
+seg_Cotton {Cotone}
+seg_Sandal {Legno di sandalo}
+seg_Leather {Pelle}
+seg_Oil {Olio}
+seg_Food {Razioni}
+seg_Weapon {Armi}
+seg_Gold {Oro}
+seg_Silver {Silver}
+seg_Powder {Polvere}
+seg_Brick {Mattoni}
+seg_Medicament {Medicinali}

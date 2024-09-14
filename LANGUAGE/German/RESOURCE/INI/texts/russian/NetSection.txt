@@ -1,0 +1,17 @@
+Net_ShipDieFromPlayer {%1 <%2> schickte %3 <%4> auf den Meeresboden.}
+Net_ShipDieFromCollisionLiveShip {%1 <%2> rammte %3 <%4>.}
+Net_ShipDieFromCollisionDeadShip {%1 <%2> ist jetzt Fischfutter! Was für ein trauriges Ende für so einen Skipper!}
+Net_ShipDieFromCollisionIsland {%1 <%2> ist an den Klippen zerschellt! Schande über diesen Kapitän!}
+Net_ShipDieFromLighting {Der Herr ist erzürnt über %1 <%2> und hat ihn mit seiner rechten Hand gezüchtigt!}
+Net_ShipDieFromCriticalHit {%1 <%2> hat %3 <%4> in seine Einzelteile zerblasen!}
+Net_CriticalHit {%1 <%2> hat eine Kanonenkugel in das Pulverfass auf dem Deck der %3 <%4> gelandet!}
+Net_MastFallFromHit {%1 <%2> hat den Master von %3 <%4> abgeschossen.}
+Net_MastFallFromCollision {%1 <%2> hat seinen Mast durch einen Zusammenstoß verloren.}
+Net_FireActivation {%1 <%2> hat %3 <%4> in Brand gesetzt.}
+NetFG_ServerIsFull {Server ist voll. Es kann kein neuer Spieler angeschlossen werden.}
+NetFG_NeedUserPassword {Der von Ihnen eingegebene Pass stimmt mit keinen auf dem Server gespeicherten Benutzern überein. Versuchen Sie es einfach noch einmal.}
+NetFG_NeedServerPassword {Sie haben das falsche Passwort für diesen Server eingegeben. Versuchen Sie es noch einmal.}
+NetFG_RejectedUnknown {Aus Gründen, die Gott und Mensch nicht erahnen können, können Sie sich an diesem Server nicht anmelden.}
+NetFG_Banned {Sie sind von diesem Server ausgeschlossen.}
+NetEG_DeathMatch {Kampf abgeschlossen. \n \n %1 ist der Sieger!}
+NetEG_Team {Kampf abgeschlossen. \n \n Team %1 ist der Sieger!}

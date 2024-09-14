@@ -1,0 +1,17 @@
+string DLG_TEXT_TV [15] = {
+	"Des questions, ",
+	"Que désirez-vous, ",
+	"Hum... Vous essayez de me draguer, ",
+	" ? Encore des questions bizarres...",
+	"C'est la troisième fois aujourd'hui que vous venez me voir avec vos questions... Vous essayez de me faire la cour ?",
+	"Vous allez encore poser vos questions, ",
+	"À plus tard...",
+	"Euh, oui, je vois que vous avez à faire, nous pouvons parler une autre fois.",
+	"Oh non, ma jolie, pas du tout...",
+	"Pas vraiment, chérie. Je suis juste étourdi...",
+	"Oh non, pas de questions...",
+	"Oh, je suis contente d'être encore en vie ! Je suis aussi contente parce que...",
+	"Parce que quoi ?",
+	"Parce que je suis en la présence d'un fier capitaine doublé d'un grand officier ! Tout le fort vous remercie. Vous nous avez sauvés !",
+	"Oh, allons. Je n'ai fait que mon devoir, chérie...",
+};

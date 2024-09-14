@@ -1,0 +1,111 @@
+new_string {
+
+}
+Tartane {
+ La tartana è una piccola imbarcazione da pesca con una vela triangolare, apparsa per la prima volta nelle acque del Mediterraneo. Presto le eccellenti caratteristiche della tartana la resero molto popolare, utile sia per la navigazione costiera che per il commercio tra insediamenti confinanti. 
+}
+WarTartane {}
+Lugger {
+ Il trabaccolo è una piccola nave concepita per trasportare carichi e proteggere piccoli convogli. Sebbene dotata di armamento ed equipaggio modesti, è ottima per il commercio e in battaglia. Molti capitani l'apprezzano per la sua velocità e manovrabilità. Le dimensioni contenute ne impediscono l'utilizzo in lunghi viaggi in mare. 
+}
+Sloop {
+ Con il piccolo scafo e le ottime caratteristiche di navigazione, lo sloop è una nave da ricognizione molto efficace, ottima sia per il commercio che come pattuglia. 
+}
+Barque {
+ Brigantino a palo: nave concepita per viaggi lunghi. La stiva spaziosa e la formidabile potenza di fuoco la rendono una delle navi migliori della sua classe. Ciononostante, le dimensioni notevoli non consentono grande velocità o manovrabilità, quindi è meno efficace nella navigazione rispetto alle navi più leggere della stessa classe. 
+}
+Schooner {
+ Le solide caratteristiche di navigazione della goletta e la sua stiva spaziosa la rendono una delle navi commerciali medie più interessanti. Perfetta per chi non può permettersi una fluyt.
+}
+Caravel {
+I caratteristici ponti dalla forma particolare della caravella rendono il suo profilo facilmente identificabile anche a grande distanza. Dato che le caravelle non sono molto efficaci in battaglia, in genere vengono assegnate a servizio di trasporto merci, anche perché offrono il vantaggio di una stiva spaziosa. 
+}
+Fleut {
+ Sebbene la fluyt sia grande e resistente per i viaggi in mare, non è saggio farvi affidamento in battaglia. Resta comunque una solida nave commerciale, dato che la sua stiva è spaziosa come poche altre. 
+}
+Brig {
+ I brigantini vengono spesso impiegati come vascelli commerciali, ma più spesso ancora come navi da guerra. L'elevata velocità e la buona manovrabilità la rendono una delle imbarcazioni più bilanciate. Tuttavia, le armi influiscono negativamente sulla manovrabilità. 
+}
+Galeon_l {
+ Il galeone è senza dubbio la nave più famosa. Parente stretto della caravella, è un vascello goffo ma affidabile, impiegato dai marinai per quasi duecento anni, ma facile preda per un pirata esperto. 
+}
+Corvette {
+ La corvetta fu progettata come imbarcazione ben armata, ma al contempo leggera e agile. Purtroppo ha uno scafo debole, ma è comunque in grado di competere con navi più leggere e più pesanti. In genere, viene usata nelle missioni di pattuglia e di scorta. 
+}
+Galeon_h {
+ Il galeone pesante è una nave da guerra imponente, dotata di cannoni di grosso calibro, uno scafo solido e un equipaggio numeroso che la rendono un'affidabile difesa per qualsiasi carico. 
+}
+Pinnace {
+ La pinaccia è abbastanza grande e robusta per lunghi viaggi in mare, la stiva può contenere un carico discreto ed è armata piuttosto bene. Purtroppo ha una scarsa manovrabilità in battaglia ed è più lenta di una vera nave da guerra. 
+}
+Frigate {
+ La rapida e maneggevole fregata è apprezzata da molti per le buone proprietà navali e per la potenza di fuoco. Uno squadrone di fregate può facilmente distruggere un forte e saccheggiare una città. 
+}
+LineShip {
+ Una nave da guerra, con più cannoni rispetto a una fregata, perde in velocità e manovrabilità, ma grazie allo scafo rinforzato e alla struttura più grande, alcune navi da guerra possono trasportare cannoni più potenti.}
+Battleship {
+ La nave da battaglia è un'evoluzione della nave da guerra: infatti, è più grande e meglio rinforzata. Enorme e ingombrante, trasporta alcune batterie di cannoni pesanti ed è governata da un equipaggio molto numeroso.
+}
+Warship {
+ La nave di linea si presenta come una forza temibile. Armata coi cannoni più potenti e a lunga gittata per proteggere lo scafo robusto, può resistere a qualsiasi nave in mare e distruggere facilmente le fortificazioni sulla costa. 
+}
+Manowar {
+ Il vascello da guerra è il più potente mai creato dall'uomo. Sui tre ponti alloggia cento cannoni pesanti e il suo scafo è praticamente indistruttibile per i proiettili. Purtroppo, le notevoli dimensioni e i limiti di spostamento ne limitano l'uso alle grandi battaglie navali e ai bombardamenti di forti. 
+}
+SoleyRu {
+ Nave di linea reale di prima classe: potenza di fuoco terribile, uno scafo raffinato e proprietà navali incredibili. Una nave grandiosa, destinata a durare. 
+}
+NoneBoat {
+ Nessuna nave. L'eroe è diventato un ratto di terraferma, finché non recupera una nave non può più essere chiamato capitano. 
+}
+Hull {
+ Scafo: il danno corrente e massimo che può sostenere lo scafo. 
+}
+Sails {
+ Vele: il danno corrente e massimo che le vele sono in grado di sostenere. 
+}
+Speed {
+ Velocità: mostra la velocità massima corrente della nave, considerando i vari fattori (carico, abilità del capitano, danno subito) rispetto al valore massimo generale. 
+}
+Maneuver {
+ Manovrabilità: mostra la velocità massima corrente della nave, considerando i vari fattori (carico, abilità del capitano, danno subito) rispetto al valore massimo generale. 
+}
+AgainstWind {
+ Caratteristiche: mostra la capacità della nave di veleggiare con vento ridotto. Maggiore è questo valore, più la nave veleggia sottovento. Le vele inclinate sono più adatte alla navigazione con venti contrari.
+}
+Capacity {
+ Stiva: mostra il volume corrente e massimo nella stiva. Minore è lo spazio disponibile, più lenta e meno manovrabile diventa la nave. 
+ Anche le eventuali armi influiscono sull'area di carico. Puoi toglierle dalla nave se ti serve più spazio per le merci. A questo fine, consulta la parte inferiore di questa interfaccia e fai doppio clic su 'Cannoni'. 
+}
+Crew {
+ Equipaggio: mostra il numero corrente di marinai, oltre al minimo e al massimo consentiti per la nave selezionata. 
+}
+CannonType {
+ Tipo di cannoni: mostra la classe (cannone o colubrina), il calibro e il numero di cannoni montati.
+}
+sCannons {
+ Mostra il calibro massimo e il numero massimo di cannoni montabili su una nave. 
+}
+Crew_Exp {Esperienza equipaggio}
+Crew_Exp_hint {
+ L'esperienza dell'equipaggio si suddivide in tre categorie: mare (influisce sul controllo della nave), cannoniere (influisce sulla velocità di ricarica e la precisione dei cannoni) e arrembaggio (l'efficacia della ciurma in combattimento in mischia). 
+ Un equipaggio ridotto ma esperto può essere più efficace di un sacco di novellini. 
+ La squadra ottiene esperienza in tutte le tre categorie compiendo il proprio lavoro (Manovrabilità, Cannoni, Arrembaggio), mentre ne perde se non può esercitare le proprie abilità per un lungo periodo.}
+TakeAllGoods_hint {
+ Il pulsante 'Trasferisci carico' gestisce lo spostamento delle merci sulla nave del personaggio rispetto al prezzo medio. Gli oggetti più preziosi vengono caricati per primi e quelli più economici per ultimi, fino a esaurire lo spazio disponibile nella stiva. 
+}
+GoodsKeys_hint {
+ Usando i tasti di direzione destra e sinistra della tastiera, puoi cambiare i tipi di merci. Premendo i tasti di direzione tenendo premuto [Maiusc], selezioni la quantità massima possibile. Premi il pulsante destro del mouse su un oggetto per selezionarne dieci pacchetti alla volta.
+}
+Shipyard_hint {
+ Al cantiere puoi acquistare, riparare o vendere navi. 
+ L'eroe non può vendere la sua nave se ha dei compagni, né può acquistare una nave per un compagno se non ne possiede una sua. 
+ Per cambiare la nave dell'eroe o del compagno salvando il carico nella stiva e l'equipaggio, devi accedere all'elenco delle navi nello squadrone dell'eroe (in alto a sinistra sullo schermo) e scegliere la nave da scambiare con una nuova. A questo punto, seleziona la nave desiderata nell'elenco di navi in vendita al molo (in alto a destra). Infine, premi il pulsante Acquista. Per comprare una nuova nave e nominare un compagno, devi prima acquisire uno slot vuoto nell'elenco a sinistra. 
+}
+NoneBoat2 {
+ Nessuna nave. 
+}
+DLG_TEXT_BASE[456] {}
+DLG_TEXT_BASE[457] {}
+ {}
+ {}

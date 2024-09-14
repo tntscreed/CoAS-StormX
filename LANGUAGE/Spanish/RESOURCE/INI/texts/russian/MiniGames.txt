@@ -1,0 +1,65 @@
+CARDS_RULE {Vamos a jugar a 21. Las reglas son sencillas. Hay 36 cartas en la baraja, de seises a ases. Los ases valen 11, los reyes 4, las reinas 3 y las sotas 2. Todo lo demás vale lo que diga la carta. El objetivo es conseguir 21 puntos.    \n Se reparte una carta a cada jugador, y luego se van pidiendo las que hagan falta (haz clic en la baraja). Haz clic en el perfil de arriba a la derecha para terminar el turno. Si te pasas de 21, se acaba el juego. Cada carta es una apuesta. Puedes empezar a jugar si tienes suficiente dinero para apostar tres veces. Para jugar otra vez, haz clic en la baraja. Para salir, pulsa la X o [Esc].}
+DICE_RULE {Vamos a jugar al póquer de dados. Cinco dados por jugador, se turnan las tiradas. Puedes tirar el número de dados que quieras y hacer una apuesta por dado, pero solo una. El objetivo es conseguir la mejor tirada.    \n En orden ascendente: pareja (2), doble pareja (2+2), trío (3), full (3+2), cuarteto (4), escalera (dados en orden) y póquer (5). Si hay un empate, gana el jugador con la mejor combinación. Haz clic en el cubilete para tirar los dados; haz clic en el dado para tirar de nuevo (necesitas dinero para apostar). Haz clic en la foto para pasar turno (cuando no quieras tirar otra vez).}
+Dice_1 {Empiezo yo.}
+Dice_2 {Empiezas. Venga, no nos hagas esperar.}
+Dice_3 {Comienza el juego.}
+Dice_4 {Hagan sus apuestas.}
+Dice_5 {El juego continúa.}
+Dice_6 {Hagan sus apuestas.}
+Dice_7 {Te toca. Venga, no nos hagas esperar.}
+Dice_8 {Decídete. Elige cuántos te tiras.}
+Dice_9 {Me toca.}
+Dice_10 {Espera, tengo que elegir cuántos me tiro.}
+Dice_11 {Tengo}
+Dice_12 {. Tienes}
+Dice_13 {¡Ja, empate! Vamos a seguir.}
+Dice_14 {Bien, he ganado.}
+Dice_15 {Parece que has ganado.}
+Dice_16 {¡Estás acabado! ¡Yo gano!}
+Dice_17 {Ya vale, ya me he cansado.}
+Dice_18 {¡Estoy acabado! ¡Tú ganas!}
+Dice_19 {Ya vale, ya me he cansado.}
+Dice_20 {¿Probamos suerte otra vez?}
+Dice_21 {Ya vale, ya me he cansado.}
+Dice_22 {nada}
+Dice_23 {póquer}
+Dice_24 {escalera}
+Dice_25 {cuarteto}
+Dice_26 {full}
+Dice_27 {trío}
+Dice_28 {doble pareja}
+Dice_29 {pareja}
+Dice_30 {Voy a tirar un dado...}
+Dice_31 {Voy a tirar...}
+Dice_32 {Voy a tirar...}
+Dice_33 {Ahora mismo no voy a tirar.}
+Cards_1 {¿Te has quedado sin dinero? ¡Qué pena!}
+Cards_2 {¡Dios, estoy acabado! ¡Qué mala racha!}
+Cards_3 {¡Levanta las cartas!}
+Cards_4 {Una carta para mí.}
+Cards_5 {Una carta para ti.}
+Cards_7 {¡Te toca!}
+Cards_8 {¡Venga, no te hagas de rogar!}
+Cards_9 {¡Venga, coge una carta! ¡No nos hagas esperar!}
+Cards_10 {Una carta para mí.}
+Cards_11 {¡Pongo una moneda!}
+Cards_12 {¡Me toca!}
+Cards_13 {Vamos a ver lo que tenemos aquí...}
+Cards_14 {Oh, maldita sea.}
+Cards_15 {¡Ja, estás acabado! ¡Yo gano!}
+Cards_16 {¡Uf, estoy acabado! ¡Tú ganas!}
+Cards_17 {¿Otra vez?}
+Cards_18 {¿Probamos suerte otra vez?}
+Cards_19 {Ya vale, ya me he cansado.}
+Cards_20 {Ya he tenido bastante. ¡Levanta las cartas!}
+Cards_21 {¡Para ti! Yo ya tengo bastante.}
+Cards_22 {Levanta las cartas.}
+Cards_23 {Hagan sus apuestas.}
+Cards_24 {Tú ganas. Tienes}
+Cards_25 {, y yo tengo}
+Cards_26 {La fortuna me sonríe. Tengo}
+Cards_27 {, y tú tienes}
+Cards_28 {. ¡Gano yo!}
+Cards_29 {¿Otra vez?}
+Cards_30 {¿Probamos suerte otra vez?}
+Cards_31 {Ya vale, ya me he cansado.}

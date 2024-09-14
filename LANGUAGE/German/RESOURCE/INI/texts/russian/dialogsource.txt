@@ -1,0 +1,95 @@
+Name_Section {///////////////////////////////////////////////////////////////////////}
+StartShip {Wind Chaser}
+Sandro {Sandro}
+Torn {Torn}
+Jim {Jim}
+Hopkince {Hopkins}
+Devy {Davy}
+Jons {Jones}
+GhostShipName {Fliegender Holländer}
+Tomas {Thomas}
+Modyford {Modyford}
+Francisko {Francisco}
+Oregon Gaskon {Oregon y Gascon}
+Bertran {Bertrand}
+d Ogeron {d'Ogeron}
+Peter {Peter}
+Stuvesant {Stuyvesant}
+Henry {Henry}
+Morgan {Morgan}
+Oliver {Oliver}
+Green {Greene}
+Isabella {Isabella}
+Olevares {Olivares}
+Ascold {Ascold}
+demon {Dämon}
+Azzy {Azzy}
+Diplomat {Diplomat}
+Smuggler {Schmuggler}
+Angela {Angela}
+Jackman {Jackmann}
+Manchester {Manchester}
+Master {Meister}
+Alexus {Alexis}
+Pascal {Pascal}
+Viwasie {Vousier}
+Richard {Richard}
+Sawkins {Sawkins}
+John {John}
+Norton {Norton}
+Bartholomew {Bartholomew}
+Sharp {Sharp}
+Sharpy {Sharpnose}
+Tanneken {Tanneken}
+Clemence {Clemence}
+Joao {Joao}
+Ilhaio {d'Ylan}
+Yozef Nunen {Joseph Nunes}
+de Fonkesao {da Fonseca}
+Venetu {Venetu}
+Falcon_Eye {Hawkeye}
+Mitich {Goyko Mitich}
+White {White}
+Boy {Boy}
+Liticia {Leticia}
+Angelica {Angelica}
+Viven {Vivien}
+Simona {Simona}
+Milantra {Milantra}
+Iolanta {Jolanta}
+Margaret {Margaret}
+Edward {Edward}
+Mansfield {Mansfield}
+Hose {José}
+Sanchos Himenes {Sánchez Jiménez}
+Fernando {Fernando}
+Torres {Torres}
+Armo {Armo}
+Prescott {Prescott}
+Alex {Alex}
+Winner {Winner}
+Other_Section {///////////////////////////////////////////////////////////////////////}
+LAi_utilites_1 {Der Wachposten Alarm geben, als Sie die Siedlung betraten. Die Perlentaucher flohen in den Dschungel, um sich zu verstecken.}
+ItemLogic_1 {Sie haben den benötigten Gegenstand nicht.}
+ItemLogic_2 {Eine Falle!}
+CannonTypeName_12 {Kanone 12 Pfund }
+CannonTypeName_16 {Kanone 16 Pfund }
+CannonTypeName_24 {Kanone 24 Pfund }
+CannonTypeName_32 {Kanone 32 Pfund }
+CannonTypeName_42 {Kanone 42 Pfund }
+CannonTypeName_48 {Kanone 48 Pfund }
+CulTypeName_12 {Kalverine 12 Pfund }
+CulTypeName_16 {Kalverine 16 Pfund }
+CulTypeName_24 {Kalverine 24 Pfund }
+CulTypeName_32 {Kalverine 32 Pfund }
+LAi_warrior_1 {Richard Sawkins hat Ihren verräterischen Angriff gesehen. Jetzt werden seine Piraten Sie wie einen räudigen Hund jagen.}
+LAi_utils_1 {Gesammelte schwarze Perlen}
+Rummor_1 {Haben Sie von Humphrey Douglas gehört? Dass ein so guter Soldat so tief fallen kann!}
+Tresure_1 {Der Schatz ist ganz in der Nähe! }
+Tresure_2 {Glücklicher Gentleman}
+Tresure_3 {Ich lebe! Es ist ein Wunder! }
+Tresure_4 {Sie haben einen sehr merkwürdigen Gegenstand gefunden.}
+diamond {Diamant}
+ruby {Rubin}
+emerald {Smaragd}
+sapphire {Saphir}

@@ -1,0 +1,243 @@
+newline {
+
+}
+BasicDefense {Einfache Verteidigungskünste}
+perkBasicDefense {
+ Erhaltener Schaden sinkt um 10%. 
+}
+AdvancedDefense {Fortgeschrittene Verteidigungskünste}
+perkAdvancedDefense {
+ Erhaltener Schaden sinkt um 20%. 
+}
+CriticalHit {Kritischer Treffer}
+perkCriticalHit {
+ Chance von 5%, beim Angriff einen kritischen Treffer zu landen. 
+}
+Ciras {Brustpanzer}
+perkCiras {
+ Erlaubt das Tragen eines Brustpanzers. 
+}
+SwordplayProfessional {Elite-Fechter }
+perkSwordplayProfessional {
+ 20% Chance einen kritischen Treffer zu landen. Erhaltener Schaden sinkt um 30%. 
+}
+Grus {Muskelprotz}
+perkGrus {
+ Hebekraft um 30 Pfund erhöht. 
+}
+Rush {Berserker}
+perkRush {
+ Für 10 Sekunden steigen Angriffs- und Verteidigungsstärke exponentiell an. Nachladezeit 1 Minute. 
+}
+Tireless {Adrenalinschub}
+perkTireless {
+ Sie werden im Kampf weiter angetrieben und können Erschöpfung leichter widerstehen. (Energie erholt sich 15% schneller.) 
+}
+HardHitter {Würgehand}
+perkHardHitter {
+ Ihre Schläge überwältigen den Gegner und berauben ihn aller Kraft. 
+}
+BladeDancer {Schwerttänzer}
+perkBladeDancer {
+ Endlich verstehen Sie, wie man ein Schwert richtig schwingt. (30% Bonus auf Schlagangriffe.) 
+}
+Sliding {Rammbock}
+perkSliding {
+Die Chance Ihrer Treffer, die Verteidigung des Gegner zu durchbrechen, steigt um weitere 20%. 
+}
+Gunman {Der Schütze}
+perkGunman {
+ Die Fähigkeit Feuerwaffen verbessert sich. Schusswaffen werden 10% schneller nachgeladen. Genauigkeit steigt um 10%. Sie können jetzt zweiläufige Pistolen benutzen. 
+}
+GunProfessional {Trickschuss}
+perkGunProfessional {
+ Pistolen werden 25% schneller nachgeladen. Genauigkeit steigt um 25%. Sie können jetzt vierläufige Pistolen benutzen. 
+}
+IronWill {Eiserner Wille}
+perkIronWill {
+ Senkt die Wahrscheinlichkeit für Meuterei aufgrund von nicht bezahlter Heuer und Hunger.
+}
+SharedExperience {Erfahrungsaustausch}
+perkSharedExperience {
+ Gegenstände werden beim Enterangriff unter Offizieren aufgeteilt. 
+ Verdoppelt die Erfahrung, die zwischen Passagieren (10%), Offizieren (50%) und Gefährten (33%) aufgeteilt wird. 
+}
+Medic {Eiserne Konstitution}
+perkMedic {
+ Gesundheit wird schneller regeneriert, wenn 24 Stunden lang keine schweren Verletzungen erlitten werden. Verringert die Schwere aller erlittenen Verletzungen. Wirkung ist auf See geringer. 
+}
+HPPlus {Baum des Lebens}
+perkHPPlus {
+ Maximale Lebenspunkte steigen um einen Punkt für jede Rangerhöhung. 
+}
+EnergyPlus {Dynamo}
+perkEnergyPlus {
+ Maximale Energie steigt um einen Punkt für jede Rangerhöhung. 
+}
+ByWorker {Multitasking}
+perkByWorker {
+ Die Position von zwei Offizieren gleichzeitig einnehmen. 
+}
+ByWorker2 {Alleskönner}
+perkByWorker2 {
+ Die Position von drei Offizieren gleichzeitig einnehmen. 
+}
+Trustworthy {Schwiegermamas Liebling}
+perkTrustworthy {
+ Potenzielle Kunden werden nicht von einer negativen Reputation beeinflusst. 
+}
+ShipEscape {Flucht im Rettungsboot}
+perkShipEscape {
+ Wenn das Schiff kritisch beschädigt wird (<15% Integrität) erfolgt die Flucht mit dem Rettungsboot zu einem anderen Schiff Ihrer Flotte. 
+ Alle Gefährten mit dieser Fähigkeit fahren zum Schiff ihres Anführers. 
+}
+FastReload {Schnelles Nachladen}
+perkFastReload {
+ Kanonen werden 10% schneller nachgeladen. 
+}
+ImmediateReload {Voraussicht}
+perkImmediateReload {
+ Nächstes Nachladen 50% schneller. Kann nur alle fünf Minuten eingesetzt werden. 
+}
+HullDamageUp {Vernichter}
+perkHullDamageUp {
+ Schaden gegen gegnerische Rümpfe um 15% erhöht. 
+}
+SailsDamageUp {Der Häcksler}
+perkSailsDamageUp {
+ Schaden gegen gegnerische Segel um 15% erhöht. 
+}
+CrewDamageUp {Gott des Todes}
+perkCrewDamageUp {
+ Schaden gegen gegnerische Mannschaft um 15% erhöht. 
+}
+CriticalShoot {Kritischer Schuss}
+perkCriticalShoot {
+ Chance von 5% einen kritischen Schuss gegen den Gegner anzubringen. 
+}
+LongRangeShoot {Fernschuss}
+perkLongRangeShoot {
+ Kanonenreichweite um 15% erhöht. 
+}
+CannonProfessional {Profi-Kanonier}
+perkCannonProfessional {
+ 30% besserer Angriffsschaden gegen jedes Schiffsteil. 15% Chance einen kritischen Treffer zu landen. 
+}
+LongRangeGrappling {Längere Planke}
+perkLongRangeGrappling {
+ Enterreichweite um 15% erhöht. 
+}
+MusketsShoot {Musketensalve}
+perkMusketsShoot {
+Vor dem Entern wird eine Musketensalve abgefeuert, die 25% der gegnerischen Mannschaft verletzt, aber nicht mehr als Zahl der Schützen.
+}
+GrapplingProfessional {Meisterenterer}
+perkGrapplingProfessional {
+ Enterreichweite um 25% erhöht. Entern kann bei jeder Geschwindigkeit und aus jedem Winkel durchgeführt werden.
+}
+BasicBattleState {Einfache Seeverteidigung}
+perkBasicBattleState {
+ Allgemeiner erhaltener Schaden um 15% gesenkt.
+}
+AdvancedBattleState {Fortgeschrittene Seeverteidigung}
+perkAdvancedBattleState {
+ Allgemeiner erhaltener Schaden um 25% gesenkt.
+}
+ShipDefenseProfessional {Elite-Seeverteidigung}
+perkShipDefenseProfessional {
+ Allgemeiner erhaltener Schiffschaden um 25% gesenkt. Chance, einen kritischen Treffer zu erhalten, sinkt um 70%. 
+}
+LightRepair {Leichte Reparatur}
+perkLightRepair {
+ Schiffsreparatur langsam (über 60 Sekunden), aber ohne Verbrauch von Ressourcen. Gut für bis zu 10% der TP des Schiffs. Verhindert auch, dass ein Schiff mit weniger als 10% TP sinkt. 
+ Kann alle drei Minuten eingesetzt werden. 
+}
+InstantRepair {Schnelle Reparatur}
+perkInstantRepair {
+ Schiffreparatur schnell. Erfordert Holz für den Rumpf und Segeltuch für Segel. Nicht anwendbar auf gefallene Masten oder verlorene Mannschaft. Gut für bis zu 65% der TP des Schiffs. Kann alle 90 Sekunden eingesetzt werden. 
+}
+ShipSpeedUp {Erhöhte Seegeschwindigkeit}
+perkShipSpeedUp {
+ Höchstgeschwindigkeit des Schiffs steigt um 15%. 
+}
+ShipTurnRateUp {Erhöhte Manövrierfähigkeit auf See}
+perkShipTurnRateUp {
+ Manövrierfähigkeit des Schiffs steigt um 15%. 
+}
+StormProfessional {Luken verschalken}
+perkStormProfessional {
+ Sturmschäden sinken um 30%. 
+}
+Turn180 {Schnelle Wende}
+perkTurn180 {
+ Schiff wendet eine Minute lang 8x schneller. Alle drei Minuten einsetzbar. 
+}
+SandbankManeuver {Sandbankmanöver}
+perkSandbankManeuver {
+ Hebt den Kontaktschaden von Klippen, Riffen und Untiefen für 60 Sekunden auf. Kann sichere Flucht aus gefährlichen Umständen ermöglichen. 
+}
+SailingProfessional {Alter Seebär}
+perkSailingProfessional {
+ Schiff manövriert 20% schneller. Verfehlt alle regulären Schiffsbegegnungen. 
+}
+FlagPir {Piratenrudel}
+perkFlagPir {
+ Ändert Ihre Flagge zur Totenkopfflagge. 
+}
+FlagEng {Union Jack}
+perkFlagEng {
+ Sie hissen die Flagge Englands. Die Wahrscheinlichkeit, ausgestoßen zu werden, hängt von Heimlichkeit, Klasse, Zahl der Schiffe in der Flotte, Zahl der gegnerischen Schiffe und dem Preis auf Ihren Kopf ab. 
+}
+FlagFra {Französische Flagge}
+perkFlagFra {
+ Sie hissen die Flagge Frankreichs. Die Wahrscheinlichkeit, ausgestoßen zu werden, hängt von Heimlichkeit, Klasse, Zahl der Schiffe in der Flotte, Zahl der gegnerischen Schiffe und dem Preis auf Ihren Kopf ab. 
+}
+FlagSpa {Spanische Flagge}
+perkFlagSpa {
+ Sie hissen die Flagge Spaniens. Die Wahrscheinlichkeit, ausgestoßen zu werden, hängt von Heimlichkeit, Klasse, Zahl der Schiffe in der Flotte, Zahl der gegnerischen Schiffe und dem Preis auf Ihren Kopf ab. 
+}
+FlagHol {Holländische Flagge}
+perkFlagHol {
+ Sie hissen die Flagge der Niederlande. Die Wahrscheinlichkeit, ausgestoßen zu werden, hängt von Heimlichkeit, Klasse, Zahl der Schiffe in der Flotte, Zahl der gegnerischen Schiffe und dem Preis auf Ihren Kopf ab. 
+}
+Brander {Brandschiff}
+perkBrander {
+ Ein verbündetes Schiff wird losgeschickt, um neben einem gegnerischen Schiff zu explodieren und massiven Schaden anzurichten. 
+}
+Troopers {Alliierte Truppenlandung}
+perkTroopers {
+ Vor dem Sturm auf eine Festung werden die Mannschaften verschiedener Schiffe gesammelt und greifen als eine Gruppe an. 
+}
+BasicCommerce {Einfacher Handel}
+perkBasicCommerce {
+ 10% Rabatt auf Waren im Laden.
+}
+AdvancedCommerce {Fortgeschrittener Handel}
+perkAdvancedCommerce {
+ 20% Rabatt auf Waren im Laden. 5% Zuschlag auf Verkaufspreise. 
+}
+Carpenter {Zimmermann}
+perkCarpenter {
+ Alle Reparaturen sind bis zu 10% effektiver. 
+}
+Builder {Schiffsbauer}
+perkBuilder {
+ Senkt die für die Reparaturen eingesetzten Ressourcen um 10%. 
+}
+WindCatcher {Windbeobachter}
+perkWindCatcher {
+ Sie spüren die leichtesten Windänderungen und verstehen, wie diese eingesetzt werden müssen. (Beschleunigung steigt um 10%.) 
+ }
+SailsMan {Supersegel}
+perkSailsMan {
+ Dank neuester Webtechniken können Sie alle Segelmanöver 10% schneller durchführen. 
+}
+Doctor1 {Sanitäter}
+perkDoctor1 {
+ Senkt die Verluste von Seeschlachten, Wunden und Kartätschen um 10%. 
+}
+Doctor2 {Lebensretter}
+perkDoctor2 {
+ Senkt die Verluste von Seeschlachten, Wunden und Kartätschen um 20%. 
+}
+InstantBoarding {Entertäuschung}

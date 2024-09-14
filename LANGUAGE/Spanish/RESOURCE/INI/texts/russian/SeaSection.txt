@@ -1,0 +1,52 @@
+Ship_critical {¡Golpe crítico!}
+Ship_sunk {¡%1 '%2' hundido! +%3 experiencia}
+Ship_sunk_other {¡%1 '%2' hundido!}
+Ship_got_good {%1 unidades de %2 rescatadas}
+Ship_cant_got_good {no hay sitio para %1}
+Fort_destroy {¡Fuerte %1 destruido! +%2 experiencia}
+Fort_cannon {¡Cañones del fuerte destruidos!}
+seg_Balls {Balas de cañón}
+seg_Grapes {Metralla}
+seg_Knippels {Balas encadenadas}
+seg_Bombs {Bombas}
+seg_Sailcloth {Lona}
+seg_Planks {Tablones}
+seg_Slaves {esclavos}
+seg_Wheat {Trigo}
+seg_Ebony {Ébano}
+seg_Chocolate {Cacao}
+seg_Sugar {Azúcar}
+seg_Wine {Vino}
+seg_Linen {Lino}
+seg_Rum {Ron}
+seg_Tobacco {Tabaco}
+seg_Coffee {Café}
+seg_Mahogany {Caoba}
+seg_Cinnamon {Canela}
+seg_Copra {Copra}
+seg_Paprika {Pimentón}
+seg_Fruits {Fruta}
+seg_Ale {Cerveza}
+seg_Silk {Seda}
+seg_Clothes {Ropa}
+seg_Cotton {Algodón}
+seg_Sandal {Sándalo}
+seg_Leather {Cuero}
+seg_Oil {Aceite}
+seg_Food {Víveres}
+seg_Weapon {Armas}
+seg_Gold {Oro}
+seg_Silver {Plata}
+seg_Powder {Pólvora}
+seg_Brick {Ladrillos}
+seg_Medicament {Medicina}
+seg_Cannon_12 {Cañón 12 lb}
+seg_Cannon_16 {Cañón 16 lb}
+seg_Cannon_24 {Cañón 24 lb}
+seg_Cannon_32 {Cañón 32 lb}
+seg_Cannon_42 {Cañón 42 lb}
+seg_Culverine_12 {Culebrina 12 lb}
+seg_Culverine_16 {Culebrina 16 lb}
+seg_Culverine_24 {Culebrina 24 lb}
+seg_Culverine_32 {Culebrina 32 lb}
+sea_exp_add {  +%1 experiencia}

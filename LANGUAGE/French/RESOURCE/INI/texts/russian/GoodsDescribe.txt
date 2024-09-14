@@ -1,0 +1,192 @@
+newline {
+
+}
+Balls {Boulets}
+Balls_descr {
+ Ces munitions de base sont simples, bon marché et sûres. Utiles pour la quasi-totalité des cibles, en attaque comme en défense. Ils sont efficaces contre les coques de vaisseaux et contre les forts. Ce sont les munitions qui disposent de la plus grande portée. 
+ Dégâts/dommages : coque - #f.2DamageHull# ; voiles - #f.2DamageRig# ; équipage - #f.2DamageCrew# 
+}
+Grapes {Mitraille}
+Grapes_descr {
+ Des petites billes de métal, versées dans les canons pour infliger des dommages terribles aux équipages. Peu efficace à longue portée, il est préférable d'utiliser la mitraille à courte portée en préparation de l'abordage. 
+ Dégâts/dommages : coque - #f.2DamageHull# ; voiles - #f.2DamageRig# ; équipage - #f.2DamageCrew# 
+}
+Knippels {Chaînes lestées}
+Knippels_descr {
+ Constituées de deux boulets de métaux reliés par une chaîne ou par un fil, les chaînes lestées sont conçues pour infliger des dégâts aux voiles et aux gréements ennemis. Les chaînes lestées volent dans les airs et s'enroulent autour de ce qu'elles frappent, détruisant ainsi les mâts ennemis. 
+ Dégâts/dommages : coque - #f.2DamageHull# ; voiles - #f.2DamageRig# ; équipage - #f.2DamageCrew# 
+}
+Bombs {Bombes}
+Bombs_descr {
+ Les munitions les plus chères et les plus destructrices disponibles ; c'est en fait un récipient rempli de poudre auquel il est adjoint une mèche. Après avoir été lancée, la bombe explose en vol faisant pleuvoir de la mitraille sur l'équipage ennemi, mettant le feu aux gréements et fracassant la coque par son onde de choc. 
+ Dégâts/dommages : coque - #f.2DamageHull# ; voiles - #f.2DamageRig# ; équipage - #f.2DamageCrew# 
+}
+Sailcloth {Toile}
+Sailcloth_descr {
+ Constituée du lin des îles de l'archipel, cette toile épaisse et grossière sert à tout, de la confection de vêtements à celles de camisoles et de voiles. 
+}
+Planks {Planches}
+Planks_descr {
+ Des planches en bois, nécessaires à la réparation des vaisseaux. 
+}
+Wheat {Blé}
+Wheat_descr {
+ Sur les terres fertiles du Nouveau Monde, le blé est moissonné trois fois par an. Le commerce du blé est une affaire assez profitable aux marchands. Sa farine sert à la confection des gâteaux les plus délicieux et des pains les plus succulents. 
+}
+Ebony {Ébène}
+Ebony_descr {
+ Un bois noir et cher, recherché pour sa dureté, sa résistance au feu et son lustre noir exotique. Il sert souvent à la construction de meubles pour les personnages riches et célèbres et à celles de sculptures et de décorations. De par son statut, les ventes d'ébène sont florissantes. 
+}
+Chocolate {Cacao}
+Chocolate_descr {
+ L'une des plus importantes découvertes aux Amériques a été cette plante à l'aspect certes anodin mais dont provient pourtant le célèbre chocolat. Recherché pour son délicieux goût exotique, le chocolat est particulièrement apprécié des femmes aisées. Le commerce du cacao est devenu populaire sur de nombreuses îles. 
+}
+Sugar {Sucre}
+Sugar_descr {
+ Depuis sa découverte dans le Nouveau Monde, la canne à sucre est devenue l'une des exportations majeures vers l'Europe. Bien que le sucre de canne puisse ne pas être aussi savoureux que celui de betterave, il est beaucoup moins cher. 
+}
+Wine {Vin}
+Wine_descr {
+ Les colons ont appris à faire pousser du raisin sur les terres fertiles du Nouveau Monde. Les vins qu'ils constituent sont à présent très prisés en Europe. Bien qu'il leur manque le raffinement et la délicatesse des vins européens, ils ont un arôme plaisamment puissant et un caractère propre.
+}
+Linen {Lin}
+Linen_descr {
+ Le tissu fabriqué sur ces terres, à partir duquel les vêtements sont cousus. 
+}
+Rum {Rhum}
+Rum_descr {
+ Le rhum pur et aromatique devint rapidement la boisson de choix de tout bon marin. La production de rhum est un commerce très profitable, la boisson étant facile à produire et sa demande ne diminuant jamais. Lors de longs voyages, le manque de rhum peut facilement mener à une mutinerie, tandis que des cales pleines de rhum augmentent le moral des hommes. 
+}
+Tobacco {Tabac}
+Tobacco_descr {
+ Ce sont des feuilles aromatiques. La pipe a été pendant très longtemps l'accessoire premier du véritable marin. Fumer s'est rapidement répandu comme passe-temps pour se relaxer. Le tabac est donc devenu très populaire. 
+}
+Coffee {Café}
+Coffee_descr {
+ Grâce à son goût exotique, à son arôme plaisant et à son effet sur le système nerveux, le café est rapidement devenu très populaire. Malgré les difficultés rencontrées, sa production augmente chaque année pour répondre à la demande croissante émanant de l'Ancien Monde. 
+}
+Mahogany {Acajou}
+Mahogany_descr {
+ Un bois rouge cher et résistant, utilisé pour préparer des ameublements de luxe. L'acajou est très prisé pour sa beauté et son originalité. Il ne pourrit pas, ne se corrode pas et prend feu difficilement. Bien que ce soit rare, il sert parfois à la construction de coques de vaisseaux. 
+}
+Cinnamon {Cannelle}
+Cinnamon_descr {
+ L'écorce séchée du laurier, traitée comme une épice. Des nations entières ont été rayées de la carte simplement pour en obtenir. 
+}
+Copra {Copra}
+Copra_descr {
+ Chair de noix de coco écrasée puis séchée. Le copra sert à la production de beurre de noix de coco, tandis que le dérivé sert à nourrir le bétail. 
+}
+Paprika {Paprika}
+Paprika_descr {
+ Une épice douce servant à agrémenter de nombreuses salades. 
+}
+Fruits {Fruits}
+Fruits_descr {
+ En arrivant sur le Nouveau Monde, les Européens ont découvert un large éventail de fruits nutritifs et délicieux ; des mangues, des citrons, des avocats et d'autres encore. 
+}
+Ale {Bière}
+Ale_descr {
+ Une boisson faiblement alcoolisée, faite à partir de malt et de houblon. Après le rhum et le vin, c'est la boisson la plus populaire du Nouveau Monde. 
+}
+Silk {Soie}
+Silk_descr {
+ Un tissu fin, léger et très cher. Il fut d'abord perfectionné en Chine où son secret fut gardé pendant plus de 2000 ans. Les Européens ont découvert il y a peu la méthode de sa fabrication et elle se répand maintenant dans le Nouveau Monde. Ce tissu est tellement unique qu'il peut passer par la plus étroite des fentes. 
+}
+Clothes {Vêtements}
+Clothes_descr {
+ Des vêtements de toile grossiers. Ils ne sont guère élégants mais leur résistance les rend très populaires parmi les peuples des lointaines colonies. 
+}
+Cotton {Coton}
+Cotton_descr {
+ Il sert de matière première à la confection de vêtements. Sa production demande un travail constant et un nombre d'ouvriers très important. C'est l'une des raisons de la popularité de l'esclavagisme.
+}
+Sandal {Santal}
+Sandal_descr {
+ Un bois très prisé. Il sert au traitement et à la production de l'encens. 
+}
+Leather {Cuir}
+Leather_descr {
+ Des peaux d'animaux traitées. Le cuir sert à la production de nombreux articles, comme les ceintures ou les chaussures. 
+}
+Oil {Huile}
+Oil_descr {
+ Depuis la Grèce antique, l'huile d'olive sert à assortir différents plats et à leur donner un arôme et un goût subtils. 
+}
+Slaves {Esclaves}
+Slaves_descr {
+ Une marchandise vivante, très demandée dans tout l'archipel. Les esclaves sont souvent des Africains ou des marins faits prisonniers par des ennemis. Leur vente peut rapporter beaucoup. Les esclaves constituent une force de travail majeure dans les colonies du Nouveau Monde. 
+}
+Powder {Poudre}
+Powder_descr {
+ Inventée par les Chinois, la poudre est nécessaire pour tirer aux canons. Sans elle, ils décoreraient simplement les ponts des vaisseaux comme d'inutiles trophées. Assurez-vous de toujours bien connaître la quantité dont vous disposez et de réapprovisionner vos stocks régulièrement. 
+}
+Food {Rations}
+Food_descr {
+ C'est tout ce dont vous avez besoin pour nourrir votre équipage et vos esclaves en mer. Un manque de rations mène à la famine, à une baisse du moral et à la mort de vos hommes. Chaque jour passé en mer requiert 1 unité pour 10 marins et 20 esclaves. 
+}
+Weapon {Armes}
+Weapon_descr {
+ Il vous faut des armes pour armer votre équipage ; une pour chaque homme. Un manque d'armes lors d'un abordage augmentera vos pertes. La mort d'un homme d'équipage mène à la perte de son arme. 
+}
+Gold {Or}
+Gold_descr {
+ Un minerai brut, extrait des mines du Nouveau Monde, à partir duquel l'or est fondu pour manufacturer un large éventail de bijoux. Emplir ses cales de cette marchandise est le rêve de tout capitaine. 
+}
+Silver {Argent}
+Silver_descr {
+ Un minerai brut, extrait des mines du Nouveau Monde, à partir duquel l'argent est fondu pour manufacturer un large éventail de bijoux. Le filon principal d'argent se trouve dans la Montagne d'argent, située près de Potosí. 
+}
+Brick {Briques}
+Brick_descr {
+ De grands blocs d'argile et de pierre. Ils servent à construire les bâtiments des cités et les forts. 
+}
+Medicament {Remèdes}
+Medicament_descr {
+ Un assortiment de divers remèdes : bouteilles, fioles, poudres, bandes, lotions ; tout ce qui peut sauver une vie humaine. En avoir à bord aidera à soigner les blessés que ce soit en mer ou à la suite d'une bataille. 
+}
+Cannon_12 {Canons de 12 livres}
+Cannon_12_descr {
+ Petits canons. Tire à l'aide de poudre noire. Lance des boulets, des bombes, de la mitraille et des chaînes lestées. Ils sont utilisés sur tous les petits vaisseaux, partout. 
+ Portée - #dFireRange# ; dégâts - x#f.1DamageMultiply# ; rechargement - #dReloadTime# sec. 
+}
+Cannon_16 {Canons de 16 livres}
+Cannon_16_descr {
+ Canons de taille moyenne. 
+ Portée - #dFireRange# ; dégâts - x#f.1DamageMultiply# ; rechargement - #dReloadTime# sec. 
+}
+Cannon_24 {Canons de 24 livres}
+Cannon_24_descr {
+ De grands canons pour de grandes batailles. 
+ Portée - #dFireRange# ; dégâts - x#f.1DamageMultiply# ; rechargement - #dReloadTime# sec. 
+}
+Cannon_32 {Canons de 32 livres}
+Cannon_32_descr {
+ D'énormes canons pour infliger de très lourds dégâts. Ils servent à couler les vaisseaux militaires et à bombarder des structures. Ils sont d'une utilisation très complexe. 
+ Portée - #dFireRange# ; dégâts - x#f.1DamageMultiply# ; rechargement - #dReloadTime# sec. 
+}
+Cannon_42 {Canons de 42 livres}
+Cannon_42_descr {
+ Canons conçus pour attaquer les forts. Ils ne peuvent être montés que sur les très grands vaisseaux. 
+ Portée - #dFireRange# ; dégâts - x#f.1DamageMultiply# ; rechargement - #dReloadTime# sec. 
+}
+Culverine_12 {Couleuvrines de 12 livres}
+Culverine_12_descr {
+ Petits canons de construction légère, assez longs. Elles sont utilisées sur les petits vaisseaux, partout. 
+ Portée - #dFireRange# ; dégâts - x#f.1DamageMultiply# ; rechargement - #dReloadTime# sec. 
+}
+Culverine_16 {Couleuvrines de 16 livres}
+Culverine_16_descr {
+ Armes moyennes, de portée supérieure. 
+ Portée - #dFireRange# ; dégâts - x#f.1DamageMultiply# ; rechargement - #dReloadTime# sec. 
+}
+Culverine_24 {Couleuvrines de 24 livres}
+Culverine_24_descr {
+ De grandes armes pour de grandes batailles. Leur longueur rend le rechargement plus difficile, mais leur portée donne un avantage certain. 
+ Portée - #dFireRange# ; dégâts - x#f.1DamageMultiply# ; rechargement - #dReloadTime# sec. 
+}
+Culverine_32 {Couleuvrines de 32 livres}
+Culverine_32_descr {
+ Des armes énormes pour infliger d'importants dégâts sur d'importantes distances. Celui qui tire en premier a l'avantage. 
+ Portée - #dFireRange# ; dégâts - x#f.1DamageMultiply# ; rechargement - #dReloadTime# sec. 
+}

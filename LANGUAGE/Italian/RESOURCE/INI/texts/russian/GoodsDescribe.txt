@@ -1,0 +1,192 @@
+newline {
+
+}
+Balls {Palle di cannone}
+Balls_descr {
+ Munizioni standard: semplici, economiche e affidabili. Utili per quasi tutti gli obiettivi e per il fuoco sia offensivo che difensivo. Particolarmente efficaci contro scafi e forti. 
+ Danno: scafo - #f.2DamageHull#; vele-#f.2DamageRig#; ciurma-#f.2DamageCrew# 
+}
+Grapes {Colpo a grappolo}
+Grapes_descr {
+ Piccole sfere metalliche versate nel cannone per infliggere terribili perdite umane. Dato che la gittata è ridotta, conviene usarli da vicino, mentre ci si prepara per un arrembaggio. 
+ Danno: scafo - #f.2DamageHull#; vele-#f.2DamageRig#; ciurma-#f.2DamageCrew# 
+}
+Knippels {Colpo a ripetizione}
+Knippels_descr {
+ Composti da due sfere di metallo collegate da una catena o un cavo, erano creati per danneggiare le vele e il sartiame nemico. Il knippel vortica in aria e si avvolge intorno al proprio obiettivo, distruggendo gli alberi dei nemici. 
+ Danno: scafo - #f.2DamageHull#; vele-#f.2DamageRig#; ciurma-#f.2DamageCrew# 
+}
+Bombs {Colpo esplosivo}
+Bombs_descr {
+ Le munizioni più distruttive e più costose in assoluto. Si tratta di un contenitore di ferro riempito di polvere da sparo e innescato da una miccia. Una volta lanciata, la bomba esplode a mezz'aria, spargendo frammenti sull'equipaggio, incendiando il sartiame e distruggendo lo scafo con l'onda d'urto prodotta. 
+ Danno: scafo - #f.2DamageHull#; vele-#f.2DamageRig#; ciurma-#f.2DamageCrew# 
+}
+Sailcloth {Tela}
+Sailcloth_descr {
+ Fatto di lino delle isole dell'arcipelago, questo spesso tessuto grezzo è utile per produrre vari oggetti, dalle camice alle vele. 
+}
+Planks {Assi}
+Planks_descr {
+ Assi di legno, necessarie per riparare le navi. 
+}
+Wheat {Grano}
+Wheat_descr {
+ Sul fertile suolo del Nuovo mondo, il grano viene mietuto tre volte l'anno. Il commercio di questo cereale è diventato un affare proficuo per i mercanti. La farina prodotta con il grano coltivato qui permette di preparare le torte e i dolci più soffici e deliziosi. 
+}
+Ebony {Ebano}
+Ebony_descr {
+ Legno nero costoso e pesante, apprezzato per la durezza, la resistenza al fuoco e il colore lucido ed esotico. Spesso impiegato nella costruzione di mobili per i ricchi e i potenti, oltre che per sculture e decorazioni. Le vendite di ebano stanno andando alle stelle. 
+}
+Chocolate {Cacao}
+Chocolate_descr {
+ Una delle scoperte più importanti nelle Americhe è stata questa umile piantina, che permette di produrre una delizia chiamata cioccolato. Apprezzato per il gusto esotico e dolce, il cioccolato fa impazzire le signore. Il commercio di cacao è diventato popolare su molte isole. 
+}
+Sugar {Zucchero}
+Sugar_descr {
+ Subito dopo la scoperta della canna da zucchero nel Nuovo mondo, questo alimento ha generato una delle maggiori esportazioni verso l'Europa. La canna da zucchero non è buona quanto lo zucchero raffinato, ma è molto più economica. 
+}
+Wine {Vino}
+Wine_descr {
+ I coloni hanno imparato a coltivare le vigne sul fertile suolo del Nuovo mondo. Ora i vini esportati in Europa riscuotono un grande successo. Sebbene non abbiano il gusto delicato e raffinato dei vini europei, hanno un aroma piacevolmente robusto e corposo.
+}
+Linen {Lino}
+Linen_descr {
+ Tessuto prodotto in queste terre, con il quale si confezionano abiti. 
+}
+Rum {Rum}
+Rum_descr {
+ Questo rum forte e aromatico è presto divenuto la bevanda preferita dai marinai. Il suo commercio è molto lucrativo, in quanto è facile da produrre e gode di una richiesta continua. Durante i viaggi lunghi, la carenza di rum può portare all'ammutinamento, mentre una scorta abbondante solleva il morale dell'equipaggio. 
+}
+Tobacco {Tabacco}
+Tobacco_descr {
+ Foglie aromatiche. Per molto tempo, la pipa è stata un accessorio immancabile per ogni vero lupo di mare, ma ora il fumo si è diffuso come hobby rilassante e così il tabacco è divenuto popolare. 
+}
+Coffee {Caffè}
+Coffee_descr {
+ Grazie al suo gusto esotico, l'aroma piacevole e l'aspetto corposo, il caffè ha goduto di un'immediata popolarità. Ignorando le difficoltà di coltivazione, la produzione di caffè cresce di anno in anno, per soddisfare la richiesta da parte dell'Europa continentale. 
+}
+Mahogany {Mogano}
+Mahogany_descr {
+ Legno rosso, molto durevole e costoso, usato per produrre mobili pregiati. Il mogano è apprezzato perché è insolito e molto bello, inoltre non marcisce, non si corrode ed è difficile da incendiare. Nonostante sia un materiale raro, a volte viene impiegato per la costruzione di scafi delle navi. 
+}
+Cinnamon {Cannella}
+Cinnamon_descr {
+Baccello di alloro essiccato e usato come spezia. Pur di ottenere la cannella, intere nazioni sono state annientate. 
+}
+Copra {Copra}
+Copra_descr {
+ Purea di cocco essiccata. Si usa per produrre burro di cocco, mentre lo scarto viene usato come alimento per il bestiame. 
+}
+Paprika {Paprica}
+Paprika_descr {
+ Spezia dolciastra usata in molte insalate. 
+}
+Fruits {Frutta}
+Fruits_descr {
+ Una volta giunti nel Nuovo mondo, gli europei hanno scoperto una vasta gamma di vegetali nutrienti e deliziosi, come mango, limoni, avocado e così via. 
+}
+Ale {Birra}
+Ale_descr {
+ Bevanda leggermente alcolica prodotta con malto e luppolo. Dopo il rum e il vino, è la bevanda più popolare nel Nuovo mondo. 
+}
+Silk {Seta}
+Silk_descr {
+ Tessuto fine, leggero e molto costoso, creato e rimasto in Cina per oltre 2000 anni. Non molto tempo fa, gli europei hanno carpito il segreto della produzione della seta, che ora può essere tessuta nel Nuovo mondo. Si tratta di un materiale così unico che lo si può trapassare anche con uno strappo sottilissimo. 
+}
+Clothes {Abiti}
+Clothes_descr {
+ Abiti di tela grezza. Non sono belli ma sono resistenti e quindi diffusi tra gli abitanti delle colonie più remote. 
+}
+Cotton {Cotone}
+Cotton_descr {
+ Materiale grezzo per la produzione di abiti. La sua coltivazione richiede un lavoro costante e una manodopera numerosa ed è una delle ragioni della popolarità della schiavitù.
+}
+Sandal {Legno di sandalo}
+Sandal_descr {
+ Legno pregiato usato per produrre incenso. 
+}
+Leather {Pelle}
+Leather_descr {
+ Pellame di animali lavorato. Ha molteplici utilizzi, dalle cinture alle scarpe. 
+}
+Oil {Olio}
+Oil_descr {
+ Fin dai tempi dell'antica Grecia, l'olio di oliva viene usato per preparare diverse pietanze, in quanto conferisce un gusto e un aroma piacevoli. 
+}
+Slaves {Schiavi}
+Slaves_descr {
+ Carico di esseri umani, molto richiesti nell'arcipelago. In genere si tratta di africani o di marinai prigionieri delle navi nemiche. La loro vendita può dare un buon profitto. Gli schiavi sono una forza lavoro fondamentale negli insediamenti del Nuovo mondo. 
+}
+Powder {Polvere da sparo}
+Powder_descr {
+ La polvere da sparo fu inventata dai cinesi e serve per utilizzare i cannoni, senza la quale sarebbero inutili come grossi pesci di metallo. Ricorda di rifornire regolarmente le tue scorte di polvere da sparo nella stiva. 
+}
+Food {Razioni}
+Food_descr {
+Tutto ciò che serve per nutrire l'equipaggio e gli schiavi in mare. La carenza di razioni causa inedia, cali di morale e perfino la morte. Per ogni giorno in mare, viene consumata una unità di cibo per ogni 10 marinai o per ogni 20 schiavi. 
+}
+Weapon {Armi}
+Weapon_descr {
+ Fornisci un paio di armi a ogni membro del tuo equipaggio. La carenza di armi durante un arrembaggio aumenta le tue perdite. La morte di un marinaio causa la diminuzione delle scorte di armi. 
+}
+Gold {Oro}
+Gold_descr {
+ Minerale grezzo estratto nelle miniere del Nuovo mondo da cui viene prodotto l'oro, con il quale si realizzano diversi oggetti e ninnoli. Catturare una nave con le stive piene di oro è il sogno di ogni capitano. 
+}
+Silver {Argento}
+Silver_descr {
+ Minerale grezzo estratto nelle miniere del Nuovo mondo da cui viene prodotto l'argento, con il quale si realizzano diversi oggetti e ninnoli. La vena d'argento più grande si trova in un luogo chiamato 'montagna d'argento', vicino a Potosí. 
+}
+Brick {Mattoni}
+Brick_descr {
+ Grossi blocchi di argilla e pietra usati per costruire edifici cittadini e forti. 
+}
+Medicament {Medicina}
+Medicament_descr {
+ Assortimento necessario di medicamenti: bottigliette, fiale, polveri, garze, lozioni, tutto ciò che può salvare una vita umana. Se le tieni a bordo, potrai salvare i feriti in mare o in battaglia. 
+}
+Cannon_12 {Cannoni da 12 libbre}
+Cannon_12_descr {
+ Piccoli cannoni che esplodono polvere da sparo, palle di cannone di ferro, bombe, colpi a grappolo e a ripetizione. Usati sui vascelli di dimensioni ridotte. 
+ Gittata - #dFireRange#; danno - x#f.1DamageMultiply#; ricarica - #dReloadTime# sec. 
+}
+Cannon_16 {Cannoni da 16 libbre}
+Cannon_16_descr {
+ Cannoni di medie dimensioni. 
+ Gittata - #dFireRange#; danno - x#f.1DamageMultiply#; ricarica - #dReloadTime# sec. 
+}
+Cannon_24 {Cannoni da 24 libbre}
+Cannon_24_descr {
+ Cannoni seri per le battaglie più serie. 
+ Gittata - #dFireRange#; danno - x#f.1DamageMultiply#; ricarica - #dReloadTime# sec. 
+}
+Cannon_32 {Cannoni da 32 libbre}
+Cannon_32_descr {
+ Armi enormi che causano danni ingenti. Utili per affondare vascelli militari e bombardare strutture. Molto difficili da utilizzare. 
+ Gittata - #dFireRange#; danno - x#f.1DamageMultiply#; ricarica - #dReloadTime# sec. 
+}
+Cannon_42 {Cannoni da 42 libbre}
+Cannon_42_descr {
+ Concepiti per i forti, si possono comunque montare anche sulle navi più grandi. 
+ Gittata - #dFireRange#; danno - x#f.1DamageMultiply#; ricarica - #dReloadTime# sec. 
+}
+Culverine_12 {Colubrine da 12 libbre}
+Culverine_12_descr {
+ Piccoli cannoni leggeri, con canne relativamente lunghe. Usati sui vascelli di dimensioni ridotte. 
+ Gittata - #dFireRange#; danno - x#f.1DamageMultiply#; ricarica - #dReloadTime# sec. 
+}
+Culverine_16 {Colubrine da 16 libbre}
+Culverine_16_descr {
+ Armi medie, dalla gittata superiore. 
+ Gittata - #dFireRange#; danno - x#f.1DamageMultiply#; ricarica - #dReloadTime# sec. 
+}
+Culverine_24 {Colubrine da 24 libbre}
+Culverine_24_descr {
+ Armi serie per le battaglie più serie. La lunghezza della canna rende difficile la ricarica, ma aumenta la gittata e l'efficacia. 
+ Gittata - #dFireRange#; danno - x#f.1DamageMultiply#; ricarica - #dReloadTime# sec. 
+}
+Culverine_32 {Colubrine da 32 libbre}
+Culverine_32_descr {
+ Armi enormi che infliggono gravi danni a lunga distanza. Chi le usa per primo è sicuro di vincere. 
+ Gittata - #dFireRange#; danno - x#f.1DamageMultiply#; ricarica - #dReloadTime# sec. 
+}

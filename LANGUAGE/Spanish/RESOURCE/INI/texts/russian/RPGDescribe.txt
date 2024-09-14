@@ -1,0 +1,193 @@
+_info {
+ Archivo - Descripción del sistema RPG
+Creado: ALexusB 17.08.05
+}
+newline {
+
+}
+Strength {
+ (Poder) Fuerza. Se necesita para golpear fuerte, lanzar lejos y levantar mucho peso. Afecta a los puntos de peso (capacidad de levantamiento) y a los puntos de vida. Es imprescindible para las habilidades que requieren esfuerzo físico, como el manejo general de armas y, en particular, semipesadas y pesadas. 
+}
+Perception {
+ (Perspicacia) Percepción. Talento para ver y oír con claridad. Si no tienes buen ojo, las balas de cañón apenas le darán al enemigo. Afecta especialmente a las habilidades de Precisión y Sigilo. 
+}
+Agility {
+ (Reacción) Agilidad. Coordinación entre la vista y las manos. A un torpe se le engancharía la espada en la vaina y el gancho de abordaje en los pantalones. Necesaria para habilidades tales como las de Armas ligeras y semipesadas, Pistolas y Abordaje. Afecta a la cantidad máxima de energía. 
+}
+Charisma {
+ (Autoridad) Carisma. La combinación de un aspecto curtido y masculino y un pico de oro. Un líder no tiene que utilizar la fuerza para hacerse con las mercancías de un comerciante, se las dará él mismo. Los mejores hombres le seguirán y las doncellas más hermosas le esperarán en cada puerto. El carisma es necesario para ciertas habilidades, como el Liderazgo y el Comercio. Afecta al número de oficiales que se unen a ti. 
+}
+Intellect {
+ (Talento) Inteligencia. El conocimiento, la sabiduría y la habilidad de tomar decisiones rápidas. Un hombre inteligente no tendrá problemas para recargar el arma enseguida o conseguir mejores precios en la tienda. También hace falta inteligencia para manejar los instrumentos de navegación. Afecta a las habilidades de Comercio, Cañones y Navegación y, sobre todo, la rapidez con la que se asciende de rango y se aprenden nuevas capacidades personales y del barco. 
+}
+Endurance {
+ (Resistencia) Constitución. Muy necesaria para que un héroe pueda sobrevivir a la dura vida de pirata. Además, los posibles clientes también la necesitan. Esta aptitud afecta sobre todo a la Reparación y la Defensa, así como al incremento de los puntos de vida y de peso. 
+}
+Luck {
+ (Éxito) Suerte ¿Qué se puede decir de la suerte? Si tienes suerte, eres todo un caballero; si no, te quedas en nada. La suerte te ayuda cuando no te queda otro recurso. Las balas pasarán de largo y los enemigos pasarán a tu lado sin verte. Afecta a las habilidades de Pistolas, Suerte y Sigilo. 
+}
+FencingLight {
+ Capacidad de manejar armas ligeras, principalmente rapiers y armas mortales pequeñas. Depende de la Reacción y la Perspicacia. (R*0.9+I*0.1) 
+}
+Fencing {
+ Capacidad de manejar sables, armas que no solo necesitan fuerza sino también pericia. Depende del Poder y la Reacción. (P*0.6+R*0.4) 
+}
+FencingHeavy {
+ Para manejar espadas, hachas y espadas anchas se necesita mucha fortaleza física. Depende del Poder y la Resistencia. (P*0.9+E*0.1) 
+}
+Pistol {
+ Habilidad de usar aparatos de tecnología moderna, que pueden disparar pequeñas balas de plomo a grandes distancias. Se requiere pericia y algo de suerte. Quién sabe a dónde llegará la bala... Depende de la Reacción y el Éxito. (R*0.5+S*0.5) 
+}
+Fortune {
+ Suerte: en resumidas cuentas, tener moña. Hace falta para todo. Depende del Éxito. (S) 
+}
+Leadership {
+ Liderazgo. Cuando todos se dan cuenta de que mientras estén contigo el barco no se hundirá en ningún combate, empiezan a creer en ti y las tabernas empiezan a llenarse de hombres que quieren unirse a tu tripulación. Los barcos enemigos se rinden en cuanto ven tu bandera. Si tu nivel autoridad es alto, tus hombres serán capaces de abordar al diablo. Depende de la Autoridad y el Talento. (A*0.9+T*0.1) 
+}
+Commerce {
+ Comercio. La habilidad de hacer una pasta con algo que compraste el día anterior por una miseria. Tienes que conocerte las mejores rutas comerciales, saber cómo está el mercado y mantener buenas relaciones con los dueños de las tiendas. Así siempre tendrás el bolsillo lleno y te quitarás de encima preocupaciones como el no poder pagar a la tripulación o la falta de lona en las tiendas. Se necesita Talento y la firme Autoridad de un líder. (T*0.8+A*0.2) 
+}
+Accuracy {
+ Precisión. Una de las cualidades más importantes para cualquiera que surque los vastos mares. Cualquier capitán que se precie no malgastará la pólvora y la munición en los peces de alrededor. ¡Cada bala tiene que dar en el blanco! ¡Y cuando la niebla de la guerra se disipe, no deberían quedar restos en el horizonte! No podrás llegar a ninguna parte sin una buena Perspicacia y algo de Éxito. (I*0.8+S*0.2) 
+}
+Cannons {
+ Cañones. ¡Venga, rápido! Prepárate y coloca el arma. Antes de que te dejen de pitar los oídos, limpia el cañón otra vez, cárgalo y apunta. No te olvides de echarles agua por encima para que no se recalienten. Entre el estruendo y el furor de la batalla no hay tiempo para relajarse. ¡Carga, apunta y dispara! Se necesitan Talento y Poder. (T*0.6+P*0.4) 
+}
+Sailing {
+ Navegación. Saber llevar un barco a puerto, ya sea durante una tormenta o a través de la niebla. También consiste en leer los instrumentos de navegación y estar al mando de una escuadra. Cualquier barco en manos de un buen capitán volará como un pájaro. Depende de la Perspicacia y el Talento. (I*0.2+T*0.8) 
+ La falta de habilidades de navegación conlleva penalizaciones en todas las habilidades y características del héroe. 
+ la clase 1 necesita 95 
+ la clase 2 necesita 80 
+ la clase 3 necesita 65 
+ la clase 4 necesita 40 
+ la clase 5 necesita 25 
+ la clase 6 necesita 1 
+ La diferencia entre el nivel de habilidades de navegación actual y el necesario se deducirá de la clase del barco. 
+}
+Repair {
+ Reparación. Cuando te llueven balas enemigas que hacen polvo la cubierta y destrozan las velas, cuando la tormenta te rompe el casco, cuando el viento arranca los cabos de golpe, entonces es cuando la habilidad de reparación se convierte en la más importante. Sobre todo hace falta Resistencia, pero también necesitarás algo de Perspicacia. (E*0.8+I*0.2) 
+}
+Grappling {
+ Abordaje. Para saber colocar el barco justo al lado de la cubierta enemiga, lanzar una pasarela bien a la primera, arremeter contra el aterrorizado enemigo, arrasar las cubiertas con la fuerza de un huracán y conseguir el merecido premio hacen falta maña y experiencia. Aun así, el tamaño del botín compensa el esfuerzo. Requiere Reacción y Talento. (R*0.7+T*0.3) 
+}
+Defence {
+ Defensa. Según van pasando los días, la tripulación se hace al barco, de modo que cada marinero curtido vale más que diez novatos de la taberna. Por lo tanto, un buen capitán hará lo posible por evitar que sus hombres mueran innecesariamente en combate. Para animar a la tripulación a que defienda el barco se necesita tanto Resistencia como buena Autoridad. (E*0.5+A*0.5) 
+}
+Sneak {
+ Sigilo. Esta es una habilidad totalmente necesaria si has de pasar al lado de un edificio enemigo sin ser visto, ocultarte de tus perseguidores en alta mar o atacar como un relámpago a un enemigo que no te ha visto. Imposible sin mucho Éxito y Perspicacia. (S*0.5+I*0.5) 
+}
+Loyality {
+ La lealtad de los oficiales la determinarán tus acciones. Los oficiales de buena reputación no trabajan para un canalla durante mucho tiempo, mientras que los rufianes no tienen mucha paciencia para llevar una vida honesta. 
+}
+Ship_abilities {
+ Capacidades que alteran el manejo del barco. 
+ El número indica cuántas habilidades quedan por asignar. 
+}
+Personal_abilities {
+ Capacidades que mejoran las del personaje. 
+ El número indica cuántas habilidades quedan por asignar. 
+}
+Rank {
+ Rango: el nivel de desarrollo del personaje en el juego. A medida que aumentan las habilidades, también lo hace el rango. Según se sube de rango, aumenta la vida del personaje (dependiendo de la Resistencia). 
+ Cuando el personaje suba de rango, atraerá a enemigos más fuertes y conseguirá objetos más sofisticados. 
+}
+Life {
+ Vida: la resistencia del personaje, ya que está relacionada con el daño físico. Cuanta más vida tiene un personaje, más daño debe recibir para perderla. 
+ Cada vez que se suba de rango, aumentará la vida, dependiendo de la Resistencia. 
+ }
+Health {
+ Salud: la condición física general del héroe. Cuanto peor sea su salud, más se verán reducidas sus capacidades. La salud empeora cada vez que le hieren y se recupera más rápido si se evita el combate cuerpo a cuerpo. 
+}
+Energy {
+ Energía: la resistencia del personaje en un combate cuerpo a cuerpo. Todos los ataques gastan una cierta cantidad de energía. Si un personaje se cansa durante el combate, tendrá que tomarse un respiro y recuperar la energía. 
+ La cantidad máxima de energía del héroe depende de su nivel de Reacción. 
+}
+Money {
+ Dinero: a todos nos gusta el dinero, ¡por eso siempre lo queremos! Doblones, piastras, táleros, guineas... ¿Qué mas da? ¡Todo es oro! 
+}
+Reputation {
+ Reputación: indica cómo te pueden tratar los demás. Puedes tener una reputación alta (positiva), media o baja (negativa). Puedes cambiar tu reputación dependiendo de lo que hagas, y eso afectará el cómo interpreten los demás personajes el resto de cosas que hagas en el juego. 
+ La fama de un héroe va desapareciendo con el tiempo y la gente se va olvidando del pasado. Sin embargo, todos se acuerdan mejor de lo malo, mientras que lo bueno se olvida deprisa. Si no haces nada, tu reputación irá bajando hasta la de "marinero corriente". 
+}
+weight {
+ Peso: peso máximo que puede cargar un personaje antes de que empiece a perder la movilidad. 
+ Depende del Poder y la Resistencia. 
+ }
+Title {
+ Título: título honorífico que indica los beneficios que el personaje ha aportado al imperio al que sirve. 
+}
+NextExp {
+ El umbral de experiencia muestra tu rango actual, la cantidad de capacidades que has acumulado, los puntos de habilidad que tienes y los que te quedan para pasar de nivel. Puedes ganar puntos de habilidad cuando hagas cosas. Por ejemplo, cada vez que hagas un disparo certero con la pistola, se te suman puntos a la habilidad de armas de fuego. Al final, se suman estos puntos a tu experiencia general y a las Capacidades personales o del barco (dependiendo de la habilidad y capacidades relacionadas). Cada vez que pases el umbral de rango o habilidad, subirás de nivel, aumentando así tus puntos de vida y habilidad, que puedes repartir como quieras.}
+TABLE_PERKS {Capacidades del héroe}
+TABLE_PERKS_desc {
+ Si tienes puntos de capacidades personales y del barco puedes repartirlos entre las distintas capacidades. 
+ Haz doble clic sobre la capacidad que desees para añadir un punto. 
+ Debido a ciertas relaciones entre capacidades, algunas no se pueden elegir al principio. Para empezar, tienes que seleccionar las capacidades más básicas. Más tarde estarán disponibles otras más avanzadas. 
+}
+PERK_TABLE_NEED {Requisitos de habilidad}
+PERK_TABLE_NEED_desc {
+ Para escoger la habilidad seleccionada, el héroe necesita las siguientes competencias. 
+}
+Nation_hint {
+ La nación del héroe: la nación que eliges al comenzar el juego, o la que ha expedido la patente que llevas actualmente. Puedes verla en el menú 'Personaje'. En el menú 'Nación' puedes comprobar la bandera que lleva tu barco, y cambiarla para ocultar tu verdadera identidad. Aun así, es posible que te vean los barcos enemigos o los guardias del puerto enemigo. El éxito del truco dependerá del sigilo del héroe. Si la nación elegida le ha puesto precio a su cabeza, le considerará su enemigo. 
+ La detección enemiga depende de la relación entre los países y las recompensas ofrecidas por capturar al jugador. 
+ El botón de ir rápidamente a un sitio no funciona con ciudades enemigas. 
+}
+England_descr {
+ Inglaterra. Si alguien consigue echar a España del Nuevo Mundo, será Inglaterra. Mientras que en el Viejo Mundo Francia sigue dándole problemas al Escorial con otra guerra de sucesión al trono español, Inglaterra se está haciendo con las colonias españolas una tras otra, en su intento por conseguir el mayor imperio naval de la historia. 
+}
+France_descr {
+ Francia. Desde que ascendió al trono, Luis XIV ha incrementado la presencia militar en el Nuevo Mundo. Una importante potencia colonial que solo se preocupa de sus propios intereses. 
+}
+Holland_descr {
+ Países Bajos. Una nación joven que se esfuerza por hacerse con el control del comercio. Se alía con Francia en su lucha común contra los españoles. En cuanto a los demás, los holandeses se mantienen firmemente neutrales. 
+}
+Spain_descr {
+ España. Una importante potencia colonial, dueña de la mayor parte del Nuevo Mundo. Siempre bajo presión de las otras dos potencias más importantes, Francia e Inglaterra, que quieren extender sus dominios en el Nuevo Mundo. 
+}
+Pirate_descr {
+ Piratas: tipos que prefieren ignorar las diferencias entre naciones y limitarse a seguir las leyes de la Cofradía de los Hermanos de la Costa, lo cual no hace que dejen de merodear y vender sus botines en Port Royal o Tortuga. A veces les da por aliarse con algún país, pero a todos les une una cosa: el odio a España. 
+ En cualquier caso, la bandera pirata va igual de bien que la roja para patrullar las colonias. ¿Un barco solitario, o un agente secreto? Ese es el destino de un pirata. 
+}
+Hunter_hint {
+ Tu relación con el imperio, en lo que se refiere a soldados y ciudadanos. Si haces algo bueno por la nación, aumentará tu reputación; si haces algo malo, puede que le pongan precio a tu cabeza, comenzando así una persecución sin descanso, por tierra y por mar, y es que en el Caribe cazarrecompensas no faltan. Sin embargo, puedes reducir el precio de tu cabeza si haces algo bueno o sobornas al tipo adecuado. Hoy por ti, mañana por mí. 
+}
+LevelComplexity {Dificultad}
+LevelComplexity_desc {
+ La dificultad del juego va desde 'marinero' hasta 'imposible', pasando por diez niveles distintos. 'Capitán' es el nivel medio. Afecta a la rapidez con la que mejoran los personajes, aumenta el dinero y mucho más. 
+}
+RechargePistolOnLine {Recarga automática}
+RechargePistolOnLine_desc {
+ En este modo, las pistolas se recargan automáticamente durante el combate. Si no, una vez que te quedes sin balas dependerás de la espada que tienes envainada. 
+ Este modo afecta a todos los personajes del juego.}
+HardcoreGame {Partida extrema}
+HardcoreGame_desc {
+ ¿No tiene suficiente adrenalina el juego? ¿Quieres sentirte como un corsario de verdad y sufrir las consecuencias de tus actos? En este modo sólo puedes guardar la partida en tierra, en las iglesias. Tendrás que vivir con cualquier error que cometas. ¿Crees que eres lo suficientemente duro? 
+}
+ArcadeSailMode_desc {
+ La velocidad y el dinamismo de los combates navales. ¿Prefieres tomar decisiones rápidas y hacer muchas cosas a la vez o pensarte tranquilamente la táctica a seguir? 
+}
+EncountersRate_desc {
+ La frecuencia de encuentros enemigos durante la partida, sobre todo barcos en el mapa del mundo. 
+}
+WorldAlivePause {Encargo de los Imperios}
+WorldAlivePause_desc {
+ Este modo deja al jugador completar una de las misiones de un imperio, pero a su vez detiene el 'mundo real' (desplazamientos de los gobernadores generales, invasiones de ciudades por otros países, que el héroe defienda la ciudad, etc.) antes de que se acabe la partida. 
+ El mundo real vuelve a la acción una vez que se ha completado la misión. 
+}
+Prisoner {Prisionero}
+Prisoner_desc {
+ Puedes interrogar a un prisionero en la bodega del barco para averiguar su identidad. Luego puedes pedirle un rescate a su país. 
+ Los mejores rescates los pagan los gobernadores de la misma nación que el prisionero, aunque el precio puede variar entre ciudades. 
+}
+shipChoose_hint {
+ Puedes hacer clic sobre un barco acompañante para comerciar amigablemente con la tripulación. Funciona tanto en tierra como en el mar. Si quieres comerciar en mitad de un combate, tienes que colocar el barco al lado del suyo. 
+}
+GoodsCargo_hint {
+ Una lista de las mercancías de la bodega. 
+ Si haces doble clic sobre un objeto aparecerá la descripción, con la opción de deshacerse de él. 
+}
+EXP_SLIDE {Velocidad de experiencia}
+EXP_SLIDE_desc {
+ Aquí puedes cambiar la velocidad con la que el héroe y sus oficiales adquieren experiencia. Cuanto mayor sea la velocidad, más rápido acumulan puntos de habilidad, adquiriendo nuevas capacidades y subiendo de nivel. 
+}

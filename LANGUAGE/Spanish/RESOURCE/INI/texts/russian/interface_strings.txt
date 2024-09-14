@@ -1,0 +1,102 @@
+Delete profile confirm {¿Seguro que quieres borrar el perfil y todo el progreso guardado?}
+Delete savefile confirm {¿Seguro que quieres borrar esta partida guardada?}
+Overwrite savefile confirm {¿Seguro que quieres sobrescribir esta partida guardada?}
+Low storage and unable save create {No hay suficiente espacio para guardar la partida.}
+Load game confirm {¿Seguro que quieres cargar esta partida?}
+Unable to Load save game {No se ha podido cargar la partida.}
+Salary info {Tu equipo te pide el salario del mes. \n¿Se lo das?}
+All info {Suma: }
+New game confirm {¿Seguro que quieres empezar una partida nueva?}
+Insert Disk Ok {Inserta el disco uno.}
+save game limit {Has excedido la capacidad de almacenamiento. Borra algunos archivos antiguos.}
+SaveLimit {En este juego, sólo se puede guardar en las iglesias.}
+FoodLimit {Comida en el barco para}
+Weight {Peso}
+Weight pcs {Unidades de peso}
+Dist {Dist.}
+Damage {Daño}
+Time {Tiempo}
+Ship__ {Barco: '}
+Trade interface {Menú de comercio}
+Trade_interface_hint_1 {Haz doble clic o pulsa [Intro] sobre las líneas de la tabla para abrir el menú de compra/venta. 
+ Mantén pulsado [Mayús] y pulsa la flecha hacia la izquierda o hacia la derecha para abrir el documento con las cantidades máximas. 
+ Escribe un número entero positivo para comprar o negativo (con un menos) para vender. 
+ Pulsa la flecha hacia la izquierda o hacia la derecha para cambiar el número de unidades (mantén pulsado [Mayús] para seleccionar la cantidad máxima). Pulsa [Intro] para aceptar o [Esc] para cancelar. 
+ En el documento, o según bajas la tabla, puedes ver las descripciones de cada objeto debajo de la tabla.}
+Trade_interface_hint_2 {Para vender todo rápidamente: pulsa la flecha hacia arriba o hacia abajo, [Mayús] + la flecha hacia la derecha y pulsa [Intro]}
+Trade_interface_hint_3 {Colores - rojo: contrabando, azul: importación, verde: exportación}
+__pack {, paquete}
+Sell {Vender}
+Gold {Oro}
+__weight {, peso}
+cwt {q}
+Buy {Comprar}
+Pack {Paquete}
+Pack weight {Peso del paquete}
+_Robbery {: Saqueo}
+Robbery_interface {Interfaz de saqueo de ciudades}
+Robbery_interface_hint_1 {Haz doble clic o pulsa [Intro] sobre las líneas de la tabla para abrir el menú de organizar objetos. 
+ Mantén pulsado [Mayús] y pulsa la flecha hacia la izquierda o hacia la derecha para abrir el documento con las cantidades máximas. 
+ Escribe un número entero positivo para comprar o negativo (con un menos) para vender. 
+ Pulsa la flecha hacia la izquierda o hacia la derecha para cambiar el número de unidades (mantén pulsado [Mayús] para seleccionar la cantidad máxima). Pulsa [Intro] para aceptar o [Esc] para cancelar. 
+ En el documento, o según bajas la tabla, puedes ver las descripciones de cada objeto debajo de la tabla.}
+Robbery_interface_hint_2 {Para cogerlo todo rápidamente: pulsa la flecha hacia arriba o hacia abajo, [Mayús] + flecha hacia la derecha, [Intro]}
+City {Ciudad}
+Leave {Irse}
+Take {Coger}
+Item name {Nombre del objeto}
+Qty {Cant.}
+Items {Objetos}
+Items_hint_1 {En esta interfaz puedes ver al héroe y equiparle con una espada, una pistola, un catalejo o una coraza. 
+ Además, puedes ver el inventario de tus oficiales, acompañantes y pasajeros. Al equiparlos con nueva indumentaria eligen sus propias armas. 
+ Cuando estés en tierra, puedes intercambiar objetos con tus oficiales pulsando el botón 'comercio'.}
+Items2 {Tus objetos}
+Trader items {Objetos de comercio}
+Trader_items_hint_1 {Haz doble clic o pulsa [Intro] sobre las líneas de la tabla para abrir el menú de compra/venta. 
+ Mantén pulsado [Mayús] y pulsa la flecha hacia la izquierda o hacia la derecha para abrir el documento con las cantidades máximas. 
+ Escribe un número entero positivo para comprar o negativo (con un menos) para vender. 
+ Pulsa la flecha hacia la izquierda o hacia la derecha para cambiar el número de unidades (mantén pulsado [Mayús] para seleccionar la cantidad máxima). Pulsa [Intro] para aceptar o [Esc] para cancelar. 
+ En el documento, o según bajas la tabla, puedes ver las descripciones de cada objeto debajo del cursor.}
+Trader_items_hint_2 {La lista de venta omite los objetos que lleve equipados el personaje.}
+Trader {Mercader}
+Ships {Barcos}
+Stat_1 {Hundidos con cañón}
+Stat_2 {Hundidos por abordaje}
+Stat_3 {Capturados por abordaje}
+Class {Clase}
+Killed {Muertes}
+Stat_4 {por espada}
+Stat_5 {por pistola}
+Stat_6 {Soldados}
+Stat_7 {Ciudadanos}
+Stat_8 {Malvados}
+Stat_9 {Otros}
+Total {Total}
+Stat_11 {Eventos}
+Stat_12 {N.o}
+Stat_13 {Barcos vendidos}
+Stat_14 {Barcos comprados}
+Stat_15 {Motines}
+Stat_16 {Rebeliones de esclavos}
+Stat_17 {Eventos}
+Stat_18 {Fortines destruidos}
+Stat_19 {Ciudades capturadas}
+Stat_20 {Ciudades saqueadas}
+Stat_21 {Barcos capturados}
+Stat_22 {Barcos hundidos}
+Stat_23 {PRÉSTAMOS}
+Stat_24 {Barcos liberados}
+Stat_25 {Inglaterra}
+Summ {Suma}
+Date {Fecha}
+Stat_26 {Meses}
+Stat_27 {AHORRO}
+Nation {Nación}
+Place {Lugar}
+Actuality {Fecha}
+Type {Tipo}
+Trade_interface_hint_4 {Haz doble clic o pulsa [Intro] sobre las líneas de la tabla para abrir el menú de compra/venta. 
+ Mantén pulsado [Mayús] y pulsa la flecha hacia la izquierda o hacia la derecha para abrir el documento con las cantidades máximas. 
+ Escribe un número entero positivo para comprar o negativo (con un menos) para vender. 
+ Pulsa la flecha hacia la izquierda o hacia la derecha para cambiar el número de unidades (mantén pulsado [Mayús] para seleccionar la cantidad máxima). Pulsa [Intro] para aceptar o [Esc] para cancelar. 
+ En el documento, o según bajas la tabla, puedes ver las descripciones de cada objeto debajo del cursor.}

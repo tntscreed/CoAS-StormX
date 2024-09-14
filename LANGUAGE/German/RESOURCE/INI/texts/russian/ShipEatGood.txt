@@ -1,0 +1,37 @@
+Ship_got_good {%1 Einheiten %2 geborgen}
+Ship_cant_got_good {kein Platz für %1}
+seg_Balls {Kanonenkugeln}
+seg_Grapes {Kartätschen}
+seg_Knippels {Kettenkugeln}
+seg_Bombs {Sprengkugeln}
+seg_Sailcloth {Segeltuch}
+seg_Planks {Bohlen}
+seg_Slaves {Sklaven}
+seg_Wheat {Weizen}
+seg_Ebony {Ebenholz}
+seg_Chocolate {Kakao}
+seg_Sugar {Zucker}
+seg_Wine {Wein}
+seg_Linen {Leinen}
+seg_Rum {Rum}
+seg_Tobacco {Tabak}
+seg_Coffee {Kaffee}
+seg_Mahogany {Mahagoni}
+seg_Cinnamon {Zimt}
+seg_Copra {Kopra}
+seg_Paprika {Paprika}
+seg_Fruits {Obst}
+seg_Ale {Ale}
+seg_Silk {Seide}
+seg_Clothes {Kleidung}
+seg_Cotton {Baumwolle}
+seg_Sandal {Sandelholz}
+seg_Leather {Leder}
+seg_Oil {Öl}
+seg_Food {Rationen}
+seg_Weapon {Waffen}
+seg_Gold {Gold}
+seg_Silver {Silber}
+seg_Powder {Pulver}
+seg_Brick {Ziegel}
+seg_Medicament {Medizin}

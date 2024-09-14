@@ -1,0 +1,125 @@
+info {
+    Generador de tesoros
+    Guión creado por ALexusB 05.11.04
+}
+type_full_0 {Esto es #sMapIslName#. El mapa muestra un lugar secreto #sMaplocName# donde un famoso pirata escondió su tesoro. 
+ La autenticidad del mapa la garantizan las marcas de sangre, prueba de que ha cambiado de manos muchas veces.
+}
+type_full_0_isl {}
+type_full_0_mein {}
+type_full_1 {
+ En este mapa de #sMapIslName# se puede ver una X encima del lugar donde está escondido el tesoro #sMaplocName#. Sin embargo, nunca sabrás si hay un tesoro allí o no a menos que vayas y lo compruebes. 
+ El mapa es bastante viejo, pero no hay motivos para dudar de su autenticidad. 
+}
+type_full_1_isl {}
+type_full_1_mein {}
+type_full_2 {
+ El mapa es nuevo y el papel todavía no está amarillento. Según la X, el tesoro está escondido en algún lugar #sMaplocName#, en la isla de #sMapIslName#. ¿Será verdad? ¡No pasa nada por probar! 
+}
+type_full_2_isl {}
+type_full_2_mein {}
+type_part {
+ Esta es la mitad de un mapa que definitivamente lleva a un tesoro. Es imposible saber dónde está con la poca información que contiene este trozo, pero espero que la otra mitad esté en algún sitio y un día de estos termine en mis manos. 
+ ¡Entonces todo se aclarará! 
+}
+type_fake {
+ Se supone que este mapa lleva a un tesoro. Por supuesto, no pasa nada por ir y comprobarlo, pero se nota que es un mapa falso. 
+ Será mejor tirarlo. 
+}
+Antigua_Grot {en la cueva a la derecha de la costa de Willoughby}
+Antigua_Grot_box1 {en un cofre, encima de una roca grande}
+SentJons_TownCave {en la mazmorra de la ciudad de Saint John}
+SentJons_TownCave_box1 {debajo de unas maderas en un callejón sin salida}
+SentJons_TownCave_box2 {en el túnel sin salida de una mina}
+SentJons_TownCave_box3 {en la obstrucción}
+Barbados_Cave {en una cueva cerca de Bridgetown}
+Barbados_Cave_box1 {debajo de unas maderas en un callejón sin salida}
+Beliz_Cave {en una cueva, a la derecha de la salida de Belice}
+Beliz_Cave_box1 {en una cueva, junto a un puente de piedra}
+Beliz_Cave_box2 {en un cofre, encima de una roca grande}
+Beliz_Cave_box3 {en un cofre, junto a una cuerda que cuelga del techo}
+Beliz_Cave_2 {en una cueva, junto a la salida de Belice}
+Beliz_Cave_2_box1 {debajo de unas maderas en un callejón sin salida}
+Bermudes_Dungeon {en la mazmorra bajo el astillero del asentamiento pirata}
+Bermudes_Dungeon_box1 {en un cofre, tras una puerta cerrada}
+Bermudes_Dungeon_box2 {en un cofre, tras una puerta abierta}
+Bermudes_Dungeon_box3 {en un cofre, en un callejón sin salida}
+Bermudes_Dungeon_box4 {en un cofre, detrás de los barriles}
+Caracas_Grot {en una cueva, a la izquierda de la salida de Caracas}
+Caracas_Grot_box1 {en un cofre, encima de una roca grande}
+Cartahena_Cave {en una cueva, junto a la salida de Cartagena}
+Cartahena_Cave_box1 {en un cofre, debajo de una antorcha}
+Cartahena_Cave_box2 {en un cofre, en un callejón sin salida}
+Cartahena_Cave_box3 {en un cofre, junto a una antorcha}
+Caiman_Grot {en una cueva, a la derecha de una playa desierta}
+Caiman_Grot_box1 {en un cofre, encima de una roca grande}
+Charles_Grot {en una cueva, a la derecha de la Playa de los Murciélagos}
+Charles_Grot_box1 {en un cofre, en la playa}
+Cuba_Grot {en una cueva, a la derecha del cabo Camagüey}
+Cuba_Grot_box1 {en un cofre, en la playa}
+Cumana_Cave {en una cueva, a la derecha de la costa de Carupano}
+Cumana_Cave_box1 {en una cueva, junto a un puente de piedra}
+Cumana_Cave_box2 {en un cofre, encima de una roca grande}
+Cumana_Cave_box3 {en un cofre, junto a una cuerda que cuelga del techo}
+Curacao_Cave {en una cueva, a la derecha de la costa del escondite de los traficantes}
+Curacao_Cave_box1 {en un cofre, debajo de una antorcha}
+Curacao_Cave_box2 {en un cofre, en un callejón sin salida}
+Curacao_Cave_box3 {en un cofre, junto a una antorcha}
+Dominica_Grot {en una cueva, a la derecha de la playa de Castle Bruce}
+Dominica_Grot_box1 {en un cofre, en la playa}
+Guadeloupe_Cave {en una cueva, a la izquierda del faro de Guadalupe}
+Guadeloupe_Cave_box1 {en un cofre, en un nicho con una antorcha}
+Guadeloupe_Cave_box2 {en un cofre, en un nicho con un farol}
+Guadeloupe_Cave_box3 {en un cofre, detrás de las rocas de un muro}
+Hispaniola_Cave {en una cueva, cerca de la ciudad de Puerto Príncipe}
+Hispaniola_Cave_box1 {en una cueva, junto a un puente de piedra}
+Hispaniola_Cave_box2 {en un cofre, encima de una roca grande}
+Hispaniola_Cave_box3 {en un cofre, junto a una cuerda que cuelga del techo}
+Jamaica_Grot {en una cueva, cerca del faro de Port Royal}
+Jamaica_Grot_box1 {en un cofre, encima de una roca grande}
+Maracaibo_Cave {en una cueva, junto a la salida de Maracaibo}
+Maracaibo_Cave_box1 {en un cofre, debajo de una antorcha}
+Maracaibo_Cave_box2 {en un cofre, en un callejón sin salida}
+Maracaibo_Cave_box3 {en un cofre, junto a una antorcha}
+Marigo_Cave {en una cueva, junto a la entrada a Marigot}
+Marigo_Cave_box1 {en un cofre, debajo de una antorcha}
+Marigo_Cave_box2 {en un cofre, en un callejón sin salida}
+Marigo_Cave_box3 {en un cofre, junto a una antorcha}
+Panama_Cave {en una cueva, a la derecha de la Costa de los Mosquitos}
+Panama_Cave_box1 {debajo de unas maderas en un callejón sin salida}
+Pearl_Grot {en una cueva, en la costa oeste entre Belice y Santa Catalina}
+Pearl_Grot_box1 {en un cofre, encima de una roca grande}
+PortoBello_Cave {en una cueva, a la derecha de la salida de Portobelo}
+PortoBello_Cave_box1 {debajo de unas maderas en un callejón sin salida}
+SanJuan_Cave {en una cueva, cerca de San Juan}
+SanJuan_Cave_box1 {en una cueva, junto a un puente de piedra}
+SanJuan_Cave_box2 {en un cofre, encima de una roca grande}
+SanJuan_Cave_box3 {en un cofre, junto a una cuerda que cuelga del techo}
+SantaCatalina_Cave {en una cueva, cerca del Cabo de las Perlas}
+SantaCatalina_Cave_box1 {en un cofre, debajo de una antorcha}
+SantaCatalina_Cave_box2 {en un cofre, en un callejón sin salida}
+SantaCatalina_Cave_box3 {en un cofre, junto a una antorcha}
+SantaCatalina_Grot {en una cueva, a la derecha de la costa de San Juan del Norte}
+SantaCatalina_Grot_box1 {en un cofre, en la playa}
+SantaCatalina_PearlCave {en una cueva, a la izquierda de la costa de San Juan del Norte}
+SantaCatalina_PearlCave_box1 {en una cueva, junto a un puente de piedra}
+SantaCatalina_PearlCave_box2 {en un cofre, encima de una roca grande}
+SantaCatalina_PearlCave_box3 {en un cofre, junto a una cuerda que cuelga del techo}
+Tenotchitlan_Cave {en una cueva, al norte del templo azteca}
+Tenotchitlan_Cave_box1 {en una cueva, junto a un puente de piedra}
+Tenotchitlan_Cave_box2 {en un cofre, encima de una roca grande}
+Tenotchitlan_Cave_box3 {en un cofre, junto a una cuerda que cuelga del techo}
+Terks_Grot {en una cueva, a la derecha de la Costa del Norte}
+Terks_Grot_box1 {en un cofre, encima de una roca grande}
+Tortuga_Grot {en una cueva, enfrente de la Costa del Ojo de Pez}
+Tortuga_Grot_box1 {en un cofre en la playa}
+Tortuga_Cave {en la mazmorra de la ciudad de Tortuga}
+Tortuga_Cave_box1 {en un cofre, tras una puerta cerrada}
+Trinidad_Grot {en una cueva, enfrente del faro de Trinidad y Tobago}
+Trinidad_Grot_box1 {en un cofre, en la playa}
+FortFrance_Dungeon {en la mazmorra de la ciudad de Fort-de-France}
+FortFrance_Dungeon_box1 {en un cofre, en un montículo}
+FortFrance_Dungeon_box2 {en un cofre, tras la puerta cerrada del piso superior}
+FortFrance_Dungeon_box3 {en un cofre, cerca del montacargas}
+FortFrance_Dungeon_box4 {en un cofre, tras la puerta abierta del piso inferior}
+FortFrance_Dungeon_box5 {debajo de las cajas de madera}

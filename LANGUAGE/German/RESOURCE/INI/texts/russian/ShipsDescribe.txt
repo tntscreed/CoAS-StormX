@@ -1,0 +1,113 @@
+new_string {
+
+}
+Tartane {
+ Die Tartane ist ein kleines Fischerboot mit einem dreieckigen Segel, das zuerst in den Gewässern des Mittelmeers auftauchte. Schon bald machten die ausgezeichneten Segeleigenschaften die Tartane zu einem beliebten Schiff, das für Küstenfahrten und den Handel zwischen benachbarten Siedlungen verwendet wurde. 
+}
+WarTartane {
+Eine Kriegstartane ist eine große Tartane mit kleinen Kanonen an Bord. Sie wird niemals als richtiges Schiff angesehen werden, aber sie wird überall auf der Welt für Piraten- und Schmugglerüberfälle verwendet.
+}
+Lugger {
+ Lugger - ein kleines Schiff, das dem Warentransport und dem Schutz kleiner Konvois diente. Die Lugger ist zwar nur schwach bewaffnet und hat wenig Besatzung, trotzdem ist es insbesondere auf den Handel und Kampf ausgelegt. Viele Kapitäne schätzen die Lugger wegen ihrer Geschwindigkeit und Manövrierfähigkeit. Aufgrund ihrer geringen Größe ist sie nicht für lange Fahrten auf See geeignet. 
+}
+Sloop {
+ Mit ihrem kleinen Rumpf und großartigen Segeleigenschaften ist die Schaluppe ein sehr effektives Aufklärungsschiff, das gut für Patrouillen und Handel entlang der Küste geeignet ist. 
+}
+Barque {
+ Barke - Ein Schiff für lange Reisen. Durch großzügigen Frachtraum und unglaubliche Feuerkraft wird die Barke als eines der besten Schiffe seiner Klasse angesehen. Doch die Größe verhindert hohe Geschwindigkeiten und Manövrierbarkeit, deshalb ist sie leichteren Schiffen ihrer Klasse beim Segeln unterlegen. 
+}
+Schooner {
+ Die robusten Segeleigenschaften und ein geräumiger Laderaum haben den Schooner zum attraktivsten Handelsschiff mittlerer Größe gemacht. Perfekt für alle, die sich keine Fleute leisten können.
+}
+Caravel {
+Durch ihre einzigartigen, ungewöhnlich geformten Decks ist das Profil der Karavelle selbst aus großer Entfernung leicht zu erkennen. Da Karavellen sich im Kampf ziemlich schlecht schlagen, werden ihnen normalerweise ausschließlich Frachtaufgaben zugeteilt. Auf der anderen Seite können Sie eine Menge Waren aufnehmen. 
+}
+Fleut {
+ Die Fleute ist zwar groß und stabil genug für lange Seereisen gebaut, doch sollte man sich nicht im Kampf auf sie verlassen. Trotzdem ist sie ein robustes Handelsschiff, denn der große Laderaum macht einiges wett. 
+}
+Brig {
+ Briggen werden zwar häufig als Handelsschiffe eingesetzt, doch noch häufiger als Kriegsschiffe. Durch Geschwindigkeit und Manövrierfähigkeit ist sie eines der ausgeglichensten Schiffe. Die Waffen beeinträchtigen aber die Manövrierfähigkeit. 
+}
+Galeon_l {
+ Die Galeone ist zweifellos das häufigste Schiff seiner Klasse in der Geschichte. Als enge Verwandte der Karavelle ist die Galeone ein behäbiges aber zuverlässiges Schiff, das Seeleuten beinahe 200 Jahre gedient hat. Eine einfache Beute für echte Piraten. 
+}
+Corvette {
+ Die Korvette wurde als stark bewaffnetes, aber leichtes und schnelles Schiff entwickelt. Der Nachteil liegt leider im schwachen Rumpf. Trotzdem kann sie mit leichteren Schiffen mithalten und mit größeren den Kampf aufnehmen. Grundsätzlich wird die Korvette für Patrouillen- und Geleitmissionen eingesetzt. 
+}
+Galeon_h {
+ Die schwere Galeone ist ein massives Kriegsschiff. Großkalibrige Kanonen, ein robuster Rumpf und eine riesige Mannschaft machen sie zu einer zuverlässigen Verteidigung für jede Ware. 
+}
+Pinnace {
+ Eine Pinasse ist groß und kräftig genug für lange Seereisen, der Frachtraum kann eine vernünftige Warenmenge aufnehmen und sie ist recht gut bewaffnet. Doch im Kampf fehlt ihr die Manövrierfähigkeit und sie ist langsamer als echte Kriegsschiffe. 
+}
+Frigate {
+ Die schnelle und manövrierfähige Fregatte ist aufgrund ihrer guten Segeleigenschaften und ihrer Feuerkraft sehr beliebt. Eine Flotte aus Fregatten kann leicht eine Festung zerstören und eine Stadt plündern. 
+}
+LineShip {
+ Ein Kriegsschiff hat zwar mehr Kanonen als eine Fregatte, ist ihr in Geschwindigkeit und Manövrierfähigkeit unterlegen, doch aufgrund des verstärkten Rumpfes und Spants können einige Kriegsschiffe aber extrem mächtige Kanonen tragen.}
+Battleship {
+ Das Schlachtschiff ist die konsequente Fortentwicklung des Kriegsschiffs: größer und noch mehr verstärkt. Riesig und schwerfällig trägt sie einige Batterien schwerer Kanonen und ist mit einer unglaublich großen Mannschaft besetzt.
+}
+Warship {
+ Das Linienschiff stellt eine unglaubliche Macht dar. Ausgestattet mit den mächtigste und weitreichendsten Kanonen, um den robusten Rumpf zu schützen, kann das Linienschiff es mit jedem Schiff auf dem Meer aufnehmen und leicht Küstenbefestigungen zerstören. 
+}
+Manowar {
+ Das Kriegsschiff ist das mächtigste Schiff, das dem Geist der Menschen je entsprungen ist. Seine drei Decks sind mit einhundert schweren Kanonen bestückt und der Rumpf ist beinahe unverwundbar für Geschosse. Leider beschränken die Größe und Verdrängung das Schiff auf große Seeschlachten und Bombardierungen von Festungen. 
+}
+SoleyRu {
+ Ein königliches Linienschiff erster Klasse: erschreckende Feuerkraft, gemischt mit einem veredelten Rumpf und ansprechenden Segeleigenschaften. Ein großartiges Schiff für die Ewigkeit. 
+}
+NoneBoat {
+ Kein Schiff. Der Held ist jetzt eine Landratte und bis er sich wieder ein Schiff besorgt hat, kann er sich nicht mehr Kapitän nennen. 
+}
+Hull {
+ Rumpf - der aktuelle und maximale Schaden, den der Rumpf aushält. 
+}
+Sails {
+ Segel - der aktuelle und maximale Schaden, den die Segel aushalten. 
+}
+Speed {
+ Geschwindigkeit - zeigt die aktuelle Höchstgeschwindigkeit des Schiffes unter Berücksichtigung aller Dinge (Ladung, Fähigkeiten des Kapitäns, Schäden am Schiff) im Vergleich zur absoluten Höchstgeschwindigkeit des Schiffes. 
+}
+Maneuver {
+ Manövrierfähigkeit - zeigt die aktuelle Höchstgeschwindigkeit des Schiffes unter Berücksichtigung aller Dinge (Ladung, Fähigkeiten des Kapitäns, Schäden am Schiff) im Vergleich zur absoluten Maximalgeschwindigkeit des Schiffes. 
+}
+AgainstWind {
+ Eigenschaften, die die Fähigkeit des Schiffes zeigt, im kleinsten Winkel des Windes zu segeln. Je höher der Wert, desto näher am Wind segelt das Schiff. Schiffe mit geneigten Segeln kommen besser mit widerstreitenden Winden zurecht.
+}
+Capacity {
+ Laderaum - zeigt das aktuelle und maximale Volumen im Laderaum an. Je weniger Raum frei ist, desto langsamer und geringer die Manövrierfähigkeit des Schiffes. 
+ Alle Waffen, die an Bord installiert sind, beeinflussen den Frachtraum ebenfalls. Sie können sie vom Schiff entfernen, wenn Sie mehr Platz im Frachtraum benötigen. Dazu müssen Sie nach ganz unten auf diesem Fenster gehen und auf 'Kanonen' doppelklicken. 
+}
+Crew {
+ Mannschaft - zeigt die aktuelle Mannschaftsstärke mit der für das gewählte Schiff minimal und maximal erlaubten Zahl an. 
+}
+CannonType {
+ Kanonentyp - zeigt die Klasse (Kanone oder Kalverine), Kaliber und Zahl der installierten Kanonen an 
+}
+sCannons {
+ Zeigt das maximale Kaliber und die maximale Zahl der Kanonen an, die auf ein Schiff passen. 
+}
+Crew_Exp {Mannschaftserfahrung}
+Crew_Exp_hint {
+ Die Erfahrung der Mannschaft wird in drei Kategorien unterteilt: See (beeinflusst die Schiffskontrolle), Kanonier (beeinflusst die Nachladezeit und Genauigkeit er Kanonen) und Entern (die Effektivität der Mannschaft im Nahkampf). 
+ Eine kleine aber erfahrene Mannschaft kann effektiver sein als eine Unmenge Frischlinge. 
+ Die Mannschaft sammelt Erfahrung in allen drei Kategorien, wenn sie entsprechenden Arbeiten verrichtet (Manövrierfähigkeit, Kanonen, Entern), Erfahrung kann aber auch verloren werden, wenn die Mannschaft längere Zeit keine Chance erhält, ihre Fähigkeiten zu trainieren.}
+TakeAllGoods_hint {
+ Die Schaltfläche 'Alle Waren laden' lädt die Waren nach ihrem mittleren Preis auf das Schiff des Charakters. Die wertvollsten Waren werden zuerst geladen, danach die jeweils preiswerteren bis im Laderaum kein Platz mehr frei ist. 
+}
+GoodsKeys_hint {
+ Mit der rechten und linken Pfeiltaste auf der Tastatur können Sie Warenbündel verschieben. Wenn Sie die Pfeiltasten und gleichzeitig die [Umschalttaste] drücken, wählen Sie die maximal mögliche Menge. Klicken Sie mit der rechten Maustaste auf einen Gegenstand, wählen Sie zehn Pakete auf einmal.
+}
+Shipyard_hint {
+ Sie können Schiffe auf der Werft kaufen, reparieren oder verkaufen. 
+ Der Held kann sein Schiff nicht verkaufen, wenn er Gefährten hat. Sie können auch kein Schiff für einen Gefährten kaufen, wenn der Held kein eigenes Schiff hat. 
+ Um das Schiff des Helden oder Gefährten zu ändern und die Ladung im Laderaum und die Mannschaft zu speichern, müssen Sie zur Liste der Schiffe in der Flotte des Helden gehen (oben links auf dem Bildschirm) und dort das Schiff auswählen, das gegen ein neues ausgetauscht werden soll. Wählen Sie dann in der Liste der Schiffe, die auf der Werft (jetzt oben rechts) verkauft werden sollen, das gewünschte aus. Klicken Sie schließlich auf die Schaltfläche 'Kaufen'. Um ein neues Schiff zu kaufen (und einen Gefährten ernennen), sollten Sie zuerst einen leeren Slot für die Liste links kaufen. 
+}
+NoneBoat2 {
+ Kein Schiff. 
+}
+DLG_TEXT_BASE[456] {}
+DLG_TEXT_BASE[457] {}
+ {}
+ {}

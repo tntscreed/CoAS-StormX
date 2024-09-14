@@ -1,0 +1,95 @@
+Name_Section {///////////////////////////////////////////////////////////////////////}
+StartShip {Wind Chaser}
+Sandro {Sandro}
+Torn {Torn}
+Jim {Jim}
+Hopkince {Hopkins}
+Devy {Davy}
+Jons {Jones}
+GhostShipName {Olandese volante}
+Tomas {Thomas}
+Modyford {Modyford}
+Francisko {Francisco}
+Oregon Gaskon {Oregon y Gascon}
+Bertran {Bertrand}
+d Ogeron {d'Ogeron}
+Peter {Peter}
+Stuvesant {Stuyvesant}
+Henry {Henry}
+Morgan {Morgan}
+Oliver {Oliver}
+Green {Greene}
+Isabella {Isabella}
+Olevares {Olivares}
+Ascold {Ascold}
+demon {demone}
+Azzy {Azzy}
+Diplomat {Diplomatico}
+Smuggler {Contrabbandiere}
+Angela {Angela}
+Jackman {Jackmann}
+Manchester {Manchester}
+Master {Maestro}
+Alexus {Alexis}
+Pascal {Pascal}
+Viwasie {Vousier}
+Richard {Richard}
+Sawkins {Sawkins}
+John {John}
+Norton {Norton}
+Bartholomew {Bartholomew}
+Sharp {Sharp}
+Sharpy {Sharpnose}
+Tanneken {Tanneken}
+Clemence {Clemence}
+Joao {Joao}
+Ilhaio {d'Ylan}
+Yozef Nunen {Joseph Nunes}
+de Fonkesao {da Fonseca}
+Venetu {Venetu}
+Falcon_Eye {Occhio di falco}
+Mitich {Goyko Mitich}
+White {White}
+Boy {Boy}
+Liticia {Leticia}
+Angelica {Angelica}
+Viven {Vivien}
+Simona {Simona}
+Milantra {Milantra}
+Iolanta {Jolanta}
+Margaret {Margaret}
+Edward {Edward}
+Mansfield {Mansfield}
+Hose {José}
+Sanchos Himenes {Sánchez Jiménez}
+Fernando {Fernando}
+Torres {Torres}
+Armo {Armo}
+Prescott {Prescott}
+Alex {Alex}
+Winner {Winner}
+Other_Section {///////////////////////////////////////////////////////////////////////}
+LAi_utilites_1 {Avvicinandosi all'insediamento, la sentinella è riuscita a dare l'allarme. Il gruppo di cercatori di perle si è nascosto nella giungla.}
+ItemLogic_1 {Non hai l'oggetto necessario.}
+ItemLogic_2 {È una trappola!}
+CannonTypeName_12 {Cannone da 12 libbre }
+CannonTypeName_16 {Cannone da 16 libbre }
+CannonTypeName_24 {Cannone da 24 libbre }
+CannonTypeName_32 {Cannone da 32 libbre }
+CannonTypeName_42 {Cannone da 42 libbre }
+CannonTypeName_48 {Cannone da 48 libbre }
+CulTypeName_12 {Colubrina da 12 libbre }
+CulTypeName_16 {Colubrina da 16 libbre }
+CulTypeName_24 {Colubrina da 24 libbre }
+CulTypeName_32 {Colubrina da 32 libbre }
+LAi_warrior_1 {Richard Sawkins ha visto il tuo attacco minaccioso. Ora i suoi pirati ti daranno la caccia.}
+LAi_utils_1 {Perle nere raccolte}
+Rummor_1 {Hai sentito parlare di Humphrey Douglas? Era un buon soldato ed è morto così lontano!}
+Tresure_1 {Il tesoro è a portata di mano! }
+Tresure_2 {Signori della buona sorte}
+Tresure_3 {Sono vivo! È un miracolo! }
+Tresure_4 {Hai trovato uno strano oggetto.}
+diamond {diamante}
+ruby {rubino}
+emerald {smeraldo}
+sapphire {zaffiro}

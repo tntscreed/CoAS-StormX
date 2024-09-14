@@ -1,0 +1,35 @@
+sea_minimap {
+ Navigations-Minikarte 
+
+}
+ship_commands {
+ Befehle für Ihr Schiff und Begleitschiffe 
+
+}
+fast_commands {
+ Aktueller Hotkey-Befehl 
+
+}
+sea_aim {
+ Aktuelles Ziel der Schiffskanonen 
+
+}
+alarm_indicator {
+ Alarmanzeige 
+
+}
+land_commands {
+ Landbefehle 
+
+}
+WorldMap_Date_Clock {
+ Datum und Zeit der Weltkarte 
+
+}
+WorldMap_Compas {
+ Kartenkompass 
+
+}
+Dialog_window {
+ Dialogfenster 
+}

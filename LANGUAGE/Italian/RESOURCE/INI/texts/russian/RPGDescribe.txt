@@ -1,0 +1,190 @@
+_info {
+ File - Descrizione sistema RPG
+Creato da ALexusB 17.08.05
+}
+newline {
+
+}
+Strength {
+ (Potenza) Forza. Necessaria per colpire forte, lanciare lontano e trasportare carichi. Influenza i punti peso (carichi trasportati) e i punti vita. Caratteristica che richiede molto esercizio fisico, specialmente nelle abilità con le armi e nelle armi medie e pesanti. 
+}
+Perception {
+ (Intuito) Percezione. Il talento di vedere e sentire con chiarezza. Senza un buon occhio, le palle di cannone non colpiranno i nemici. Influisce in particolare sulla Precisione e la Furtività. 
+}
+Agility {
+ (Reazione) Coordinazione occhio-mano. L'uomo goffo impiglia la spada nel fodero e il gancio da arrembaggio nei pantaloni. Questa capacità è richiesta per abilità come Armi leggere e medie, Pistole e Arrembaggi. Influisce sull'energia massima. 
+}
+Charisma {
+ (Autorità) Comando. Una fisionomia virile unita a una parlantina equilibrata. Un leader non ha bisogno di ricorrere alla forza per ottenere le merci di un commerciante di successo, perché quest'ultimo gliele offrirà spontaneamente. Le persone migliori lo seguono e le donne più belle lo aspettano a ogni porto. Il comando è un attributo richiesto per abilità quali Autorità e Commercio. Influisce sul numero di ufficiali sottoposti. 
+}
+Intellect {
+ (Talento) Astuzia. Conoscenza, saggezza e la capacità di prendere decisioni immediate. Una persona astuta non ha problemi a ricaricare velocemente un'arma o ad abbassare i prezzi di un negozio. Anche l'uso di attrezzi per la navigazione richiede astuzia. Influisce su Commercio, Cannoni, Navigazione e, specialmente, sulla rapidità con cui si sale di grado e si apprendono nuove abilità personali e della nave. 
+}
+Endurance {
+ (Resistenza) Costituzione. Indispensabile per un eroe per sopravvivere alla difficile professione di pirata. E serve anche coi potenziali clienti. Questa capacità influisce soprattutto su Riparazione e Difesa, oltre al guadagno di punti vita e al Peso. 
+}
+Luck {
+ (Successo) Cosa possiamo dire della fortuna? Se siamo fortunati, siamo dei signori. Altrimenti diventiamo cattivi. Aiuta anche in situazioni disperate. Un proiettile ti sfreccerà accanto e un nemico ti passerà vicino senza notarti. Influenza le qualità Pistole, Fortuna e Furtività. 
+}
+FencingLight {
+ Abilità nell'utilizzo di armi leggere, soprattutto stocchi e armi di piccole dimensioni. Dipende da destrezza e intuito. (R*0.9+I*0.1) 
+}
+Fencing {
+ Abilità nell'uso delle sciabole, armi che non richiedono solo forza ma anche abilità. Dipende da potenza e reazione. (P*0.6+R*0.4) 
+}
+FencingHeavy {
+ L'uso delle spade larghe pesanti, delle asce e delle spade richiede molta forza fisica. Dipende da potenza e resistenza. (P*0.9+R*0.1) 
+}
+Pistol {
+ L'abilità di usare dispositivi tecnologici che possono scagliare piccoli proiettili di piombo a grande distanza. Richiede destrezza e una certa fortuna. Chissà dove volerà quella pallottola... Dipende da reazione e successo. (R*0.5+S*0.5) 
+}
+Fortune {
+ Fortuna: la buona sorte. Serve sempre. Dipende dal successo. (S) 
+}
+Leadership {
+ Comando. Quando le persone si rendono conto che non si creeranno conflitti con te, inizieranno a credere in te e le taverne cominceranno a riempirsi di gente disposta a unirsi ai tuoi ranghi. Le navi nemiche si arrenderanno non appena vedranno la tua bandiera. E, se la tua autorità è alta, i tuoi uomini attaccheranno anche il diavolo in persona. Dipende da autorità e talento. (A*0.9+T*0.1) 
+}
+Commerce {
+ Commercio. L'abilità di vendere a caro prezzo ciò che hai acquistato il giorno prima per pochi spiccioli. Devi conoscere le rotte commerciali migliori, studiare a fondo il mercato e mantenere buoni rapporti coi negozianti. In questo modo le tue tasche si appesantiranno piacevolmente e non dovrai più preoccuparti di pagare i tuoi uomini o di una carenza di tela nei negozi. Richiede talento e la salda autorità di un leader. (T*0.8+A*0.2) 
+}
+Accuracy {
+ Precisione. Una delle qualità essenziali di un vagabondo dei mari. Un vero capitano non spreca polvere da sparo e munizioni per ogni pesce che avvista. Ciascuna raffica deve andare a segno! E quando l'aria salata dirada la nebbia di guerra, all'orizzonte non devono esserci detriti! Non sei nessuno senza un buon intuito e un certo grado di successo. (I*0.8+S*0.2) 
+}
+Cannons {
+ Cannoni. Presto, ora! Posiziona le tue armi e, prima che smettano di fischiarti le orecchie, pulisci di nuovo, carica di nuovo e prendi la mira. Ricorda di raffreddarli con l'acqua, altrimenti si surriscaldano... Non c'è tempo per le distrazioni nei tuoni e nel fuoco di una battaglia mortale. Carica, punta e fai fuoco! Richiede talento e potenza. (T*0.6+P*0.4) 
+}
+Sailing {
+ Navigazione. L'abilità di portare ogni nave in porto, anche attraverso nebbia e tempeste, nonché la capacità di utilizzare gli strumenti di navigazione e di governare gli squadroni. Nelle mani di un capitano capace, anche la nave più imponente vola come un uccello. Dipende da intuito e talento. (I*0.2+T*0.8) 
+ La carenza di abilità di navigazione causa penalità a tutte le abilità e le caratteristiche dell'eroe. 
+ La classe 1 richiede 95 
+ la classe 2 richiede 80 
+ la classe 3 richiede 65 
+ la classe 4 richiede 40 
+ la classe 5 richiede 25 
+ la classe 6 richiede 1 
+ La differenza tra il livello di abilità di navigazione corrente e richiesto viene detratta dalla classe della nave. 
+}
+Repair {
+ Riparazione. Quando il nemico lancia una salva di proiettili contro la tua nave, trasformando il ponte in segatura e le vele in stracci; quando lo scafo si crepa a causa dei colpi e il vento spezza le funi come fili; in questi momenti la riparazione diventa l'abilità più importante. Conta soprattutto la resistenza, ma anche l'intuito ha un certo valore. (R*0.8+I*0.2) 
+}
+Grappling {
+ Arrembaggio. Per posizionare accuratamente la tua nave accanto al ponte nemico, per gettare una passerella al primo tentativo, per assaltare il nemico tremante, imperversare sul ponte come un uragano e conquistare la nave nemica ottenendo il meritato premio servono abilità ed esperienza. La ricchezza della ricompensa ti ripaga di ogni sforzo. Richiede reazione e talento. (R*0.7+T*0.3) 
+}
+Defence {
+ Difesa. Col passare dei giorni, si crea un legame tra l'equipaggio e la nave, al punto che un marinaio veterano vale dieci novellini della taverna. Per questo motivo, un buon capitano fa di tutto per impedire ai suoi uomini di morire stupidamente in battaglia. Resistenza e autorità sono ugualmente importanti per convincere l'equipaggio a difendere la nave. (R*0.5+A*0.5) 
+}
+Sneak {
+ Furtività. Per sgusciare accanto a una struttura nemica, nascondersi dagli inseguitori in mare aperto o piombare su un nemico ignaro come un fulmine a ciel sereno, serve questa abilità, indispensabile per ogni avventuriero. Impossibile da ottenere a meno di non avere successo e intuito eccezionali. (S*0.5+I*0.5) 
+}
+Loyality {
+ La fedeltà di un ufficiale è determinata dalle tue azioni. Gli ufficiali con una buona reputazione non lavorano a lungo per un farabutto, mentre i criminali non hanno pazienza per una vita onesta. 
+}
+Ship_abilities {
+ Abilità che influenzano l'efficacia nel governo di una nave. 
+ Il numero mostra le qualità non ancora assegnate. 
+}
+Personal_abilities {
+ Abilità che migliorano le capacità di un personaggio. 
+ Il numero mostra le abilità non ancora assegnate. 
+}
+Rank {
+ Grado: il livello di sviluppo di un personaggio. Il grado aumenta di livello proprio come le abilità. Quando il grado sale, migliora anche la vita del personaggio (a seconda della resistenza). 
+ Aumentando di grado, l'eroe attira nemici più forti e ottiene oggetti più sofisticati. 
+}
+Life {
+ Vita: la resistenza di un personaggio ai danni fisici. Maggiore è la vita, più danni è possibile subire prima di arrendersi. 
+ Ogni aumento di grado estende la vita in proporzione alla resistenza. 
+ }
+Health {
+ Salute: le condizioni fisiche generali dell'eroe. Peggiore è la salute, minore è l'effetto delle abilità. La salute peggiora con le ferite e viene recuperata più velocemente se l'eroe evita il combattimento ravvicinato. 
+}
+Energy {
+ Energia: l'impeto del personaggio in combattimento ravvicinato. Ogni mossa di attacco costa una determinata quantità di energia. Se un personaggio si stanca durante una battaglia, deve riposare per recuperare le forze. 
+ Il limite di energia di un eroe dipende dal suo livello di reazione. 
+}
+Money {
+Denaro: a tutti piace il denaro, ecco perché fa tanta gola! Dobloni, piastre, talleri, ghinee... Che differenza c'è? È pur sempre oro! 
+}
+Reputation {}
+weight {
+ Peso: il peso massimo trasportabile da un personaggio senza perdere mobilità. 
+ Dipende da potenza e resistenza. 
+ }
+Title {
+Titolo: un titolo onorario che indica i benefici apportati dal personaggio all'impero di cui è al servizio.
+}
+NextExp {
+ La soglia di esperienza mostra il grado corrente, l'accumulo di abilità, i punti abilità ottenuti e i punti da guadagnare per raggiungere il livello successivo. Si ottengono punti abilità compiendo varie azioni. Per esempio, ogni colpo di pistola a segno regala punti nell'abilità con le armi da fuoco. A loro volta, questi punti vengono incanalati nel grado di esperienza generale e nelle abilità personali e della nave (a seconda delle abilità e delle loro caratteristiche). Il superamento della soglia di un grado ti fa passare al livello successivo, aumentando la tua vita e le tue qualità.}
+TABLE_PERKS {Capacità dell'eroe}
+TABLE_PERKS_desc {
+ Puoi distribuire i punti ottenuti in abilità personali o della nave. 
+ Fai doppio clic sulla capacità scelta per assegnarle un punto disponibile. 
+ A causa di alcune interdipendenze, inizialmente non puoi scegliere tutte le capacità, ma dovrai limitarti alle abilità di base. Solo a quel punto diverranno disponibili abilità più avanzate. 
+}
+PERK_TABLE_NEED {Requisiti delle abilità}
+PERK_TABLE_NEED_desc {
+ Per scegliere l'abilità selezionata, l'eroe deve soddisfare tutti i requisiti. 
+}
+Nation_hint {
+ Nazione dell'eroe: la nazione scelta all'inizio del gioco o la nazione per cui detieni attualmente la licenza. Puoi visualizzarla nel menu Personaggio. Nel menu Nazione puoi vedere la bandiera corrente della tua nave, che può essere cambiata in mare per mascherare la tua vera identità. Tieni comunque presente che i nemici dell'impero possono essere avvistati in mare o dalle guardie portuali. La furtività dell'eroe influenza il successo dello stratagemma. Se la nazione scelta ha messo una taglia sulla testa dell'eroe, egli viene considerato un nemico anche da quella nazione. 
+ L'avvistamento di nemici dipende dalle relazioni tra gli stati e dal numero di taglie sul giocatore. 
+ Il passaggio rapido non funziona nelle città nemiche. 
+}
+England_descr {
+ Inghilterra. Se c'è qualcuno in grado di scacciare la Spagna dal Nuovo mondo, è l'Inghilterra. Mentre, nel Vecchio mondo, la Francia martella attivamente Escorial con un'altra guerra per il trono spagnolo, l'Inghilterra conquista metodicamente una colonia spagnola dopo l'altra, cercando di costruire l'impero navale più grande della storia. 
+}
+France_descr {
+ Francia. Dalla sua ascesa al trono, Luigi XIV ha attivamente incrementato la presenza militare francese nel Nuovo mondo. Questa nazione ha una grande potenza coloniale, che non considera altri interessi all'infuori dei propri. 
+}
+Holland_descr {
+ Olanda. Nazione giovane che aspira alla supremazia commerciale. Alleato attivo della Francia contro il comune nemico spagnolo. L'Olanda si mantiene neutrale nei confronti delle altri nazioni. 
+}
+Spain_descr {
+Spagna. Grande potenza coloniale, che domina gran parte del Nuovo mondo. Viene messa costantemente sotto pressione dalle altre due potenze, Inghilterra e Francia, che tentano attivamente di estendere i propri possedimenti coloniali. 
+}
+Pirate_descr {
+ Pirati: persone che hanno scelto di non riconoscere le differenze nazionali e di vivere seguendo solamente le leggi dei Fratelli della costa. Ciò non impedisce loro di vendere il bottino conquistato a Port Royal o a Tortuga. Possono allearsi con qualsiasi potenza e sono uniti da un unico sentimento: l'odio per Escorial. 
+ In qualsiasi caso, per ogni pattuglia delle colonie, una bandiera pirata equivale a una bandiera rossa. Saranno manigoldi o agenti segreti? Coi pirati, non si sa mai. 
+}
+Hunter_hint {
+ La tua relazione con l'impero, ovvero coi suoi soldati e i suoi cittadini. Le gesta compiute per il bene della nazione migliorano la reputazione interna, le azioni malvagie possono fare sì che venga messa una taglia sulla tua testa. E ciò significa una caccia incessante, per terra e per mare, dato che nei Caraibi non c'è di certo carenza di cacciatori di taglie. Ciononostante, puoi ridurre la taglia compiendo buone azioni o mettendo una mazzetta nelle mani giuste. Se gratti la schiena dell'impero, questo potrebbe evitare di sparare nella tua. 
+}
+LevelComplexity {Difficoltà}
+LevelComplexity_desc {
+ La difficoltà del gioco varia da Marinaio a Impossibile, per un totale di dieci livelli. Capitano è il livello intermedio. Influisce sulla velocità di crescita del personaggio, sul denaro e su molto altro. 
+}
+RechargePistolOnLine {Ricarica automatica pistole}
+RechargePistolOnLine_desc {
+ In questa modalità, puoi ricaricare automaticamente le pistole durante le battaglie, altrimenti, quando saranno scariche, dovrai ricorrere alla spada. 
+ Questa modalità ha effetto su tutti i personaggi nel mondo di gioco.}
+HardcoreGame {Partita hardcore}
+HardcoreGame_desc {
+ Trovi che nel gioco non ci sia abbastanza adrenalina? Vuoi sentirti come un vero corsaro e provare il brivido delle azioni e delle loro conseguenze? In questa modalità, puoi salvare solo nelle chiese sulla terraferma. Qualunque errore tu compia, dovrai conviverci. Sei uomo fino a questo punto? 
+}
+ArcadeSailMode_desc {
+ La velocità e il dinamismo delle battaglie navali: preferisci azioni rapide e incarichi frenetici o una tranquilla contemplazione strategica? 
+}
+EncountersRate_desc {
+ La frequenza degli scontri coi nemici, con particolare riferimento alle navi sulla mappa del mondo. 
+}
+WorldAlivePause {Carica degli imperi}
+WorldAlivePause_desc {
+ Questa modalità offre al giocatore la possibilità di completare uno degli scenari di missione per un impero, senza tuttavia far progredire il panorama mondiale, ovvero senza che avvengano trasferimenti di governatori generali, invasioni di città e la possibilità da parte dell'eroe di difendere la città, fino alla fine del gioco. 
+ Il corso degli eventi riprende solo una volta completato lo scenario. 
+}
+Prisoner {Prigioniero}
+Prisoner_desc {
+ Un prigioniero può essere interrogato nella stiva di una nave, al fine di scoprire la sua identità. A quel punto, potrai chiedere un riscatto al suo impero. 
+ I riscatti più alti vengono pagati dai governatori della stessa nazione del prigioniero, sebbene la somma possa variare a seconda della città. 
+}
+shipChoose_hint {
+ Fai clic sulla nave di un compagno per visualizzare la modalità di commercio amichevole con il suo equipaggio. Funziona sia a terra che in mare. Se vuoi commerciare in battaglia, devi virare in modo da affiancarti all'altra nave. 
+}
+GoodsCargo_hint {
+ Un elenco delle merci nella stiva. 
+ Fai doppio clic su un oggetto per visualizzarne una descrizione e scartarlo, se lo desideri. 
+}
+EXP_SLIDE {Quantità di esperienza }
+EXP_SLIDE_desc {
+ Qui puoi impostare la velocità di aumento dell'esperienza da parte dell'eroe e dei suoi ufficiali. Maggiore è la velocità, minore è il tempo di accumulo dei punti abilità e più in fretta ottieni nuovi livelli e capacità. 
+}

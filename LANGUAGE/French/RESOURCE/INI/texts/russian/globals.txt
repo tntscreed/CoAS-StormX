@@ -1,0 +1,88 @@
+Address_FormSpa {Señor }
+Address_FormFra {Monsieur }
+Address_FormEng {Mister}
+Address_FormHol {Mynheer }
+Address_FormPir {Sir }
+Address_FormFSpa {Señorita }
+Address_FormFFra {Mademoiselle }
+Address_FormFEng {Miss }
+Address_FormFHol {Lady }
+Address_FormFPir {Lassie }
+Address_FormSpaW {Señora }
+Address_FormFraW {Madame }
+Address_FormEngW {Mrs. }
+Address_FormHolW {Lady }
+Address_FormPirW {Missis }
+Swear_1 {Mazette ! }
+Swear_2 {Malédiction ! }
+Swear_3 {Diantre ! }
+Swear_4 {Fichtre ! }
+Swear_5 {Mille sabords ! }
+Swear_6 {Diable ! }
+Swear_7 {Argh ! }
+Swear_8 {Tonnerre de Brest ! }
+Swear_9 {Ah ah ! }
+Swear_10 {Sapristi ! }
+Swear_11 {Nom d'une pipe ! }
+Swear_12 {Diable ! }
+Swear_13 {Ciel ! }
+TimeGreeting_1 {Bonne soirée}
+TimeGreeting_2 {Bonjour}
+TimeGreeting_3 {Bonne journée}
+TimeGreeting_4 {Bonne nuit}
+TimeGreeting_5 {Salutations}
+Title_0 {Sans}
+Title_1_Pir {Pirate}
+Title_1_Hol {Flibustier}
+Title_1_Eng {Corsaire}
+Title_1_Fra {Corsaire}
+Title_1_Spa {Corsaire}
+Title_2 {Commandant}
+Title_3 {Capitaine}
+Title_4 {Commodore}
+Title_5 {Amiral}
+NationKingsCrownEng {Trône anglais}
+NationKingsCrownFra {Couronne française}
+NationKingsCrownSpa {Couronne espagnole}
+NationKingsCrownHol {Royaume des Pays-Bas}
+NationKingsCrownPir {Confrérie des frères de la côte}
+NationKingsNameEng {Sa majesté Charles II d'Angleterre}
+NationKingsNameFra {Sa majesté Louis XIV}
+NationKingsNameSpa {Sa majesté catholique Charles II de Habsbourg}
+NationKingsNameHol {Sa majesté Guillaume III}
+NationKingsNamePir {Confrérie des frères de la côte}
+NationNameManEng {Anglais}
+NationNameManFra {Français}
+NationNameManSpa {Espagnol}
+NationNameManHol {Hollandais}
+NationNameManPir {Pirate}
+NationNamePeopleEng {Anglais}
+NationNamePeopleFra {Français}
+NationNamePeopleSpa {Espagnols}
+NationNamePeopleHol {Hollandais}
+NationNamePeoplePir {Pirates}
+NationNamePeopleEngAcc {par les Anglais}
+NationNamePeopleFraAcc {par les Français}
+NationNamePeopleSpaAcc {par les Espagnols}
+NationNamePeopleHolAcc {par les Hollandais}
+NationNamePeoplePirAcc {par les pirates}
+NationNameAblativeEng {de l'Angleterre}
+NationNameAblativeFra {de la France}
+NationNameAblativeSpa {de l'Espagne}
+NationNameAblativeHol {des Pays-Bas}
+NationNameAblativePir {des pirates}
+NationNameNominativeEng {L'Angleterre}
+NationNameNominativeFra {La France}
+NationNameNominativeSpa {L'Espagne}
+NationNameNominativeHol {La Hollande}
+NationNameNominativePir {La confrérie des frères de la côte}
+NationNameGenitiveEng {l'Angleterre}
+NationNameGenitiveFra {la France}
+NationNameGenitiveSpa {l'Espagne}
+NationNameGenitiveHol {la Hollande}
+NationNameGenitivePir {provenance pirate}
+NationEuropaTownEng {Londres}
+NationEuropaTownFra {La Rochelle}
+NationEuropaTownSpa {Séville}
+NationEuropaTownPir {L'île de la Tortue}
+NationEuropaTownHol {Amsterdam}

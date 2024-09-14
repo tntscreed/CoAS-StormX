@@ -1,0 +1,113 @@
+new_string {
+
+}
+Tartane {
+ La tartane est un petit vaisseau de pêche à la voile triangulaire tout d'abord apparue dans les eaux méditerranéennes. Les excellentes capacités de navigation de la tartane la rendirent bientôt très populaire et elle fut utilisée pour la navigation côtière et le transport entre les colonies proches. 
+}
+WarTartane {
+ Une tartane de guerre est une grande tartane pourvue de canons. Elle ne sera jamais considérée comme un véritable vaisseau mais elle est largement utilisée dans le monde de la piraterie et de la contrebande.
+}
+Lugger {
+ Le lougre est un petit vaisseau conçu pour le transport de marchandises et pour la protection de petits convois. Bien que le lougre n'ait qu'un équipage et un armement limités, il est excellent pour le commerce et le combat. Beaucoup de capitaines apprécient le lougre pour sa vitesse et sa manœuvrabilité. Sa petite taille l'empêche d'effectuer de longs voyages en mer. 
+}
+Sloop {
+ Avec sa petite coque et son excellente capacité à naviguer, le sloop est un vaisseau de reconnaissance très efficace ainsi qu'un bon vaisseau de patrouille côtière et de commerce. 
+}
+Barque {
+ La barque est un vaisseau construit pour les longs voyages. Avec ses grandes cales et sa formidable puissance de feu, la barque est considérée comme l'un des meilleurs vaisseaux de sa classe. Sa grande taille, cependant, ne permet ni grande vitesse, ni bonne manœuvrabilité, aussi est-elle moins performante en navigation que des vaisseaux plus légers de sa classe. 
+}
+Schooner {
+ Les excellentes capacités de navigation de la goélette et ses amples cales lui permettent d'être l'un des vaisseaux de commerce de classe moyenne les plus attirants. Elle est parfaite pour ceux qui ne peuvent pas s'offrir de flûte.
+}
+Caravel {
+ Ses ponts distinctifs à la forme si particulière rendent l'identité de la caravelle facile à reconnaître même depuis une longue distance. Les caravelles se comportant assez mal au combat, elles sont souvent cantonnées au rôle de transport. Elles sont d'ailleurs capables de transporter un poids et un volume de marchandises importants. 
+}
+Fleut {
+ Bien que la flûte soit suffisamment grande et robuste pour de longs voyages en mer, il n'est pas conseillé de la faire combattre. C'est un très bon vaisseau de commerce cependant, la taille de ses cales rencontrant peu d'égales. 
+}
+Brig {
+ Les bricks sont souvent utilisés comme vaisseaux de commerce mais également de combat. Leur grande vitesse et leur excellente manœuvrabilité en font l'un des vaisseaux les plus équilibrés. Les armes affectent cependant la manœuvrabilité. 
+}
+Galeon_l {
+ Le galion est sans aucun doute la classe de vaisseaux la plus répandue de l'histoire. Cousin proche de la caravelle, le galion est un vaisseau assez dur à diriger mais cependant très fiable. Il a servi les marins pendant presque deux siècles. C'est une proie facile pour un véritable pirate. 
+}
+Corvette {
+ La corvette a été conçue comme vaisseau très armé mais léger et rapide. La contrepartie est que la corvette ne dispose que d'une faible coque. Elle est tout de même capable de rester à la hauteur de vaisseaux plus légers et de constituer une menace pour ceux plus lourds. Le rôle de la corvette reste les patrouilles et les missions d'escorte. 
+}
+Galeon_h {
+ Le galion lourd est un navire de guerre imposant. Des canons d'important calibre, une coque robuste et un grand équipage en font une excellente défense pour toute cargaison. 
+}
+Pinnace {
+ Une pinasse est un vaisseau suffisamment grand et robuste pour pouvoir supporter de longs voyages en mer, ses cales peuvent transporter des quantités de marchandises décentes et elle est assez bien armée. Cependant, elle manque de manœuvrabilité au combat et est plus lente qu'un véritable navire de guerre. 
+}
+Frigate {
+ La frégate, rapide et manœuvrable, est appréciée de beaucoup pour ses bonnes capacités de navigation et pour sa puissance de feu. Une escadrille de frégates peut facilement détruire un fort ou piller une cité. 
+}
+LineShip {
+ Un navire de guerre, ayant plus de canons qu'une frégate, perdra par rapport à elle vitesse et manœuvrabilité. Cependant, de par leur coque et leur charpente renforcées, certains navires de guerre peuvent transporter les plus puissants des canons. 
+}
+Battleship {
+ Le cuirassé est un navire de guerre amélioré ; il est plus grand et encore plus renforcé. Gigantesque et lourd, il transporte plusieurs groupes de canons lourds et est dirigé par un équipage immense.
+}
+Warship {
+ Les navires de ligne constituent une force phénoménale. Armés des canons les plus puissants et disposant de la plus longue portée pour protéger leur coque, ils peuvent faire face à tout vaisseau en mer et facilement détruire des fortifications côtières. 
+}
+Manowar {
+ Le man'o'war est le vaisseau le plus puissant construit par l'homme. Ses trois ponts transportent cent canons lourds et sa coque résiste aux tirs ennemis. Sa grande taille et ses limites de déplacement le cantonnent malheureusement aux importantes batailles navales et au bombardement de forts. 
+}
+SoleyRu {
+ Un navire de ligne royal, de toute première classe à la puissance de feu horrifiante, à une excellente coque et à des capacités de navigations idoines. Un vaisseau pour la postérité. 
+}
+NoneBoat {
+ Pas de vaisseau. Le héros est devenu une taupe. Il ne peut plus se considérer comme étant capitaine avant de trouver un nouveau vaisseau. 
+}
+Hull {
+ Coque - Le montant de dégâts que la coque d'un vaisseau peut supporter. Une coque résistante vous aidera à survivre à une armada et à détruire un fort. Consultez régulièrement l'état de votre coque et réparez-la si nécessaire. Si vous disposez d'assez de planches et d'assez de temps, vous ne devriez pas rencontrer de difficultés. 
+}
+Sails {
+ Voiles - Le montant de dégâts que les voiles du vaisseau peuvent supporter. C'est toujours une bonne chose de disposer d'un stock suffisant de toile à bord au cas où vous en auriez besoin. 
+}
+Speed {
+ Vitesse - Pour certaines tâches, une vitesse de vaisseau décente est essentielle ; certaines manœuvres tactiques et rattraper les marchands (l'un des jeux favoris des pirates) nécessitent une bonne vitesse. La vitesse est affectée par la marchandise des cales, par les compétences du capitaine et par les dégâts du vaisseau. 
+}
+Maneuver {
+ Manœuvrabilité - En cours de bataille, un virage rapide peut sauver votre vaisseau et tous ceux s'y trouvant, ou vous permettre de tirer deux bordées au lieu d'une seule dans un même temps donné. La manœuvrabilité d'un vaisseau est affectée par la marchandise des cales, par les caractéristiques du capitaine et par les dégâts du vaisseau. 
+}
+AgainstWind {
+ Allure - Affiche la capacité du vaisseau à naviguer sous l'angle de vent minimal. Plus haut est le taux et plus il est facile pour le vaisseau de naviguer. Les vaisseaux aux voiles penchées conviennent mieux à la navigation dans des vents contraires. 
+}
+Capacity {
+ Cales - Affiche les volumes actuel et maximum des cales. Moins il y a d'espace libre et plus le vaisseau devient lent et difficile à manœuvrer. 
+ Toute arme installée a également un impact sur la place réservée aux marchandises. Vous pouvez les enlever du vaisseau s'il vous faut plus de place. Pour ce faire, vous devez aller au bas de l'interface et double-cliquer sur 'Canons'. 
+}
+Crew {
+ Équipage - Affiche le nombre actuel de marins avec l'équipage minimum requis et maximum possible pour le vaisseau sélectionné. Vous pouvez aller au-delà du maximum indiqué, mais cela augmente les risques de mutinerie. 
+}
+CannonType {
+ Type d'armes - Affiche la classe (canon ou couleuvrine), le calibre et le nombres de canons installés. 
+}
+sCannons {
+ Armes - Affiche le calibre maximum et le nombre de canons maximum qu'un vaisseau peut soutenir. 
+}
+Crew_Exp {Expérience de l'équipage}
+Crew_Exp_hint {
+ L'expérience de l'équipage est divisée en trois catégories : les marins (affectant le contrôle du vaisseau), les canonniers (affectant la vitesse de rechargement et la précision) et les soldats (l'efficacité de l'équipage en combat de mêlée). 
+ Un petit équipage expérimenté peut être plus efficace qu'un régiment de marins d'eau douce. 
+ L'équipage gagne de l'expérience dans les trois catégories tout en effectuant leur travail respectif (manœuvrabilité, tir et abordage). Cette expérience se perd cependant si l'équipage n'a pas eu l'occasion d'exercer ses compétences pendant un certain temps.}
+TakeAllGoods_hint {
+ Le bouton 'Transférer marchandises' s'occupe du passage des marchandises sur le vaisseau du personnage selon leur prix. Les marchandises les plus chères sont chargées en premier puis celles moins chères, graduellement, jusqu'à ce qu'il n'y ait plus de place dans les cales. 
+}
+GoodsKeys_hint {
+ À l'aide des touches droite et gauche du clavier, vous pouvez mettre les marchandises par plusieurs. Si vous appuyez sur les flèches tout en maintenant la touche [Maj] enfoncée, vous sélectionnerez les quantités maximales possibles. Cliquez sur le bouton droit de la souris sur une marchandise pour en sélectionner dix à la fois.
+}
+Shipyard_hint {
+ Vous pouvez acheter, réparer ou vendre des vaisseaux au chantier naval. 
+ Le héros ne peut pas vendre son vaisseau s'il a des compagnons. Vous ne pouvez pas non plus acheter de vaisseau pour un compagnon si le héros ne dispose pas de son propre vaisseau. 
+ Pour changer le vaisseau du héros ou du compagnon tout en conservant les marchandises des cales et l'équipage, vous devez vous rendre à la liste des vaisseaux dans l'escadrille du héros (passez la souris à gauche de l'écran) et sélectionner le vaisseau qui sera échangé contre le nouveau. Passez la souris à droite de l'écran à présent et choisissez le nouveau vaisseau désiré. Appuyez enfin sur le bouton 'Acheter'. Pour acheter un nouveau vaisseau (et nommer un compagnon), vous devriez d'abord acheter un emplacement libre pour la liste de gauche. 
+}
+NoneBoat2 {
+ Pas de vaisseau. 
+}
+DLG_TEXT_BASE[456] {, qui se trouve à l'emplacement }
+DLG_TEXT_BASE[457] {. Vous devez faire vite et remettre la marchandise dans les }
+ {}

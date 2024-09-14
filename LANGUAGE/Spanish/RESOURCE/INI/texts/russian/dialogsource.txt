@@ -1,0 +1,95 @@
+Name_Section {///////////////////////////////////////////////////////////////////////}
+StartShip {Wind Chaser}
+Sandro {Sandro}
+Torn {Torn}
+Jim {Jim}
+Hopkince {Hopkins}
+Devy {Davy}
+Jons {Jones}
+GhostShipName {Holandés Errante}
+Tomas {Thomas}
+Modyford {Modyford}
+Francisko {Francisco}
+Oregon Gaskon {Oregón y Gascón}
+Bertran {Bertrand}
+d Ogeron {d'Ogeron}
+Peter {Peter}
+Stuvesant {Stuyvesant}
+Henry {Henry}
+Morgan {Morgan}
+Oliver {Oliver}
+Green {Greene}
+Isabella {Isabella}
+Olevares {Olivares}
+Ascold {Ascold}
+demon {demonio}
+Azzy {Azzy}
+Diplomat {Diplomático}
+Smuggler {Traficante}
+Angela {Angela}
+Jackman {Jackmann}
+Manchester {Manchester}
+Master {Capitán}
+Alexus {Alexis}
+Pascal {Pascal}
+Viwasie {Vousier}
+Richard {Richard}
+Sawkins {Sawkins}
+John {John}
+Norton {Norton}
+Bartholomew {Bartholomew}
+Sharp {Sharp}
+Sharpy {Sharpnose}
+Tanneken {Tanneken}
+Clemence {Clemence}
+Joao {Joao}
+Ilhaio {d'Ylan}
+Yozef Nunen {José Núñez}
+de Fonkesao {da Fonseca}
+Venetu {Venetu}
+Falcon_Eye {Ojo de águila}
+Mitich {Goyko Mitich}
+White {White}
+Boy {Boy}
+Liticia {Leticia}
+Angelica {Angelica}
+Viven {Vivien}
+Simona {Simona}
+Milantra {Milantra}
+Iolanta {Jolanta}
+Margaret {Margaret}
+Edward {Edward}
+Mansfield {Mansfield}
+Hose {José}
+Sanchos Himenes {Sánchez Jiménez}
+Fernando {Fernando}
+Torres {Torres}
+Armo {Armo}
+Prescott {Prescott}
+Alex {Alex}
+Winner {Winner}
+Other_Section {///////////////////////////////////////////////////////////////////////}
+LAi_utilites_1 {El centinela consiguió dar la alarma al aproximarse al asentamiento. Los buscadores de perlas huyeron y se escondieron en la selva.}
+ItemLogic_1 {No tienes el objeto necesario.}
+ItemLogic_2 {¡Es una trampa!}
+CannonTypeName_12 {Cañón 12 lb}
+CannonTypeName_16 {Cañón 16 lb}
+CannonTypeName_24 {Cañón 24 lb}
+CannonTypeName_32 {Cañón 32 lb}
+CannonTypeName_42 {Cañón 42 lb}
+CannonTypeName_48 {Cañón 48 lb}
+CulTypeName_12 {Culebrina 12 lb}
+CulTypeName_16 {Culebrina 16 lb}
+CulTypeName_24 {Culebrina 24 lb}
+CulTypeName_32 {Culebrina 32 lb}
+LAi_warrior_1 {Richard Sawkins sabía de tu traición y ahora sus piratas te darán caza como a un animal.}
+LAi_utils_1 {Perlas negras recogidas}
+Rummor_1 {¿Has oído lo que le pasó a Humphrey Douglas? Con lo buen soldado que era, y lo mal que ha terminado.}
+Tresure_1 {¡El tesoro está casi al alcance de la mano!}
+Tresure_2 {Hombres de suerte}
+Tresure_3 {¡Estoy vivo! ¡Es un milagro!}
+Tresure_4 {Has encontrado un objeto muy raro.}
+diamond {diamante}
+ruby {rubí}
+emerald {esmeralda}
+sapphire {zafiro}

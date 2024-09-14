@@ -1,0 +1,88 @@
+Address_FormSpa {Señor }
+Address_FormFra {Monsieur }
+Address_FormEng {Mister}
+Address_FormHol {Mynheer }
+Address_FormPir {Mister}
+Address_FormFSpa {Señorita }
+Address_FormFFra {Mademoiselle }
+Address_FormFEng {Miss }
+Address_FormFHol {Lady }
+Address_FormFPir {Miss }
+Address_FormSpaW {Señora}
+Address_FormFraW {Madam }
+Address_FormEngW {Mrs.}
+Address_FormHolW {Lady }
+Address_FormPirW {Missus }
+Swear_1 {¡Ay Caramba! }
+Swear_2 {Verflucht! }
+Swear_3 {Verdammt! }
+Swear_4 {Mist! }
+Swear_5 {Ich werd verrückt! }
+Swear_6 {Heiliger Fischschwarm! }
+Swear_7 {Argh! }
+Swear_8 {Verdammt! }
+Swear_9 {Ah ha! }
+Swear_10 {Möge meine Leber zerplatzen! }
+Swear_11 {Heilige Madonna! }
+Swear_12 {Oh Gott! }
+Swear_13 {Um Himmels Willen! }
+TimeGreeting_1 {Guten Abend}
+TimeGreeting_2 {Guten Morgen}
+TimeGreeting_3 {Guten Tag}
+TimeGreeting_4 {Gute Nacht}
+TimeGreeting_5 {Hallo}
+Title_0 {Keiner}
+Title_1_Pir {Pirat}
+Title_1_Hol {Filibuster}
+Title_1_Eng {Kaperfahrer}
+Title_1_Fra {Kaperfahrer}
+Title_1_Spa {Korsar}
+Title_2 {Kommandeur}
+Title_3 {Kapitän}
+Title_4 {Kommodore}
+Title_5 {Admiral}
+NationKingsCrownEng {Englischer Thron}
+NationKingsCrownFra {Französische Krone}
+NationKingsCrownSpa {Spanische Krone}
+NationKingsCrownHol {Königreich der Niederlande}
+NationKingsCrownPir {Brüder der Küste}
+NationKingsNameEng {Seiner Majestät Karl II Stuart}
+NationKingsNameFra {Seiner Majestät Louis XIV}
+NationKingsNameSpa {Seiner Katholischen Majestät Karl II. von Habsburg}
+NationKingsNameHol {seiner Majestät Wilhelm der III. von Oranien}
+NationKingsNamePir {Bruderschaft der Küstenpiraten}
+NationNameManEng {Engländer}
+NationNameManFra {Franzose}
+NationNameManSpa {Spanische Krone}
+NationNameManHol {Holländisch}
+NationNameManPir {Pirat}
+NationNamePeopleEng {Englisch}
+NationNamePeopleFra {Französisch}
+NationNamePeopleSpa {Spanisch}
+NationNamePeopleHol {Holländisch}
+NationNamePeoplePir {Piraten}
+NationNamePeopleEngAcc {von den Engländern}
+NationNamePeopleFraAcc {von den Franzosen}
+NationNamePeopleSpaAcc {von den Spaniern}
+NationNamePeopleHolAcc {von den Holländern}
+NationNamePeoplePirAcc {von den Piraten}
+NationNameAblativeEng {England}
+NationNameAblativeFra {Frankreich}
+NationNameAblativeSpa {Spanien}
+NationNameAblativeHol {die Niederlande}
+NationNameAblativePir {von den Piraten}
+NationNameNominativeEng {England}
+NationNameNominativeFra {Frankreich}
+NationNameNominativeSpa {Spanien}
+NationNameNominativeHol {die Niederlande}
+NationNameNominativePir {Brüder der Küste }
+NationNameGenitiveEng {England}
+NationNameGenitiveFra {Frankreich}
+NationNameGenitiveSpa {Spanien}
+NationNameGenitiveHol {die Niederlande}
+NationNameGenitivePir {Piraten}
+NationEuropaTownEng {London}
+NationEuropaTownFra {La Rochelle}
+NationEuropaTownSpa {Sevilla}
+NationEuropaTownPir {Tortuga}
+NationEuropaTownHol {Amsterdam}

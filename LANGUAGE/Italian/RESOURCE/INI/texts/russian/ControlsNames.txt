@@ -1,0 +1,435 @@
+newLine {
+
+
+}
+HelpChooser {Scegli una sezione della guida}
+MainInterface {Impostazioni interfaccia}
+DialogControls {Dialoghi}
+WorldMapControls {Mappa del mondo}
+BattleInterfaceControls {Impostazioni interfaccia}
+Sailing1Pers {Visuale mare in prima persona}
+Sailing3Pers {Visuale mare in terza persona}
+FightModeControls {Modalità battaglia}
+PrimaryLand {Comandi a terra }
+ChrCamTurnV {
+ Telecamera personaggio (asse Y) 
+
+}
+ChrCamTurnH {
+ Telecamera personaggio (asse X) 
+
+}
+ChrCamCameraSwitch {
+ Visuale prima/terza persona 
+
+}
+ChrCamNormalize {
+ Centra visuale 
+
+}
+ShipCamera_Turn_V {
+ Telecamera nave (asse Y) 
+
+}
+ShipCamera_Turn_H {
+ Telecamera nave (asse X) 
+
+}
+ShipCamera_Forward {
+ Ingrandisci visuale nave 
+
+}
+ShipCamera_Backward {
+ Rimpicciolisci visuale nave 
+
+}
+DeckCamera_Turn_V {
+ Telecamera ponte (asse Y) 
+
+}
+DeckCamera_Turn_H {
+ Telecamera ponte (asse X) 
+
+}
+DeckCamera_Forward {
+ Ingrandisci visuale ponte 
+
+}
+DeckCamera_Backward {
+ Rimpicciolisci visuale ponte 
+
+}
+DeckCamera_Left {
+ Movimento laterale a sinistra (visuale ponte) 
+
+}
+DeckCamera_Right {
+ Movimento laterale a destra (visuale ponte) 
+
+}
+ChrTurnH {
+ Ruota personaggio 
+
+}
+ChrTurnV {
+ Muovi personaggio 
+
+}
+ChrTurnHL {
+ Ruota personaggio a sinistra 
+
+}
+ChrTurnHR {
+ Ruota personaggio a destra 
+
+}
+ChrAction {
+ Azione 
+
+}
+ChrForward {
+ Muovi avanti 
+
+}
+ChrForward1 {
+ Muovi avanti 
+
+}
+ChrForward2 {
+ Muovi avanti (alternativo) 
+
+}
+ChrBackward {
+ Muovi indietro 
+
+}
+ChrBackward1 {
+ Muovi indietro 
+
+}
+ChrRun {
+ Attiva/Disattiva corsa 
+
+}
+ChrRunStick {
+ Attiva/Disattiva corsa 
+
+}
+ChrBlock {
+ Blocco 
+
+}
+ChrRecoil {
+ Rinculo 
+
+}
+ChrParry {
+ Parata 
+
+}
+ChrAttackForce {
+ Ritirata 
+
+}
+ChrAttackFast {
+ Fendente 
+
+}
+ChrAttackRound {
+ Oscillazione 
+
+}
+ChrAttackBreak {
+ Affondo 
+
+}
+ChrAttackFient {
+ Finta 
+
+}
+ChrAttackBreakBase {
+ Affondo e finta 
+
+}
+ChrAttackRoundBase {
+ Oscillazione 
+
+}
+ChrAttackChoseBase {
+ Cambia attacco 
+
+}
+ChrBlockBase {
+ Blocco 
+
+}
+ChrAttackBase {
+ Ritirata e parata 
+
+}
+ChrAltAttackBase {
+ Fendente e oscillazione 
+
+}
+ChrFire {
+ Arma da fuoco 
+
+}
+ChrFightMode {
+ Cambia modalità di attacco 
+
+}
+BOAL_UsePotion {
+ Bevi elisir salutare 
+
+}
+BOAL_ActivateRush {
+ Infuriati 
+
+}
+BOAL_DeadSearch {
+ Fruga cadavere 
+
+}
+Ship_TurnLeft {
+ Vira a sinistra 
+
+}
+Ship_TurnRight {
+ Vira a destra 
+
+}
+Ship_SailUp {
+ Alza le vele 
+
+}
+Ship_SailDown {
+ Abbassa le vele 
+
+}
+Ship_Fire {
+ Usa cannoni 
+
+}
+Sea_CameraSwitch {
+ Attiva/Disattiva visuale nave 
+
+}
+Telescope {
+ Attiva/Disattiva cannocchiale 
+
+}
+TelescopeIn {
+ Zoom cannocchiale 
+
+}
+TelescopeOut {
+ Attiva visuale cannocchiale 
+
+}
+BI_MapEnter {
+ Attiva visuale mappa 
+
+}
+WMapTurnH {
+ Ruota telecamera (visuale mappa) 
+
+}
+WMapTurnV {
+ Regola altezza telecamera (visuale mappa) 
+
+}
+WMapCameraRotate {
+ Attiva/Disattiva scorrimento (visuale mappa) 
+
+}
+WMapForward {
+ Ingrandisci visuale 
+
+}
+WMapBackward {
+ Rimpicciolisci visuale 
+
+}
+WMapCameraSwitch {
+ Cambia modalità telecamera 
+
+}
+WMapShipSailUp {
+ Veleggia avanti 
+
+}
+WMapShipSailDown {
+ Veleggia indietro 
+
+}
+WMapShipTurnLeft {
+ Gira a sinistra 
+
+}
+WMapShipTurnRight {
+ Gira a destra 
+
+}
+WMapCancel {
+ Visuale mare 
+
+}
+Interface {
+ Impostazioni interfaccia 
+
+}
+MainMenu {
+ Menu principale 
+
+}
+MainMenuDouble {
+ Menu principale 
+
+}
+Help {
+ Guida 
+
+}
+BICommandsActivate {
+ Menu ordini 
+
+}
+LICommandsActivate {
+ Menu ordini 
+
+}
+BICommandsConfirm {
+ Conferma ordine 
+
+}
+BICommandsCancel {
+ Annulla ordine 
+
+}
+BICommandsLeft {
+ Sposta menu a sinistra 
+
+}
+BICommandsRight {
+ Sposta menu a destra 
+
+}
+MiniMapZoomIn {
+ Ingrandisci mappa 
+
+}
+MiniMapZoomOut {
+ Rimpicciolisci mappa 
+
+}
+BIFastCommand {
+ Ordine rapido 
+
+}
+HelpChooser_Cancel {
+ Esci da menu guida 
+
+}
+HelpChooser_Action {
+ Aiuto con questa voce 
+
+}
+HelpChooser_Next {
+ Consiglio successivo 
+
+}
+HelpChooser_Prev {
+ Consiglio precedente 
+
+}
+HelpChooser_Left {
+ Sinistra (menu guida) 
+
+}
+HelpChooser_Right {
+ Destra (menu guida) 
+
+}
+HelpChooser_Up {
+ Su (menu guida) 
+
+}
+HelpChooser_Down {
+ Giù (menu guida) 
+
+}
+DlgAction {
+ Scegli risposta 
+
+}
+DlgAction1 {
+ Scegli risposta 
+
+}
+DlgUp {
+ Opzione dialogo precedente 
+
+}
+DlgDown {
+ Opzione dialogo successiva 
+
+}
+DlgScrollUp {
+ Scorri testo dialogo su 
+
+}
+DlgScrollDown {
+ Scorri testo dialogo giù 
+
+}
+hk_charge1 {
+ Arma con palle di cannone 
+
+}
+hk_charge2 {
+ Arma con colpo a grappolo 
+
+}
+hk_charge3 {
+ Arma con colpo a ripetizione 
+
+}
+hk_charge4 {
+ Arma con colpo esplosivo 
+
+}
+hk_Cure {
+ Usa elisir salutare 
+
+}
+hk_Rush {
+ Usa abilità Furia 
+
+}
+hk_ImmediateReload {
+ Ricarica rapida 
+
+}
+hk_LightRepair {
+ Riparazione leggera 
+
+}
+hk_InstantRepair {
+ Riparazione rapida 
+
+}
+hk_Turn180 {
+ Virata 180 gradi 
+
+}
+hk_SandbankManeuver {
+ Manovra evasiva 
+
+}
+ChrStrafeLeft {
+ Muovi a sinistra 
+}
+ChrStrafeRight {
+ Muovi a destra 
+}

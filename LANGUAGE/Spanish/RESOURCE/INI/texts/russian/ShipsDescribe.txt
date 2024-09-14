@@ -1,0 +1,114 @@
+new_string {
+
+}
+Tartane {
+ La tartana es un pequeño barco de pesca con vela latina, que apareció por primera vez en aguas mediterráneas. Gracias a sus excelentes características de navegación, pronto se convirtió en un barco muy popular para la navegación de cabotaje y el comercio entre asentamientos cercanos. 
+}
+WarTartane {
+ Una tartana de guerra es una tartana grande que lleva cañones pequeños. No se puede considerar un gran barco, pero se usa por todo el mundo para el tráfico y la piratería.
+}
+Lugger {
+ Lugre: embarcación pequeña para transportar mercancías y proteger convoyes pequeños. Aunque no lleva muchas armas o tripulación, fue especialmente diseñado para el comercio y la batalla. A muchos capitanes les gusta el lugre por su velocidad y manejo. Al ser tan pequeño no sirve para viajes largos. 
+}
+Sloop {
+ Con un casco pequeño y buenas características de navegación, la balandra es un excelente barco de reconocimiento, y sirve para patrullar la costa y comerciar. 
+}
+Barque {
+ Nao: un barco para viajes largos. Con su amplia bodega y su increíble capacidad de disparo, la nao se considera uno de los mejores barcos de su clase. Sin embargo, su gran tamaño le impide conseguir una buena velocidad y manejo, así que en navegación le ganan otros barcos más ligeros. 
+}
+Schooner {
+ Las buenas características de navegación de la goleta y su amplia bodega la han convertido en uno de los barcos mercantes de nivel medio más atractivos. Perfecto para los que no pueden permitirse un filibote.
+}
+Caravel {
+ La forma original y característica de la cubierta de las carabelas hace que se las pueda identificar a largas distancias. Como las carabelas no son buenas en combate, las han relegado a tareas de transporte. Lo bueno es que les cabe mucha mercancía. 
+}
+Fleut {
+ Aunque el filibote es lo bastante grande y resistente como para hacer viajes largos, no es fiable en combate. Pero como barco mercante, pocos pueden superar el tamaño de su bodega. 
+}
+Brig {
+ El bergantín se suele utilizar como barco mercante y sobre todo como buque de guerra. Su gran velocidad y buen manejo lo convierten en uno de los barcos más completos. Sin embargo, las armas dificultan el manejo. 
+}
+Galeon_l {
+ El galeón es, sin lugar a dudas, el barco de más clase de la historia. Parecido a la carabela, es una embarcación torpe pero fiable que ha servido a marineros durante cientos de años. Presa fácil para un pirata de verdad. 
+}
+Corvette {
+ La corbeta se diseñó como un barco de muchas armas, pero ligero y rápido. Sin embargo, siempre hay que sacrificar una cosa por otra, así que el casco es frágil. Aun así, es capaz de alcanzar a los barcos más ligeros y defenderse contra los más pesados. Por lo general, la corbeta se utiliza para patrullar y escoltar. 
+}
+Galeon_h {
+ El galeón pesado es un buque de guerra enorme. Con sus cañones de gran calibre, su resistente casco y su enorme tripulación, es capaz de defender cualquier cargamento. 
+}
+Pinnace {
+ La pinaza es lo bastante grande y resistente como para realizar viajes largos, la bodega es suficientemente grande y lleva buenas armas. Sin embargo, le falta manejo en combate y es más lenta que un buque de guerra de verdad. 
+}
+Frigate {
+ A muchos les gusta la fragata, rápida y sencilla de manejar, por sus características de navegación y capacidad de disparo. Una escuadra de fragatas puede destruir un fuerte y asaltar una ciudad fácilmente. 
+}
+LineShip {
+ Un buque de guerra que lleve más cañones que una fragata perderá velocidad y manejo. Sin embargo, al tener un casco reforzado y ser de mayor tamaño, algunos buques de guerra pueden llevar los cañones más potentes. 
+}
+Battleship {
+ El acorazado es una extensión del buque de guerra: más grande y mejor reforzado. Enorme y de difícil manejo, lleva varias baterías de cañones pesados y una tripulación enorme.
+}
+Warship {
+ El navío de línea es temible. Armado con los cañones más potentes y de mayor alcance para proteger su fuerte casco, puede defenderse ante cualquier otro barco y destruir los fortines de la costa. 
+}
+Manowar {
+ El navío de guerra es la embarcación más poderosa creada por el hombre. Lleva cien cañones pesados repartidos entre tres cubiertas y las balas apenas pueden penetrar su casco. Desgraciadamente, su enorme tamaño y dificultad de desplazamiento lo limitan a combates navales y el bombardeo de fortines. 
+}
+SoleyRu {
+ Navío de línea real, de primera clase: temible capacidad de disparo, hermoso casco y excelentes características de navegación. Un barco magnífico para los tiempos. 
+}
+NoneBoat {
+ Sin barco. El héroe ha pasado a ser un lobo de tierra. Hasta que no consiga otro barco no se puede considerar capitán. 
+}
+Hull {
+ Casco: el daño actual y el daño máximo que puede recibir el casco. 
+}
+Sails {
+ Velas: el daño actual y el daño máximo que pueden recibir las velas. 
+}
+Speed {
+ Velocidad: indica la velocidad máxima actual del barco, teniendo todo en cuenta (cargamento, habilidades del capitán, daño), en comparación con la velocidad máxima general. 
+}
+Maneuver {
+ Manejo: indica la velocidad máxima actual del barco, teniendo todo en cuenta (cargamento, habilidades del capitán, daño), en comparación con la velocidad máxima general. 
+}
+AgainstWind {
+ Características que indican cómo se navega el barco cuando el viento sopla de lado. Cuanto más alto sea el número, más se aproxima el barco a la dirección del viento. Los barcos con velas latinas se adaptan mejor al viento de lado.
+}
+Capacity {
+ Bodega: indica el volumen actual y máximo de la bodega de carga. Cuanto menos espacio libre quede, más lento y de peor manejo se volverá el barco. 
+ Cualquier arma que coloques también afectará al espacio de almacenamiento. Puedes sacarlas del barco para meter más cargamento si vas a la parte de abajo de esta interfaz y haces doble clic en 'Cañones'. 
+}
+Crew {
+ Tripulación: indica el número actual de miembros de la tripulación, además de las cantidades mínimas y máximas, del barco seleccionado. 
+}
+CannonType {
+ Tipo de cañón: indica la clase (cañón o culebrina), el calibre y el número de cañones montados. 
+}
+sCannons {
+ Indica el calibre máximo y el número máximo de cañones que se pueden colocar en el barco. 
+}
+Crew_Exp {Experiencia de la tripulación}
+Crew_Exp_hint {
+ La experiencia de la tripulación se divide en tres categorías: mar (afecta al control del barco), cañonero (afecta a la velocidad de recarga y la precisión de los cañones) y abordaje (eficacia del equipo en combates cuerpo a cuerpo). 
+ Una tripulación pequeña pero con experiencia puede resultar más útil que un montón de novatos. 
+ La tripulación adquiere experiencia en las tres categorías a medida que realizan sus trabajos (Maniobrabilidad, Cañones y Abordaje), pero también la puede perder si no practican sus habilidades durante mucho tiempo.}
+TakeAllGoods_hint {
+ El botón 'Transferir cargamento' gestiona el cargamento de las mercancías al barco del personaje teniendo en cuenta el precio medio. Primero se cargan los objetos más caros y después los menos caros uno a uno, hasta que no quede espacio en la bodega. 
+}
+GoodsKeys_hint {
+ Si usas la flecha hacia la derecha y hacia la izquierda del teclado puedes cargar objetos por montones. Si pulsas una de las flechas mientras mantienes pulsado la tecla [Mayús], seleccionarás la cantidad máxima posible. Haz clic con el botón derecho del ratón sobre un objeto para seleccionar 10 unidades de golpe.
+}
+Shipyard_hint {
+ Puedes comprar, reparar y vender barcos en el astillero. 
+ El héroe no puede vender su barco si tiene acompañantes. Además, no puede comprar un barco para un compañero si no tiene su propia embarcación. 
+ Para cambiar el barco del héroe o su acompañante sin perder el cargamento de la bodega y la tripulación, ve a la lista de barcos de la escuadra (a la izquierda de la pantalla) y elige el barco que te gustaría cambiar por uno nuevo. Entonces, elige el barco que quieras en la lista de embarcaciones a la venta del astillero (en la derecha de la pantalla). Por último, pulsa el botón 'Comprar'. Para comprar un barco nuevo (y designar a un acompañante), deberías comprar una ranura vacía de la lista de la izquierda. 
+}
+NoneBoat2 {
+ Sin barco. 
+}
+DLG_TEXT_BASE[456] {}
+DLG_TEXT_BASE[457] {}
+ {}
+ {}

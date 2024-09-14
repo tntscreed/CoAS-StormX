@@ -1,0 +1,17 @@
+string DLG_TEXT_TV [15] = {
+	"Fragen, ",
+	"Was wünscht Ihr, ",
+	"Hmm ... Flirten Sie etwa mit mir, ",
+	"? Schon wieder diese seltsamen Fragen ...",
+	"Das ist das dritte Mal für heute, dass Sie mit irgendeiner Frage ankommen ... Wollen Sie mir etwa den Hof machen?",
+	"Wollen schon wieder Ihre Fragen stellen, ",
+	"Entschuldigung, vergessen Sie es ...",
+	"Äh, ja. Ich sehe, dass Sie beschäftigt sind, wir können nächstes Mal reden.",
+	"Oh nein, hinreißend, überhaupt nicht ...",
+	"Nicht wirklich, Liebling. Einfach nur vergesslich ...",
+	"Oh nein, keine Fragen ...",
+	"Mein Herr, ich einfach nur froh, dass ich noch am Leben bin! Außerdem bin ich glücklich, weil ...",
+	"Weil was?",
+	"Ich bin außerdem glücklich, weil ich mich in Gesellschaft mit einem großartigen Kapitän und Offizier befinde! Das ganze Fort dankt Ihnen. Sie haben uns wahrlich gerettet!",
+	"Also bitte. Ich habe einfach meine Pflicht erfüllt ...",
+};

@@ -1,0 +1,18 @@
+string DLG_TEXT_Q [16] = {
+	"Hablad con el capitán. Yo no tengo nada que deciros.",
+	"Humm... Vale, de acuerdo.",
+	"Hablad con el capitán. Yo no tengo nada que deciros.",
+	"Humm... Vale, de acuerdo.",
+	"Mirad por dónde, ha venido él mismo... Bueno, ya que estáis aquí, podéis hablar con el capitán. Podéis contarle vuestras penas a él.",
+	"¡Ja! ¡Menudo estáis hecho, amigo! Eso todavía no lo he visto... Id a ver al capitán, hablará con vos.",
+	"Pues vaya...",
+	"Hablad con el jefe. Yo no tengo nada que deciros.",
+	"Estoy de servicio. Si no tenéis nada que preguntar, id a ver al comandante del fortín.",
+	"Humm... Vale, de acuerdo.",
+	"Ahora mismo estoy muy ocupado. Dejadme en paz.",
+	"No me molestéis, estoy trabajando. No tenemos nada de que hablar.",
+	"Pues vaya...",
+	"Morgan quería veros y tener una charlita con vos. Está por alguna parte de la cubierta.",
+	"Eh, id a buscar a Morgan. Os esperan malas noticias...",
+	"Humm... Vale, de acuerdo.",
+};

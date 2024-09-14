@@ -1,0 +1,15 @@
+string DLG_TEXT_TV [13] = {
+	"Cada rumor en la ciudad de ",
+	" a vuestro servicio. ¿Qué queréis saber?",
+	"Acabamos de tratar este tema. Supongo que lo habéis olvidado...",
+	"Esta es la tercera vez hoy que habláis sobre un tema...",
+	"Empezáis a parecer un loro...",
+	"¿Sabéis?, ",
+	", quizás la próxima vez.",
+	"Así es, olvidé que...",
+	"Una, dos... Es cierto, ¡es la tercera!",
+	"Sí, está bien...",
+	"Oíd tabernero, busco a Steve Linney. ¿Os importaría decirme si ha pasado por aquí?",
+	"Solía venir por aquí y sentarse con su amigo siempre. No sé dónde está últimamente. Su amigo acaba de abandonar la isla en un lugre ahora mismo. Podréis cogerlo por mar si os dais prisa, preguntadle a él dónde está Linney.",
+	"¡Gracias!",
+};

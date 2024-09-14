@@ -1,0 +1,88 @@
+Address_FormSpa {Señor }
+Address_FormFra {Señor }
+Address_FormEng {Señor }
+Address_FormHol {Señor }
+Address_FormPir {Señor }
+Address_FormFSpa {Señorita }
+Address_FormFFra {Señorita }
+Address_FormFEng {Señorita }
+Address_FormFHol {Señorita }
+Address_FormFPir {Señorita }
+Address_FormSpaW {Señora }
+Address_FormFraW {Señora }
+Address_FormEngW {Señora }
+Address_FormHolW {Señorita }
+Address_FormPirW {Señora }
+Swear_1 {¡Ay, caramba! }
+Swear_2 {¡Maldición! }
+Swear_3 {¡Maldita sea! }
+Swear_4 {¡Demonios! }
+Swear_5 {¡Rayos y truenos! }
+Swear_6 {¡Rayos, truenos y centellas! }
+Swear_7 {¡Uf! }
+Swear_8 {¡Malditos sean todos los pecados! }
+Swear_9 {¡Ajá! }
+Swear_10 {¡Que me parta un rayo! }
+Swear_11 {¡Virgen santa! }
+Swear_12 {¡Dios mío! }
+Swear_13 {¡Oh, Dios! }
+TimeGreeting_1 {Buenas tardes}
+TimeGreeting_2 {Buenos días}
+TimeGreeting_3 {A los buenos días}
+TimeGreeting_4 {Buenas noches}
+TimeGreeting_5 {Hola}
+Title_0 {Ninguno}
+Title_1_Pir {Pirata}
+Title_1_Hol {Filibustero}
+Title_1_Eng {Corsario}
+Title_1_Fra {Corsario}
+Title_1_Spa {Corsario}
+Title_2 {Comandante}
+Title_3 {Capitán}
+Title_4 {Comodoro}
+Title_5 {Almirante}
+NationKingsCrownEng {Corona británica}
+NationKingsCrownFra {Corona francesa}
+NationKingsCrownSpa {Corona española}
+NationKingsCrownHol {Reino de los Países Bajos}
+NationKingsCrownPir {Cofradía de los Hermanos de la Costa}
+NationKingsNameEng {Su Majestad Carlos II Estuardo}
+NationKingsNameFra {Su Majestad Luis XIV}
+NationKingsNameSpa {Su Majestad católica Carlos II de Habsburgo}
+NationKingsNameHol {Su Majestad Guillermo III de Orange}
+NationKingsNamePir {Cofradía de los Hermanos de la Costa}
+NationNameManEng {Inglés}
+NationNameManFra {Francés}
+NationNameManSpa {Corona española}
+NationNameManHol {Holandés}
+NationNameManPir {Pirata}
+NationNamePeopleEng {Inglés}
+NationNamePeopleFra {Francés}
+NationNamePeopleSpa {Español}
+NationNamePeopleHol {Holandés}
+NationNamePeoplePir {Piratas}
+NationNamePeopleEngAcc {por los ingleses}
+NationNamePeopleFraAcc {por los franceses}
+NationNamePeopleSpaAcc {por los españoles}
+NationNamePeopleHolAcc {por los holandeses}
+NationNamePeoplePirAcc {por los piratas}
+NationNameAblativeEng {Inglaterra}
+NationNameAblativeFra {Francia}
+NationNameAblativeSpa {España}
+NationNameAblativeHol {Holanda}
+NationNameAblativePir {por los piratas}
+NationNameNominativeEng {Inglaterra}
+NationNameNominativeFra {Francia}
+NationNameNominativeSpa {España}
+NationNameNominativeHol {Holanda}
+NationNameNominativePir {Cofradía de los Hermanos de la Costa}
+NationNameGenitiveEng {Inglaterra}
+NationNameGenitiveFra {Francia}
+NationNameGenitiveSpa {España}
+NationNameGenitiveHol {Holanda}
+NationNameGenitivePir {piratas}
+NationEuropaTownEng {Londres}
+NationEuropaTownFra {La Rochelle}
+NationEuropaTownSpa {Sevilla}
+NationEuropaTownPir {Tortuga}
+NationEuropaTownHol {Ámsterdam}

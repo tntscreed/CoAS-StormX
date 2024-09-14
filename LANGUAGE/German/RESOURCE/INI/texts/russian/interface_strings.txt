@@ -1,0 +1,102 @@
+Delete profile confirm {Möchten Sie dieses Profil und seinen gesamten gespeicherten Fortschritt wirklich löschen?}
+Delete savefile confirm {Möchten Sie diesen Spielstand wirklich löschen?}
+Overwrite savefile confirm {Möchten Sie diesen Spielstand wirklich überschreiben?}
+Low storage and unable save create {Kein ausreichender Platz für Spielstand.}
+Load game confirm {Möchten Sie dieses Spiel wirklich laden?}
+Unable to Load save game {Spiel konnte nicht geladen werden.}
+Salary info {Ihre Mannschaft verlangt die monatliche Heuer. \nMöchten Sie sie ihnen geben?}
+All info {Summe: }
+New game confirm {Möchten Sie wirklich ein neues Spiel starten?}
+Insert Disk Ok {Bitte legen Sie Disk 1 ein.}
+save game limit {Sie haben das Speicherlimit überschritten. Bitte löschen Sie einige ältere Spielstände.}
+SaveLimit {In diesem Spiel können Sie nur in einer Kirche speichern.}
+FoodLimit {Nahrung auf dem Schiff für}
+Weight {Gewicht}
+Weight pcs {Gewichtseinheiten}
+Dist {Entf}
+Damage {Schaden}
+Time {Zeit}
+Ship__ {Schiff: '}
+Trade interface {Handelsmenü}
+Trade_interface_hint_1 {Doppelklicken Sie auf die Zeilen der Tabelle oder drücken Sie die [Eingabetaste], um das Kauf-/Verkauf-Menü zu öffnen. 
+ Halten Sie die [Umschalttaste] gedrückt und drücken Sie den Links- oder Rechts-Pfeil, um alle Werte auf dem Formular auf den Höchstwert zu setzen. 
+ Geben Sie eine positive ganze Zahl zum Kaufen und eine negative (mit einem Minuszeichen) zum Verkaufen ein. 
+ Drücken Sie den Links- oder Rechts-Pfeil, um den Wert der Einheiten zu ändern (halten Sie die [Umschalttaste] gedrückt, um die Maximalwerte festzulegen). Drücken Sie zur Bestätigung die [Eingabetaste] und zum Abbrechen [Esc]. 
+ Auf dem Formular oder beim Herunterblättern der Tabelle können Sie Beschreibungen der Gegenstände unter dem Tabellenzeiger lesen.}
+Trade_interface_hint_2 {So verkaufen Sie schnell alles: drücken Sie den Oben- oder Unten-Pfeil; [Umschalttaste] + Rechts-Pfeil und drücken Sie dann die [Eingabetaste]}
+Trade_interface_hint_3 {Farben - rot: Schmuggelware; blau: Import; grün: Export}
+__pack {, Pack}
+Sell {Verkaufen}
+Gold {Gold}
+__weight {, Gewicht}
+cwt {Zentner}
+Buy {Kaufen}
+Pack {Pack}
+Pack weight {Packgewicht}
+_Robbery {: Raubüberfall}
+Robbery_interface {Übersicht Stadtüberfall}
+Robbery_interface_hint_1 {Doppelklicken Sie auf die Zeilen der Tabelle oder drücken Sie die [Eingabetaste], um das Menü zur Gegenstandsorganisation zu öffnen. 
+ Halten Sie die [Umschalttaste] gedrückt und drücken Sie den Links- oder Rechts-Pfeil, um alle Werte auf dem Formular auf den Höchstwert zu setzen. 
+ Geben Sie eine positive ganze Zahl zum Kaufen und eine negative (mit einem Minuszeichen) zum Verkaufen ein. 
+ Drücken Sie den Links- oder Rechts-Pfeil, um den Wert der Einheiten zu ändern (halten Sie die [Umschalttaste] gedrückt, um die Maximalwerte festzulegen). Drücken Sie zur Bestätigung die [Eingabetaste] und zum Abbrechen [Esc]. 
+ Auf dem Formular oder beim Herunterblättern der Tabelle können Sie Beschreibungen der Gegenstände unter dem Tabellenzeiger lesen.}
+Robbery_interface_hint_2 {So nehmen Sie schnell alles: drücken Sie den Oben- oder Unten-Pfeil; [Umschalttaste] + Rechts-Pfeil; [Eingabetaste]}
+City {Stadt}
+Leave {Verlassen}
+Take {Nehmen}
+Item name {Gegenstandsname}
+Qty {Menge}
+Items {Gegenstände}
+Items_hint_1 {In dieser Übersicht sehen Sie den Helden und können Ihn mit Schwert, Pistole, Fernrohr oder Brustpanzer ausstatten. 
+ Gleichzeitig sehen Sie Inventar, Gefährten und Passagiere Ihrer Offiziere. Sie wählen ihre eigenen Waffen, nachdem Sie mit neuer Ausrüstung ausgestattet wurden. 
+ An Land können Sie Gegenstände mit Ihren Offizieren tauschen, indem Sie den Befehl 'Handeln' verwenden.}
+Items2 {Ihre Gegenstände}
+Trader items {Händlerangebot}
+Trader_items_hint_1 {Doppelklicken Sie auf die Zeilen der Tabelle oder drücken Sie die [Eingabetaste], um das Kauf-/Verkauf-Menü zu öffnen. 
+ Halten Sie die [Umschalttaste] gedrückt und drücken Sie den Links- oder Rechts-Pfeil, um alle Werte auf dem Formular auf den Höchstwert zu setzen. 
+ Geben Sie eine positive ganze Zahl zum Kaufen und eine negative (mit einem Minuszeichen) zum Verkaufen ein. 
+ Drücken Sie den Links- oder Rechts-Pfeil, um den Wert der Einheiten zu ändern (halten Sie die [Umschalttaste] gedrückt, um die Maximalwerte festzulegen). Drücken Sie zur Bestätigung die [Eingabetaste] und zum Abbrechen [Esc]. 
+ Auf dem Formular oder beim Herunterblättern der Tabelle können Sie Beschreibungen der Gegenstände unter dem Tabellenzeiger lesen.}
+Trader_items_hint_2 {Die 'Verkaufsliste' zeigt keine vom Charakter angelegten Gegenstände an.}
+Trader {Händler}
+Ships {Schiffe}
+Stat_1 {Durch Kanone versenkt}
+Stat_2 {Durch Entern versenkt}
+Stat_3 {Durch Entern erobert}
+Class {Klasse}
+Killed {Getötet}
+Stat_4 {mit Schwert}
+Stat_5 {mit Pistole}
+Stat_6 {Soldaten}
+Stat_7 {Bürger}
+Stat_8 {Böse}
+Stat_9 {Andere}
+Total {Insgesamt}
+Stat_11 {Ereignisse}
+Stat_12 {Bedeutung}
+Stat_13 {Verkaufte Schiffe}
+Stat_14 {Gekaufte Schiffe}
+Stat_15 {Meutereien}
+Stat_16 {Sklavenaufstände}
+Stat_17 {Ereignisse}
+Stat_18 {Zerstörte Festungen}
+Stat_19 {Eroberte Städte}
+Stat_20 {Geplünderte Städte}
+Stat_21 {Gekaperte Schiffe}
+Stat_22 {Versenkte Schiffe}
+Stat_23 {DARLEHEN}
+Stat_24 {Freigegebene Schiffe}
+Stat_25 {England}
+Summ {Summe:}
+Date {Datum}
+Stat_26 {Monate}
+Stat_27 {EINSPARUNGEN}
+Nation {Nation}
+Place {Platz}
+Actuality {Datum}
+Type {Typ}
+Trade_interface_hint_4 {Doppelklicken Sie auf die Zeilen der Tabelle oder drücken Sie die [Eingabetaste], um das Kauf-/Verkauf-Menü zu öffnen. 
+ Halten Sie die [Umschalttaste] gedrückt und drücken Sie den Links- oder Rechts-Pfeil, um alle Werte auf dem Formular auf den Höchstwert zu setzen. 
+ Geben Sie eine positive ganze Zahl zum Kaufen und eine negative (mit einem Minuszeichen) zum Verkaufen ein. 
+ Drücken Sie den Links- oder Rechts-Pfeil, um den Wert der Einheiten zu ändern (halten Sie die [Umschalttaste] gedrückt, um die Maximalwerte festzulegen). Drücken Sie zur Bestätigung die [Eingabetaste] und zum Abbrechen [Esc]. 
+ Auf dem Formular oder beim Herunterblättern der Tabelle können Sie Beschreibungen der Gegenstände unter dem Tabellenzeiger lesen.}

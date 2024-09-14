@@ -1,0 +1,435 @@
+newLine {
+
+
+}
+HelpChooser {Choisissez la section d'aide}
+MainInterface {Paramètres d'interface}
+DialogControls {Dialogues}
+WorldMapControls {Carte du monde}
+BattleInterfaceControls {Paramètres des commandes}
+Sailing1Pers {Vue maritime à la première personne}
+Sailing3Pers {Vue maritime à la troisième personne}
+FightModeControls {Mode de bataille}
+PrimaryLand {Commandes de débarquement}
+ChrCamTurnV {
+ Caméra du personnage (axe Y) 
+
+}
+ChrCamTurnH {
+ Caméra du personnage (axe X) 
+
+}
+ChrCamCameraSwitch {
+ Modifier la caméra (première/troisième personne) 
+
+}
+ChrCamNormalize {
+ Centrer la caméra 
+
+}
+ShipCamera_Turn_V {
+ Caméra du vaisseau (axe Y) 
+
+}
+ShipCamera_Turn_H {
+ Caméra du vaisseau (axe X) 
+
+}
+ShipCamera_Forward {
+ Zoom avant sur le vaisseau 
+
+}
+ShipCamera_Backward {
+ Zoom arrière du vaisseau 
+
+}
+DeckCamera_Turn_V {
+ Caméra du pont (axe Y) 
+
+}
+DeckCamera_Turn_H {
+ Caméra du pont (axe X) 
+
+}
+DeckCamera_Forward {
+ Zoom avant sur le pont 
+
+}
+DeckCamera_Backward {
+ Zoom arrière sur le pont 
+
+}
+DeckCamera_Left {
+ Vue gauche (vue du pont) 
+
+}
+DeckCamera_Right {
+ Vue droite (vue du pont) 
+
+}
+ChrTurnH {
+ Faire pivoter le personnage 
+
+}
+ChrTurnV {
+ Déplacer le personnage 
+
+}
+ChrTurnHL {
+ Faire pivoter le personnage à gauche 
+
+}
+ChrTurnHR {
+ Faire pivoter le personnage à droite 
+
+}
+ChrAction {
+ Action 
+
+}
+ChrForward {
+ Avancer 
+
+}
+ChrForward1 {
+ Avancer 
+
+}
+ChrForward2 {
+ Avancer (méthode alternative) 
+
+}
+ChrBackward {
+ Reculer 
+
+}
+ChrBackward1 {
+ Reculer 
+
+}
+ChrRun {
+ Activer la course 
+
+}
+ChrRunStick {
+ Activer la course 
+
+}
+ChrBlock {
+ Blocage 
+
+}
+ChrRecoil {
+ Recul 
+
+}
+ChrParry {
+ Esquive 
+
+}
+ChrAttackForce {
+ Reculer 
+
+}
+ChrAttackFast {
+ Trancher 
+
+}
+ChrAttackRound {
+ Frapper 
+
+}
+ChrAttackBreak {
+ Coup d'épée 
+
+}
+ChrAttackFient {
+ Feinter 
+
+}
+ChrAttackBreakBase {
+ Coup d'épée et feinte 
+
+}
+ChrAttackRoundBase {
+ Frapper 
+
+}
+ChrAttackChoseBase {
+ Changer d'attaque 
+
+}
+ChrBlockBase {
+ Bloquer 
+
+}
+ChrAttackBase {
+ Reculer et esquiver 
+
+}
+ChrAltAttackBase {
+ Trancher et coup d'épée 
+
+}
+ChrFire {
+ Tirer 
+
+}
+ChrFightMode {
+ Activer mode d'attaque 
+
+}
+BOAL_UsePotion {
+ Boire élixir de santé 
+
+}
+BOAL_ActivateRush {
+ Passer en furie 
+
+}
+BOAL_DeadSearch {
+ Fouiller le corps 
+
+}
+Ship_TurnLeft {
+ Faire tourner le vaisseau vers la gauche 
+
+}
+Ship_TurnRight {
+ Faire tourner le vaisseau vers la droite 
+
+}
+Ship_SailUp {
+ Lever les voiles 
+
+}
+Ship_SailDown {
+ Baisser les voiles 
+
+}
+Ship_Fire {
+ Faire feu avec les canons 
+
+}
+Sea_CameraSwitch {
+ Activer la caméra du vaisseau 
+
+}
+Telescope {
+ Activer la lunette 
+
+}
+TelescopeIn {
+ Zoom de la lunette 
+
+}
+TelescopeOut {
+ Quitter la vue de la lunette 
+
+}
+BI_MapEnter {
+ Passer en mode carte 
+
+}
+WMapTurnH {
+ Faire pivoter la caméra (mode carte) 
+
+}
+WMapTurnV {
+ Ajuster la hauteur de la caméra (mode carte) 
+
+}
+WMapCameraRotate {
+ Activer le mode glissée (mode carte) 
+
+}
+WMapForward {
+ Zoom avant de la caméra 
+
+}
+WMapBackward {
+ Zoom arrière de la caméra 
+
+}
+WMapCameraSwitch {
+ Changer de mode caméra 
+
+}
+WMapShipSailUp {
+ Naviguer vers l'avant 
+
+}
+WMapShipSailDown {
+ Naviguer vers l'arrière 
+
+}
+WMapShipTurnLeft {
+ Tourner à gauche 
+
+}
+WMapShipTurnRight {
+ Tourner à droite 
+
+}
+WMapCancel {
+ Quitter vers la vue maritime 
+
+}
+Interface {
+ Paramètres d'interface 
+
+}
+MainMenu {
+ Menu principal 
+
+}
+MainMenuDouble {
+ Menu principal 
+
+}
+Help {
+ Aide 
+
+}
+BICommandsActivate {
+ Menu des commandes 
+
+}
+LICommandsActivate {
+ Menu des commandes 
+
+}
+BICommandsConfirm {
+ Confirmer commande 
+
+}
+BICommandsCancel {
+ Annuler commande 
+
+}
+BICommandsLeft {
+ Déplacer le menu à gauche 
+
+}
+BICommandsRight {
+ Déplacer le menu à droite 
+
+}
+MiniMapZoomIn {
+ Zoom avant sur la carte 
+
+}
+MiniMapZoomOut {
+ Zoom arrière sur la carte 
+
+}
+BIFastCommand {
+ Commande rapide 
+
+}
+HelpChooser_Cancel {
+ Quitter le menu d'aide 
+
+}
+HelpChooser_Action {
+ Aider avec ce sujet 
+
+}
+HelpChooser_Next {
+ Info suivante 
+
+}
+HelpChooser_Prev {
+ Info précédente 
+
+}
+HelpChooser_Left {
+ Gauche (menu d'aide) 
+
+}
+HelpChooser_Right {
+ Droite (menu d'aide) 
+
+}
+HelpChooser_Up {
+ Haut (menu d'aide) 
+
+}
+HelpChooser_Down {
+ Bas (menu d'aide) 
+
+}
+DlgAction {
+ Choisir réponse 
+
+}
+DlgAction1 {
+ Choisir réponse 
+
+}
+DlgUp {
+ Option de dialogue précédente 
+
+}
+DlgDown {
+ Option de dialogue suivante 
+
+}
+DlgScrollUp {
+ Faire descendre le texte de dialogue 
+
+}
+DlgScrollDown {
+ Faire monter le texte de dialogue 
+
+}
+hk_charge1 {
+ Armer de boulets 
+
+}
+hk_charge2 {
+ Armer de mitraille 
+
+}
+hk_charge3 {
+ Armer de chaînes lestées 
+
+}
+hk_charge4 {
+ Armer de bombes 
+
+}
+hk_Cure {
+ Utiliser élixir de santé 
+
+}
+hk_Rush {
+ Utiliser la capacité Furie 
+
+}
+hk_ImmediateReload {
+ Initier rechargement rapide 
+
+}
+hk_LightRepair {
+ Initier réparations légères 
+
+}
+hk_InstantRepair {
+ Initier réparations rapides 
+
+}
+hk_Turn180 {
+ Tournant à 180 degrés 
+
+}
+hk_SandbankManeuver {
+ Manœuvre d'esquive de banc de sable 
+
+}
+ChrStrafeLeft {
+ Déplacer à gauche 
+}
+ChrStrafeRight {
+ Déplacer à droite 
+}

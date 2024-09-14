@@ -1,0 +1,37 @@
+Ship_got_good {%1 unités sur %2 sauvées}
+Ship_cant_got_good {Pas de place pour %1 !}
+seg_Balls {Boulets}
+seg_Grapes {Mitraille}
+seg_Knippels {Chaînes lestées}
+seg_Bombs {Bombes}
+seg_Sailcloth {Toile}
+seg_Planks {Planches}
+seg_Slaves {Esclaves}
+seg_Wheat {Blé}
+seg_Ebony {Ébène}
+seg_Chocolate {Cacao}
+seg_Sugar {Sucre}
+seg_Wine {Vin}
+seg_Linen {Lin}
+seg_Rum {Rhum}
+seg_Tobacco {Tabac}
+seg_Coffee {Café}
+seg_Mahogany {Acajou}
+seg_Cinnamon {Cannelle}
+seg_Copra {Copra}
+seg_Paprika {Paprika}
+seg_Fruits {Fruits}
+seg_Ale {Bière}
+seg_Silk {Soie}
+seg_Clothes {Vêtements}
+seg_Cotton {Coton}
+seg_Sandal {Santal}
+seg_Leather {Cuir}
+seg_Oil {Huile}
+seg_Food {Rations}
+seg_Weapon {Armes}
+seg_Gold {Or}
+seg_Silver {Argent}
+seg_Powder {Poudre}
+seg_Brick {Briques}
+seg_Medicament {Remèdes}

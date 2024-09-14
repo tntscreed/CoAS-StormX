@@ -1,0 +1,65 @@
+CARDS_RULE {Giochiamo a Ventuno. Le regole sono semplici. Il mazzo è composto da 36 carte, dai sei agli assi. Gli assi valgono 11, i re 4, le regine 3, i fanti 2. Le altre carte assumono il loro normale valore numerico. Lo scopo è ottenere 21 punti.    \n A ciascuno viene distribuita una carta, quindi dobbiamo chiederne altre. (Fai clic sul mazzo.) Fai clic sul profilo in alto a destra per terminare il turno. Se il punteggio supera 21, il gioco termina. Ogni carta equivale a una scommessa. Puoi iniziare una partita se disponi di denaro sufficiente per tre puntate. Per ripetere una partita, fai clic sul mazzo. Per uscire, premi il pulsante X o il tasto [Esc].}
+DICE_RULE {Giochiamo a Poker joker. Ogni giocatore ha cinque dadi che vengono gettati a turno. Puoi lanciare quanti dadi vuoi e scommettere su ciascuno, ma solo una volta. Lo scopo è ottenere il lancio più alto.    \n Ecco i valori in ordine crescente: una coppia (2), due coppie (2+2), tris (3), full (3+2), quartetto (4), scala (numeri in ordine) e poker (5). In caso di pareggio, vince il giocatore con la combinazione più alta. Fai clic sul vetro per lanciare i dadi e su questi ultimi per lanciare di nuovo. Per scommettere devi avere dei soldi. Fai clic sul ritratto per passare un turno quando non vuoi gettare i dadi di nuovo.}
+Dice_1 {Io sono il primo.}
+Dice_2 {Tu sei il primo. Forza, non farci aspettare.}
+Dice_3 {Iniziamo la partita.}
+Dice_4 {Puntate.}
+Dice_5 {Continua la partita.}
+Dice_6 {Puntate.}
+Dice_7 {Ora è il tuo turno. Forza, non farci aspettare.}
+Dice_8 {Fai la tua scelta. Decidi cosa gettare.}
+Dice_9 {Ora tocca a me.}
+Dice_10 {Aspetta... Devo decidere cosa gettare.}
+Dice_11 {Io ho}
+Dice_12 {. Tu hai}
+Dice_13 {Ah! È un pareggio! Continuiamo.}
+Dice_14 {Ehi, ho vinto.}
+Dice_15 {Pare che tu abbia vinto.}
+Dice_16 {Sei spacciato! Ho vinto!}
+Dice_17 {Basta, ne ho abbastanza.}
+Dice_18 {Sono spacciato! Hai vinto!}
+Dice_19 {Basta, ne ho abbastanza.}
+Dice_20 {Ancora una?}
+Dice_21 {Basta, ne ho abbastanza.}
+Dice_22 {niente}
+Dice_23 {poker}
+Dice_24 {scala}
+Dice_25 {quartetto}
+Dice_26 {full}
+Dice_27 {tris}
+Dice_28 {doppia coppia}
+Dice_29 {coppia}
+Dice_30 {Lancio un dado...}
+Dice_31 {Lancio questi...}
+Dice_32 {Lancio questi...}
+Dice_33 {Ora non lancio.}
+Cards_1 {Come, hai finito il denaro? Poverino!}
+Cards_2 {Accidenti, sono spacciato! Che serie di sconfitte!}
+Cards_3 {Apriamo!}
+Cards_4 {Una carta a me.}
+Cards_5 {Ora una carta a te.}
+Cards_7 {È il tuo turno!}
+Cards_8 {Dai, non esagerare...}
+Cards_9 {Forza, prendi una carta! Non farci aspettare!}
+Cards_10 {Una carta a me.}
+Cards_11 {Metto una moneta!}
+Cards_12 {È il mio turno!}
+Cards_13 {Vediamo cosa abbiamo qui...}
+Cards_14 {Maledizione...}
+Cards_15 {Ah! Hai sballato! Ho vinto.}
+Cards_16 {Ops, ho sballato! Hai vinto.}
+Cards_17 {Un altro giro?}
+Cards_18 {Ancora una?}
+Cards_19 {Basta, ne ho abbastanza.}
+Cards_20 {Mi fermo. Apri!}
+Cards_21 {Ora tocca a te! Io mi fermo.}
+Cards_22 {Volta le carte.}
+Cards_23 {Puntate.}
+Cards_24 {Hai vinto. Hai}
+Cards_25 { e io ho}
+Cards_26 {La fortuna è dalla mia parte. Io ho}
+Cards_27 { e tu hai}
+Cards_28 {. Ho vinto!}
+Cards_29 {Un altro giro?}
+Cards_30 {Ancora una?}
+Cards_31 {Basta, ne ho abbastanza.}

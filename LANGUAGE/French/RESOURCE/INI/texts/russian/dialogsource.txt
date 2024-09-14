@@ -1,0 +1,95 @@
+Name_Section {///////////////////////////////////////////////////////////////////////}
+StartShip {Wind Chaser}
+Sandro {Sandro}
+Torn {Torn}
+Jim {Jim}
+Hopkince {Hopkins}
+Devy {Davy}
+Jons {Jones}
+GhostShipName {Hollandais volant}
+Tomas {Thomas}
+Modyford {Modyford}
+Francisko {Francisco}
+Oregon Gaskon {Oregon y Gascon}
+Bertran {Bertrand}
+d Ogeron {d'Ogeron}
+Peter {Pieter}
+Stuvesant {Stuvesant}
+Henry {Henry}
+Morgan {Morgan}
+Oliver {Oliver}
+Green {Green}
+Isabella {Isabella}
+Olevares {Olevarez}
+Ascold {Askold}
+demon {démon}
+Azzy {Azzy}
+Diplomat {Diplomate}
+Smuggler {Contrebandier}
+Angela {Angela}
+Jackman {Jackmann}
+Manchester {Manchester}
+Master {Maître}
+Alexus {Alexis}
+Pascal {Pascal}
+Viwasie {Vousier}
+Richard {Richard}
+Sawkins {Sawkins}
+John {John}
+Norton {Norton}
+Bartholomew {Barthélemy}
+Sharp {Sharp}
+Sharpy {Sharpy}
+Tanneken {Tanneken}
+Clemence {Clémence}
+Joao {Joao}
+Ilhaio {d'Ylan}
+Yozef Nunen {Joseph Nunez}
+de Fonkesao {de Fonseca}
+Venetu {Venetu}
+Falcon_Eye {Hawkeye}
+Mitich {Goyko Mitich}
+White {Blanc}
+Boy {Garçon}
+Liticia {Leticia}
+Angelica {Angelica}
+Viven {Vivien}
+Simona {Simona}
+Milantra {Milantra}
+Iolanta {Jolanta}
+Margaret {Margareth}
+Edward {Edward}
+Mansfield {Mansfield}
+Hose {José}
+Sanchos Himenes {Sánchez Jiménez}
+Fernando {Fernando}
+Torres {Torres}
+Armo {Armo}
+Prescott {Prescott}
+Alex {Alex}
+Winner {Winner}
+Other_Section {///////////////////////////////////////////////////////////////////////}
+LAi_utilites_1 {La sentinelle, lorsqu'elle est entrée près de la colonie, est parvenue à déclencher l'alarme. Le groupe de pêcheurs de perles a fui dans la jungle pour se cacher.}
+ItemLogic_1 {Vous ne disposez pas de l'objet nécessaire.}
+ItemLogic_2 {C'est un piège !}
+CannonTypeName_12 {Canon de 12 livres}
+CannonTypeName_16 {Canon de 16 livres}
+CannonTypeName_24 {Canon de 24 livres}
+CannonTypeName_32 {Canon de 32 livres}
+CannonTypeName_42 {Canon de 42 livres}
+CannonTypeName_48 {Canon de 48 livres}
+CulTypeName_12 {Couleuvrine de 12 livres}
+CulTypeName_16 {Couleuvrine de 16 livres}
+CulTypeName_24 {Couleuvrine de 24 livres}
+CulTypeName_32 {Couleuvrine de 32 livres}
+LAi_warrior_1 {Richard Sawkins a été témoin de votre attaque traîtresse. Les pirates vont maintenant vous traquer comme le chien de mer que vous êtes.}
+LAi_utils_1 {Perles noires récupérées}
+Rummor_1 {Avez-vous entendu parler d'Humphrey Douglas ? Un si bon soldat, tombé si loin !}
+Tresure_1 {Le trésor est proche ! }
+Tresure_2 {Gentlemen de la chance}
+Tresure_3 {Je suis vivant, c'est un miracle ! }
+Tresure_4 {Vous avez découvert un objet très étrange.}
+diamond {diamant}
+ruby {rubis}
+emerald {émeraude}
+sapphire {saphir}
