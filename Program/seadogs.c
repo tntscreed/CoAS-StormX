@@ -36,6 +36,7 @@
 #include "ITEMS\items_utilite.c"
 #include "store\store.h"
 #include "interface\interface.c"
+#include "camera.c"
 
 extern void InitBaseCannons();
 extern void InitCharacters();
